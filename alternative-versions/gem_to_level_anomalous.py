@@ -15,9 +15,9 @@ base_gems_price_list = []
 failed_gems_price_list = []
 successful_gems_price_list = []
 
-base_gems_link = 'https://poe.ninja/challenge/skill-gems?level=16&quality=0-19&corrupted=No&gemType=Phantasmal'
-failed_gems_link = 'https://poe.ninja/challenge/skill-gems?level=20&quality=20&corrupted=Yes&gemType=Phantasmal'
-successful_gems_link = 'https://poe.ninja/challenge/skill-gems?level=21&quality=20&corrupted=Yes&gemType=Phantasmal'
+base_gems_link = 'https://poe.ninja/challenge/skill-gems?level=16&quality=0-19&corrupted=No&gemType=Anomalous'
+failed_gems_link = 'https://poe.ninja/challenge/skill-gems?level=20&quality=20&corrupted=Yes&gemType=Anomalous'
+successful_gems_link = 'https://poe.ninja/challenge/skill-gems?level=21&quality=20&corrupted=Yes&gemType=Anomalous'
 
 name_xpath = '/html/body/div[3]/section/div/main/section/div/div/div[1]/div/div/h1'
 price_xpath = '/html/body/div[3]/section/div/main/section/div/div/div[2]/div[1]/div[2]/div/div[2]/div/span'
@@ -70,7 +70,7 @@ def initial_names_and_price(base_link):
             price_value = driver.find_element(By.XPATH, price_xpath)
             base_gems_price_list.append(price_value.text)
         except NoSuchElementException:
-            print('Too fast something was skipped start over')
+            print('Too fast, something was skipped, start over')
             base_gems_price_list.append('0')
             continue
 
@@ -115,4 +115,4 @@ check_gems(successful_gems_link, successful_gems_price_list)
 
 df = pd.DataFrame({'Gem Name': gem_name_list, 'Base': base_gems_price_list, '20/20': failed_gems_price_list,
                    '21/20': successful_gems_price_list})
-df.to_csv('gems_phantasmal.csv', index=False, encoding='utf-8')
+df.to_csv('gems_anomalous.csv', index=False, encoding='utf-8')

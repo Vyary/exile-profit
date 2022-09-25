@@ -70,7 +70,7 @@ def initial_names_and_price(base_link):
             price_value = driver.find_element(By.XPATH, price_xpath)
             base_gems_price_list.append(price_value.text)
         except NoSuchElementException:
-            print('Too fast something was skipped start over')
+            print('Too fast, something was skipped, start over')
             base_gems_price_list.append('0')
             continue
 
