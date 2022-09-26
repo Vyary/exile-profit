@@ -55,7 +55,7 @@ def initial_names_and_price(base_link):
 
     for g in soup.findAll('a', href=True, attrs={'class': 'css-v20fs0'}):
         g_str = str(g)
-        gem_link = g_str.replace('<a aria-label="See more details about undefined" class="css-v20fs0" href="', '')\
+        gem_link = g_str.replace('<a aria-label="See more details about undefined" class="css-v20fs0" href="', '') \
             .replace('</span></a>', '').split('"><span class="css-106k4h2">')
         # save links in list
         list_of_links.append(gem_link[0])
