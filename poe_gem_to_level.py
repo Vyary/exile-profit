@@ -1,3 +1,4 @@
+import multiprocessing
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.options import Options
@@ -5,11 +6,10 @@ from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
 from selenium.common.exceptions import NoSuchElementException
 from bs4 import BeautifulSoup
-import tqdm
+from tqdm import tqdm
 import pandas as pd
 import os
 import re
-import multiprocessing as mp
 
 PRICE_XPATH = '/html/body/div[3]/section/div/main/section/div/div/div[2]/div[1]/div[2]/div/div[2]/div/span'
 LOW_CONFIDENCE_XPATH = '/html/body/div[3]/section/div/main/section/div/div/div[2]/div[1]/div[2]/div/div[2]/div/div'
@@ -105,7 +105,7 @@ def price_checker(gem_list, price_list):
     driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()),
                               options=chrome_options)
     driver.implicitly_wait(1)
-    for gem in gem_list:
+    for gem in tqdm(gem_list):
         try:
             driver.get(f"https://poe.ninja{gem}")
             gem_price_value = driver.find_element(By.XPATH, PRICE_XPATH)
@@ -147,5 +147,5 @@ def main(test_link):
 
 if __name__ == '__main__':
     testing_lists = [input(), input(), input(), input()]
-    pool = mp.Pool(mp.cpu_count())
-    pool.map(main, testing_lists)
+    with multiprocessing.Pool(4) as pool:
+        pool.map(main, testing_lists)
