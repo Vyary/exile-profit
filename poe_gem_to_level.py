@@ -1,3 +1,5 @@
+import os
+import re
 import multiprocessing
 from selenium import webdriver
 from selenium.webdriver.common.by import By
@@ -8,8 +10,7 @@ from selenium.common.exceptions import NoSuchElementException
 from bs4 import BeautifulSoup
 from tqdm import tqdm
 import pandas as pd
-import os
-import re
+
 
 PRICE_XPATH = '/html/body/div[3]/section/div/main/section/div/div/div[2]/div[1]/div[2]/div/div[2]/div/span'
 LOW_CONFIDENCE_XPATH = '/html/body/div[3]/section/div/main/section/div/div/div[2]/div[1]/div[2]/div/div[2]/div/div'
