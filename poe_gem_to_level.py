@@ -11,7 +11,6 @@ from bs4 import BeautifulSoup
 from tqdm import tqdm
 import pandas as pd
 
-
 PRICE_XPATH = '/html/body/div[3]/section/div/main/section/div/div/div[2]/div[1]/div[2]/div/div[2]/div/span'
 LOW_CONFIDENCE_XPATH = '/html/body/div[3]/section/div/main/section/div/div/div[2]/div[1]/div[2]/div/div[2]/div/div'
 COOKIES_XPATH = '/html/body/div[7]/div/div/div[3]/div[1]/button[2]'
@@ -66,6 +65,7 @@ def initial_page_scrape(content):
         list_of_base_gem_links.append(gem_link[6])
 
 
+# function to make lists with alternative urls for 20-20 and 21-20 gems
 def alternative_link_maker(gem_list, gem_type):
     for link in list_of_base_gem_links:
         if link[-2:] == '20':
@@ -89,6 +89,7 @@ check = {
 }
 
 
+# converting price from decimal separated to a whole number. example: from 1.3k to 1300
 def price_converter(value):
     try:
         price_value = value.split('.')[0] + check[value.split('.')[1]]
@@ -151,6 +152,6 @@ def main(test_link):
 
 
 if __name__ == '__main__':
-    testing_lists = [NORMAL_LINK, ANOMALOUS_LINK, DIVERGENT_LINK, PHANTASMAL_LINK]
+    testing_links = [NORMAL_LINK, ANOMALOUS_LINK, DIVERGENT_LINK, PHANTASMAL_LINK]
     with multiprocessing.Pool(4) as pool:
-        pool.map(main, testing_lists)
+        pool.map(main, testing_links)
