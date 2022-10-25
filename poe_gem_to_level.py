@@ -15,6 +15,10 @@ PRICE_XPATH = '/html/body/div[3]/section/div/main/section/div/div/div[2]/div[1]/
 LOW_CONFIDENCE_XPATH = '/html/body/div[3]/section/div/main/section/div/div/div[2]/div[1]/div[2]/div/div[2]/div/div'
 COOKIES_XPATH = '/html/body/div[7]/div/div/div[3]/div[1]/button[2]'
 SHOW_ALL_XPATH = '/html/body/div[3]/section/div/main/section/div/div/div/button'
+NORMAL_LINK = 'https://poe.ninja/challenge/skill-gems?level=1&quality=20&corrupted=No&gemType=Normal'
+ANOMALOUS_LINK = 'https://poe.ninja/challenge/skill-gems?level=16&quality=0-19&corrupted=No&gemType=Anomalous'
+DIVERGENT_LINK = 'https://poe.ninja/challenge/skill-gems?level=16&quality=0-19&corrupted=No&gemType=Divergent'
+PHANTASMAL_LINK = 'https://poe.ninja/challenge/skill-gems?level=16&quality=0-19&corrupted=No&gemType=Phantasmal'
 
 gem_name_list = []
 list_of_base_gem_links = []
@@ -146,6 +150,6 @@ def main(test_link):
 
 
 if __name__ == '__main__':
-    testing_lists = [input(), input(), input(), input()]
+    testing_lists = [NORMAL_LINK, ANOMALOUS_LINK, DIVERGENT_LINK, PHANTASMAL_LINK]
     with multiprocessing.Pool(4) as pool:
         pool.map(main, testing_lists)
