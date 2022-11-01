@@ -8,7 +8,7 @@
 ## Uses:
 This is python script using selenium to scrape data from https://poe.ninja/. 
 It collects gem names, gem prices and saves them to a csv file. 
-It can be imported in sheets/excel to filter and find what are the best gems to level for in-game profit.
+The csv file can be imported in sheets/excel to filter and find what are the best gems to level for in-game profit.
 ## Installation
 Install the dependencies using the requirements.txt:
 ```sh
