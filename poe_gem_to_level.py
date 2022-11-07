@@ -56,6 +56,7 @@ def go_over_elements(data):
 def save_data():
     save_lst = [[x.name, x.base_price, x.fail_price, x.success_price, x.vaal_price, x.listed]
                 for x in gem_class.Gem.gem_lst]
+    save_lst = sorted(save_lst, key=lambda x: x[3], reverse=True)
     df = pd.DataFrame(save_lst)
     df = df.set_axis(['Gem Name', 'Base', '20/20', '21/20', 'Vaal price', 'Listed'], axis=1)
     df.to_csv('gems.csv', index=False, encoding='utf-8')
