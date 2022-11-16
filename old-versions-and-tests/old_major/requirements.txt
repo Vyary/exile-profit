@@ -1,5 +1,0 @@
-beautifulsoup4==4.11.1
-pandas==1.5.0
-selenium==4.5.0
-tqdm==4.64.1
-webdriver_manager==3.8.3
