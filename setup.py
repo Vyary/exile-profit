@@ -10,9 +10,4 @@ setup(
     url='https://github.com/Vyary/poe-gem-prices',
     install_requires=['requests', 'pandas', 'tqdm'],
     packages=find_packages(),
-    entry_points={
-        'console_scripts': [
-            'poe-gem-prices = poe-gem-prices.poe-gem-prices:main',
-        ],
-    },
 )
