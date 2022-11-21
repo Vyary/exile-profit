@@ -29,7 +29,7 @@ def create_gem_object(gem_name: str, variant: str, price: float, quality: str, l
     :param variant: Gem variants can be 1, 1-20, 20/20c, 21/20c
     :param price: Price of the gem of current varint
     :param quality: Quality type
-    :param listed: How many are on the market including offline listings
+    :param listed: How many successful set gem are listed on the market including offline listings
     :param lst: List of gem objects in gem class
     :return: None
     """
