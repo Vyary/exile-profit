@@ -1,4 +1,4 @@
 # __init__.py
 
-# Version of pgp
+# Version of poe_gem_prices
 __version__ = '1.0.0'
