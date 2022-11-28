@@ -1,7 +1,9 @@
 class Gem:
     gem_lst = []
 
-    def __init__(self, name, base_price=0, fail_price=0, success_price=0, vaal_price=0, listed=0):
+    def __init__(
+        self, name, base_price=0, fail_price=0, success_price=0, vaal_price=0, listed=0
+    ):
         """
         Class for gem objects
         :param name: Gem's name
@@ -9,7 +11,8 @@ class Gem:
         :param fail_price: Price of unsuccessful corruption
         :param success_price: Price of successful corruption
         :param vaal_price: Price of vaal/semi-fail corruption
-        :param listed: How many successful gems of set gem are listed on the market including offline offerings
+        :param listed: How many successful gems of set gem are listed on the market
+         including offline offerings
         """
         self.name = name
         self.base_price = base_price

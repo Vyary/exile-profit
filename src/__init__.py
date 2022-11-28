@@ -1,4 +1,4 @@
 # __init__.py
 
-# Version of poe_gem_prices
+# Version of src
 __version__ = '1.0.0'

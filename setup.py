@@ -11,5 +11,5 @@ setup(
     install_requires=['requests', 'pandas', 'tqdm'],
     packages=find_packages(),
     entry_points={'console_scripts': [
-        "poe-gem-prices=poe_gem_prices.core:main"]},
+        "poe-gem-prices=src.core:main"]},
 )
