@@ -30,10 +30,11 @@ def create_gem_object(
     gem_name: str, variant: str, price: float, quality: str, listed: int
 ) -> None:
     """
-    Creates gem object in the gem class if it doesn't exist and updates the given prices
+    Creates gem object in the gem class if it doesn't exist and
+    updates the given prices
     :param gem_name: Gem's name
     :param variant: Gem variants can be 1, 1-20, 20/20c, 21/20c
-    :param price: Price of the gem of current varint
+    :param price: Price of the gem of current variant
     :param quality: Quality type
     :param listed: Number of successful gems of set gem
     :return: None
@@ -93,7 +94,14 @@ def save_data(list_of_objects: list) -> None:
     :return: None
     """
     save_lst = [
-        [x.name, x.base_price, x.fail_price, x.success_price, x.vaal_price, x.listed]
+        [
+            x.name,
+            x.base_price,
+            x.fail_price,
+            x.success_price,
+            x.vaal_price,
+            x.listed,
+        ]
         for x in list_of_objects
     ]
     sorted_save_lst = sorted(save_lst, key=lambda x: x[3], reverse=True)
@@ -105,10 +113,7 @@ def save_data(list_of_objects: list) -> None:
 
 
 def main():
-    url = (
-        "https://poe.ninja/api/data/"
-        "itemoverview?league=Kalandra&type=SkillGem&language=en"
-    )
+    url = "https://poe.ninja/api/data/itemoverview?league=Kalandra&type=SkillGem&language=en"
     response = requests.get(url).json()
     list_of_objects = go_over_elements(response)
     save_data(list_of_objects)
