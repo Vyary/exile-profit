@@ -35,7 +35,8 @@ The csv file can be imported in sheets/excel to filter and find what are the bes
 
 Where you can find the csv file?
 --------
-You should be able to locate it in the output folder in this directory.
+You should be able to locate it in the output folder in this directory
+[or click here](https://github.com/Vyary/poe-gem-prices/blob/main/output/gems.csv)
 
 What is inside the file?
 --------
