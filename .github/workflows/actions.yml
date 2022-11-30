@@ -2,7 +2,7 @@ name: run core.py
 
 on:
   schedule:
-    - cron: '30 00 * * *' # Daily at 00:30
+    - cron: '10 3 * * *' # Daily at 00:30
 
 jobs:
   build:
