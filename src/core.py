@@ -1,6 +1,5 @@
 import requests
 import pandas as pd
-from tqdm import tqdm
 import gem_class
 
 
@@ -69,7 +68,7 @@ def go_over_elements(data: dict) -> list:
     :param data: Collected data from the api
     :return: List of objects
     """
-    for index in tqdm(range(len(data["lines"]))):
+    for index in range(len(data["lines"])):
         gem_name = data["lines"][index]["name"]
         variant = data["lines"][index]["variant"]
         price = data["lines"][index]["chaosValue"]

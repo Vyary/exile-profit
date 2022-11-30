@@ -1,8 +1,6 @@
 name: run core.py
 
-on:
-  schedule:
-    - cron: '30 00 * * *' # Daily at 00:30
+on: push
 
 jobs:
   build:
@@ -10,7 +8,7 @@ jobs:
     steps:
 
       - name: checkout repo content
-        uses: actions/checkout@v2 # checkout the repository content to github runner
+        uses: actions/checkout@v3 # checkout the repository content to github runner
 
       - name: setup python
         uses: actions/setup-python@v4
@@ -19,7 +17,6 @@ jobs:
           
       - name: install python packages
         run: |
-          python -m pip install --upgrade pip
           pip install -r requirements.txt
           
       - name: execute py script # run main.py
@@ -35,7 +32,7 @@ jobs:
           git diff-index --quiet HEAD || (git commit -a -m "updated gems.csv" --allow-empty)
           
       - name: push changes
-        uses: ad-m/github-push-action@v0.6.0
+        uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.SOME_SECRET }}
           branch: main 
