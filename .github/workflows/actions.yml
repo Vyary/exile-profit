@@ -2,7 +2,7 @@ name: run core.py
 
 on:
   schedule:
-    - cron: '30 18 * * *' # Daily at 18:30
+    - cron: '30 18 * * *' # Daily at 00:30
 
 jobs:
   build:
@@ -25,7 +25,7 @@ jobs:
       - name: execute py script # run main.py
         env:
           SOME_SECRET: ${{ secrets.SOME_SECRET }}
-        run: python .\src\core.py
+        run: python src/core.py
           
       - name: commit files
         run: |
