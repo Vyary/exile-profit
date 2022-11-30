@@ -22,8 +22,6 @@ jobs:
           pip install -r requirements.txt
           
       - name: execute py script # run main.py
-        env:
-          SOME_SECRET: ${{ secrets.SOME_SECRET }}
         run: python src/core.py
           
       - name: commit files
@@ -31,7 +29,7 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add -A
-          git diff-index --quiet HEAD || (git commit -a -m "updated gems.csv" --allow-empty)
+          git diff-index --quiet HEAD || (git commit -a -m "Updated gems.csv" --allow-empty)
           
       - name: push changes
         uses: ad-m/github-push-action@master
