@@ -108,11 +108,14 @@ def save_data(list_of_objects: list) -> None:
     df = df.set_axis(
         ["Gem Name", "Base", "20/20", "21/20", "Vaal price", "Listed"], axis=1
     )
-    df.to_csv("gems.csv", index=False, encoding="utf-8")
+    df.to_csv("output/gems.csv", index=False, encoding="utf-8")
 
 
 def main():
-    url = "https://poe.ninja/api/data/itemoverview?league=Kalandra&type=SkillGem&language=en"
+    url = (
+        "https://poe.ninja/api/data/itemoverview?league="
+        "Kalandra&type=SkillGem&language=en"
+    )
     response = requests.get(url).json()
     list_of_objects = go_over_elements(response)
     save_data(list_of_objects)

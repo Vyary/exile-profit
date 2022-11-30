@@ -1,4 +1,4 @@
-name: run core.py
+name: pgp run
 
 on:
   schedule:
@@ -22,8 +22,6 @@ jobs:
           pip install -r requirements.txt
           
       - name: execute py script # run main.py
-        env:
-          SOME_SECRET: ${{ secrets.SOME_SECRET }}
         run: python src/core.py
           
       - name: commit files
