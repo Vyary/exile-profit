@@ -1,8 +1,6 @@
 name: run core.py
 
-on:
-  schedule:
-    - cron: '10 3 * * *' # Daily at 00:30
+on: push
 
 jobs:
   build:
