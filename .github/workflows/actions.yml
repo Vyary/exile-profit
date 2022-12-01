@@ -33,6 +33,7 @@ jobs:
           json: ${{ secrets.SERVICE }}
           dir: 'src/'
       - name: execute py script
+        echo ${{ env.working-directory }}
         run: python src/sheet_update.py
           
       - name: commit files
