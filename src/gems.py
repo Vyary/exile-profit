@@ -4,7 +4,7 @@ from dataclasses import dataclass
 @dataclass
 class Gem:
     # Keep track of gems
-    gem_lst = []
+    lst = []
     """
     Class for gem objects
     :param name: Gem's name

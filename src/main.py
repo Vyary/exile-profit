@@ -1,6 +1,6 @@
 import requests
 import pandas as pd
-import gem_class
+import gems
 
 
 def gem_quality_type(name: str) -> str:
@@ -38,10 +38,10 @@ def create_gem_object(
     :param listed: Number of successful gems of set gem
     :return: None
     """
-    lst = gem_class.Gem.gem_lst
+    lst = gems.Gem.lst
     # Check if there is object with the set name if not create new object
     if any(obj.name == gem_name for obj in lst) is False:
-        new_object = gem_class.Gem(gem_name)
+        new_object = gems.Gem(gem_name)
         lst.append(new_object)
     for obj in lst:
         if obj.name == gem_name:
@@ -82,7 +82,7 @@ def go_over_elements(data: dict) -> list:
             continue
 
         create_gem_object(gem_name, variant, price, quality, listed)
-    return gem_class.Gem.gem_lst
+    return gems.Gem.lst
 
 
 def save_data(list_of_objects: list) -> None:

@@ -13,6 +13,7 @@ Contents
  * [What does the script do](#what-does-the-script-do)
  * [What can you do with the csv file](#what-can-you-do-with-the-csv-file)
  * [What is inside the file](#where-you-can-find-the-csv-file)
+ * [Example of google sheet](#auto-updating-google-sheet)
  
 
 What is Path of Exile?
@@ -46,3 +47,8 @@ In the file you will see a couple of rows starting with Gem Name followed by:
 * 21/20: This refers to a gem that has been corrupted and successful upgraded which increases the price tremendously
 * Vaal price: This is very specific to gems that have Vaal version. The Vaal version unlocks additional skill of the set gem
 * Listed: This refers to the number of successful 21/20 gems on the trade site including offline offerings(would recommend when checking the prices in this file to keep in mind that gems with higher listing count are more likely to have a appropriate price and the profit will be more accurate)
+
+Auto updating google sheet:
+--------
+With filter for base price under 100, fail price 50% higher than base price and success price 200 or higher. [click here](https://docs.google.com/spreadsheets/d/1qcYu22DIwEORUYuTJNnYnxS5ceQx8y6XJhVjBai_0lI/edit#gid=520131547&fvid=2021127035)\
+Without filter: [click here](https://docs.google.com/spreadsheets/d/1qcYu22DIwEORUYuTJNnYnxS5ceQx8y6XJhVjBai_0lI)
