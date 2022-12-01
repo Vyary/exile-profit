@@ -23,9 +23,11 @@ jobs:
           pip install -r requirements.txt
           
       - name: execute py script # run main.py
+        run: python src/core.py
+
+      - name: execute py script
         env:
           SERVICE: ${{ secrets.SERVICE }}
-        run: python src/core.py
         run: python src/sheet_update.py
           
       - name: commit files
