@@ -31,7 +31,7 @@ jobs:
         with:
           name: 'service_account'
           json: ${{ secrets.SERVICE }}
-          dir: '.'
+          dir: 'src/'
       - name: execute py script
         run: python src/sheet_update.py
           
