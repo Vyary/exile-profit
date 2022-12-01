@@ -25,9 +25,14 @@ jobs:
       - name: execute py script # run main.py
         run: python src/core.py
 
+      - name: create json
+        id: create-json-1
+        uses: jsdaniell/create-json@v1.2.1
+        with:
+          name: 'service_account'
+          json: ${{ secrets.SERVICE }}
+          dir: '.'
       - name: execute py script
-        env:
-          SERVICE: ${{ secrets.SERVICE }}
         run: python src/sheet_update.py
           
       - name: commit files

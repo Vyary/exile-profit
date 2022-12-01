@@ -1,3 +1,4 @@
+import os
 import gspread
 import pandas as pd
 
@@ -27,7 +28,7 @@ def pandas_to_sheets(pandas_df, sheet, clear=True):
 
 
 def main():
-    gc = gspread.service_account('secrets/SERVICE')
+    gc = gspread.service_account('service_account.json')
     workbook = gc.open("Poe gem prices")
     df = pd.read_csv("output/gems.csv")
     pandas_to_sheets(df, workbook.worksheet("Poe gem prices"))
