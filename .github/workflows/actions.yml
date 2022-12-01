@@ -32,9 +32,6 @@ jobs:
           name: 'service_account'
           json: ${{ secrets.SERVICE }}
           dir: 'src/'
-  
-      - name: echo directory
-        run: echo ${{ env.working-directory }}
 
       - name: execute py script
         run: python src/sheet_update.py
