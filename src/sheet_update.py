@@ -19,7 +19,7 @@ def pandas_to_sheets(pandas_df, sheet, clear=True):
         sheet.clear()
     (row, col) = pandas_df.shape
     cells = sheet.range(
-        "A1:{}".format(gspread.utils.rowcol_to_a1(row + 1, col))
+        "A1:{}".format(gspread.utils.rowcol_to_a1(row + 1, col))  # type:ignore
     )
     for cell, val in zip(cells, iter_pd(pandas_df)):
         cell.value = val
@@ -27,7 +27,7 @@ def pandas_to_sheets(pandas_df, sheet, clear=True):
 
 
 def main():
-    gc = gspread.service_account('output/service_account.json')
+    gc = gspread.service_account("output/service_account.json")  # type:ignore
     workbook = gc.open("Poe gem prices")
     df = pd.read_csv("output/gems.csv")
     pandas_to_sheets(df, workbook.worksheet("Poe gem prices"))
