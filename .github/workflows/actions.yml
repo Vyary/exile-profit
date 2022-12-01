@@ -1,8 +1,9 @@
 name: pgp run
 
-on:
-  schedule:
-    - cron: "0 13 * * *"
+# on:
+#   schedule:
+#     - cron: "0 13 * * *"
+on: push
 
 jobs:
   build:
@@ -22,7 +23,10 @@ jobs:
           pip install -r requirements.txt
           
       - name: execute py script # run main.py
+        env:
+          SERVICE: ${{ secrets.SERVICE }}
         run: python src/core.py
+        run: python src/sheet_update.py
           
       - name: commit files
         run: |
