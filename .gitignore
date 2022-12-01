@@ -38,3 +38,6 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+
+# Secret key
+output/service_account.json
