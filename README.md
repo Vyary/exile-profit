@@ -13,7 +13,7 @@ Contents
  * [What does the script do](#what-does-the-script-do)
  * [What can you do with the csv file](#what-can-you-do-with-the-csv-file)
  * [What is inside the file](#where-you-can-find-the-csv-file)
- * [Example of google sheet](#auto-updating-google-sheet)
+ * [Google sheet example](#auto-updating-google-sheet)
  
 
 What is Path of Exile?
