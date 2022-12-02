@@ -50,5 +50,5 @@ In the file you will see a couple of rows starting with Gem Name followed by:
 
 Auto updating google sheet:
 --------
-With filter for base price under 100, fail price 50% higher than base price and success price 200 or higher. [click here](https://docs.google.com/spreadsheets/d/1qcYu22DIwEORUYuTJNnYnxS5ceQx8y6XJhVjBai_0lI/edit#gid=520131547&fvid=2021127035)\
+With filter for base price under 100, fail price 50% higher than base price and success price 200 or higher. [click here](https://docs.google.com/spreadsheets/d/1qcYu22DIwEORUYuTJNnYnxS5ceQx8y6XJhVjBai_0lI/edit#gid=520131547&fvid=1328691002)\
 Without filter: [click here](https://docs.google.com/spreadsheets/d/1qcYu22DIwEORUYuTJNnYnxS5ceQx8y6XJhVjBai_0lI)
