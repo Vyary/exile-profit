@@ -3,6 +3,7 @@ import requests
 import pandas as pd
 import gems
 
+
 def gem_quality_type(name: str) -> str:
     """
     This function gets the gem quality type based on its prefix
@@ -57,19 +58,26 @@ def create_gem_object(
     if gem_name in dictionary:
         obj = gems.Gem.dictionary[gem_name]
 
+        # base price
         is_basic_1_20 = variant == "1/20" and quality == "Basic"
         is_alternative_1 = variant == "1" and quality == "Alternative"
+        is_awakened_1 = variant == "1" and quality == "Awakened"
+        # fail price
         is_not_vaal_20_20c = variant == "20/20c" and quality != "Vaal"
+        is_awakened_5_20c = variant == "5/20c" and quality == "Awakened"
+        # semi fail price
         is_vaal_20_20c = variant == "20/20c" and quality == "Vaal"
+        # success price
         is_not_vaal_21_20c = variant == "21/20c" and quality != "Vaal"
+        is_awakened_6_20c = variant == "6/20c" and quality == "Awakened"
 
-        if is_basic_1_20 or is_alternative_1:
+        if is_basic_1_20 or is_alternative_1 or is_awakened_1:
             obj.base_price = price
-        elif is_not_vaal_20_20c:
+        elif is_not_vaal_20_20c or is_awakened_5_20c:
             obj.fail_price = price
         elif is_vaal_20_20c:
             obj.vaal_price = price
-        elif is_not_vaal_21_20c:
+        elif is_not_vaal_21_20c or is_awakened_6_20c:
             obj.success_price = price
             obj.listed = listed
 
@@ -97,12 +105,9 @@ def go_over_elements(data: dict) -> dict:
         # Get the gem's quality
         quality = gem_quality_type(gem_name)
 
-        # Handle special cases for gems with the "Vaal" or "Awakened" quality
+        # Handle special cases for gems with the "Vaal" quality
         if quality == "Vaal":
-            gem_name = gem_name.split("Vaal ")
-            gem_name = "".join(gem_name)
-        elif quality == "Awakened":
-            continue
+            gem_name = gem_name.replace("Vaal ", "")
 
         # Create a gem object for the current gem
         create_gem_object(gem_name, variant, price, quality, listed)
