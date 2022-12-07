@@ -21,11 +21,10 @@ jobs:
         id: cache
         uses: actions/cache@v3
         with:
-          path: ~/.local/lib/python3.11/site-packages
+          path: ~/.cache/pip
           key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
           restore-keys: |
             ${{ runner.os }}-pip-
-
 
       - name: install python packages
         if: steps.cache.outputs.cache-hit != 'true'
