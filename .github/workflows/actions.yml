@@ -24,10 +24,10 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-pip-
 
-      - name: install python packages
-        if: steps.cache.outputs.cache-hit != 'true'
-          run: |
-            pip install -r requirements.txt
+      - if: steps.cache.outputs.cache-hit != 'true'
+        name: install python packages
+        run: |
+          pip install -r requirements.txt
           
       - name: execute main.py
         run: python src/main.py
