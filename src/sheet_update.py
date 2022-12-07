@@ -1,19 +1,6 @@
 import gspread
 import pandas as pd
-
-
-def pandas_to_sheets(
-    pandas_df: pd.DataFrame, sheet: gspread.Worksheet, clear: bool = True
-) -> None:
-    """
-    Updates all values in a worksheet to match a Pandas DataFrame.
-    """
-    # Clear the worksheet if specified
-    if clear:
-        sheet.clear()
-
-    # Update the worksheet with the values from the DataFrame
-    sheet.update([pandas_df.columns.tolist()] + pandas_df.values.tolist())
+from gspread_dataframe import set_with_dataframe
 
 
 def main():
@@ -27,8 +14,7 @@ def main():
     df = pd.read_csv("output/gems.csv")
 
     # Update the worksheet with the values from the DataFrame
-    pandas_to_sheets(df, workbook.worksheet("Poe gem prices"))
-
+    set_with_dataframe(workbook.worksheet("Poe gem prices"), df)
 
 if __name__ == "__main__":
     main()
