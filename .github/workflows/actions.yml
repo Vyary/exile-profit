@@ -1,8 +1,8 @@
 name: pgp run
 
-on:
-  schedule:
-  - cron: "0 */8 * * *"  # every 8 hours
+on: push
+  # schedule:
+  # - cron: "0 */8 * * *"  # every 8 hours
 
 jobs:
   build:
