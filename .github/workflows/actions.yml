@@ -1,6 +1,6 @@
 name: pgp run
 
-on:
+on: rush
   schedule: 
   - cron: "0 */6 * * *"  # every 6-ish hours
 
@@ -16,7 +16,14 @@ jobs:
         uses: actions/setup-python@v4
         with:
           python-version: '3.11' 
-          
+      - name: cache dependencies
+        uses: actions/cache@v3
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+
       - name: install python packages
         run: |
           pip install -r requirements.txt
