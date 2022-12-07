@@ -19,15 +19,15 @@ jobs:
 
       - name: cache dependencies
         id: cache
-        uses: actions/cache@v3
+        uses: actions/cache@v1
         with:
           path: ~/.cache/pip
           key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
           restore-keys: |
             ${{ runner.os }}-pip-
 
-      - if: steps.cache.outputs.cache-hit != 'true'
-        name: install python packages
+      - name: install python packages
+        if: steps.cache.outputs.cache-hit != 'true'
         run: |
           pip install -r requirements.txt
           
