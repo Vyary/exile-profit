@@ -17,14 +17,14 @@ jobs:
         with:
           python-version: '3.11' 
 
-      - name: pip cache
-        id: cache
-        uses: actions/cache@v3
-        with:
-          path: ~/.cache/pip
-          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
-          restore-keys: |
-            ${{ runner.os }}-pip-
+      # - name: pip cache
+      #   id: cache
+      #   uses: actions/cache@v3
+      #   with:
+      #     path: ~/.cache/pip
+      #     key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+      #     restore-keys: |
+      #       ${{ runner.os }}-pip-
 
       - name: install python packages
         if: steps.cache.outputs.cache-hit != 'true'
@@ -58,3 +58,10 @@ jobs:
         with:
           github_token: ${{ secrets.TOKEN }}
           branch: main 
+
+      - name: save pip cache
+        id: save-pip-cache
+        uses: actions/cache@v3
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
