@@ -17,11 +17,11 @@ jobs:
         with:
           python-version: '3.11' 
 
-      - name: cache dependencies
+      - name: pip cache
         id: cache
-        uses: actions/cache@v1
+        uses: actions/cache@v3
         with:
-          path: ~/.cache/pip
+          path: ${{ steps.pip-cache.outputs.dir }}
           key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
           restore-keys: |
             ${{ runner.os }}-pip-
