@@ -26,8 +26,8 @@ jobs:
 
       - name: install python packages
         if: steps.cache.outputs.cache-hit != 'true'
-        run: |
-          pip install -r requirements.txt
+          run: |
+            pip install -r requirements.txt
           
       - name: execute main.py
         run: python src/main.py
