@@ -1,66 +1,64 @@
 Gem Name,Base,20/20,21/20,Vaal price,Listed
 Enlighten Support,0.0,0,0,0,0
-Multistrike Support,0.0,0,0,0,0
-Less Duration Support,0.0,0,0,0,0
-Soul Link,0.0,0,0,0,0
-Onslaught Support,0.0,0,0,0,0
+Increased Critical Damage Support,0.0,0,0,0,0
+Swift Affliction Support,0.0,0,0,0,0
+Slower Projectiles Support,0.0,0,0,0,0
+Anger,0.0,0,0,0,0
 Arcane Cloak,0.0,0,0,0,0
-Summon Phantasm Support,0.0,0,0,0,0
-Greater Multiple Projectiles Support,0.0,0,0,0,0
-Bladestorm,0.0,0,0,0,0
+Toxic Rain,0.0,0,0,0,0
+Vengeance,0.0,0,0,0,0
+Urgent Orders Support,0.0,0,0,0,0
 Hex Bloom Support,0.0,0,0,0,0
 Cursed Ground Support,0.0,0,0,0,0
 Frozen Legion,0.0,0,0,0,0
 Eternal Blessing Support,0.0,0,0,0,0
 Mark On Hit Support,0.0,0,0,0,0
-Flame Link,1.0,0,0,0,0
 Temporal Rift,1.0,0,0,0,0
 Intuitive Link,0.0,0,0,0,0
+Soul Link,0.0,0,0,0,0
 Tornado,0.0,0,0,0,0
 Boneshatter,0.0,0,0,0,0
 Rage Vortex,1.0,0,0,0,0
 Storm Rain,0.0,0,0,0,0
 Behead Support,0.0,0,0,0,0
-Battlemage's Cry,0.0,0,0,0,0
-Critical Strike Affliction Support,0.0,0,0,0,0
 Cast when Stunned Support,0.0,0,0,0,0
-Vengeance,0.0,0,0,0,0
-Fork Support,0.0,0,0,0,0
-Urgent Orders Support,0.0,0,0,0,0
-Mana Leech Support,0.0,0,0,0,0
-Lesser Multiple Projectiles Support,0.0,0,0,0,0
-Meat Shield Support,0.0,0,0,0,0
-Frenzy,0.0,0,0,0,0
-Culling Strike Support,0.0,0,0,0,0
-Melee Physical Damage Support,0.0,0,0,0,0
-Kinetic Bolt,0.0,0,0,0,0
-Hatred,0.0,0,0,0,0
-Flame Wall,0.0,0,0,0,0
-Siphoning Trap,0.0,0,0,0,0
-Scorching Ray,0.0,0,0,0,0
-Raise Zombie,0.76,0,0,0,0
-Berserk,0.0,0,0,0,0
-Ice Crash,0.0,0,0,0,0
-Archmage Support,0.0,0,0,0,0
-Clarity,0.0,0,0,0,0
-Elemental Weakness,0.0,0,0,0,0
-Slower Projectiles Support,0.0,0,0,0,0
-Efficacy Support,0.0,0,0,0,0
-Frost Bomb,0.0,0,0,0,0
-Innervate Support,0.0,0,0,0,0
-Advanced Traps Support,0.0,0,0,0,0
-Minion Speed Support,0.0,0,0,0,0
 Conductivity,0.0,0,0,0,0
+Advanced Traps Support,0.0,0,0,0,0
+Spirit Offering,0.0,0,0,0,0
+Concentrated Effect Support,0.0,0,0,0,0
+Innervate Support,0.0,0,0,0,0
+Critical Strike Affliction Support,0.0,0,0,0,0
+Battlemage's Cry,0.0,0,0,0,0
+Faster Projectiles Support,0.0,0,0,0,0
+Spectral Shield Throw,0.0,0,0,0,0
+Melee Physical Damage Support,0.0,0,0,0,0
+Lightning Spire Trap,0.0,0,0,0,0
+Alchemist's Mark,0.0,0,0,0,0
+Herald of Ash,0.0,0,0,0,0
+Rolling Magma,0.0,0,0,0,0
+Raise Zombie,0.78,0,0,0,0
+Absolution,0.0,0,0,0,0
+Burning Damage Support,0.0,0,0,0,0
+Bladestorm,0.0,0,0,0,0
+Frost Bomb,0.0,0,0,0,0
+Rage Support,0.0,0,0,0,0
+Mana Leech Support,0.0,0,0,0,0
+Onslaught Support,0.0,0,0,0,0
+Flesh and Stone,0.0,0,0,0,0
+Void Sphere,0.0,0,0,0,0
+Archmage Support,0.0,0,0,0,0
+Ice Crash,0.0,0,0,0,0
+Flame Wall,0.0,0,0,0,0
+Clarity,0.0,0,0,0,0
+Multistrike Support,0.0,0,0,0,0
 Decay Support,0.0,0,0,0,0
-Contagion,0.0,0,0,0,0
+Energy Leech Support,0.0,0,0,0,0
 Purity of Lightning,0.0,0,0,0,0
-Dark Pact,0.0,0,0,0,0
-Intensify Support,0.0,0,0,0,0
-Crackling Lance,0.0,0,0,0,0
 Vile Toxins Support,0.0,0,0,0,0
 Phase Run,0.0,0,0,0,0
 Cruelty Support,0.0,0,0,0,0
 Chain Support,0.0,0,0,0,0
+Berserk,0.0,0,0,0,0
 Cast when Damage Taken Support,0.0,0,0,0,0
 Shock Nova,0.0,0,0,0,0
 Withering Touch Support,0.0,0,0,0,0
@@ -69,30 +67,32 @@ Life Leech Support,0.0,0,0,0,0
 Devouring Totem,0.0,0,0,0,0
 Summon Ice Golem,0.0,0,0,0,0
 Earthquake,0.0,0,0,0,0
-Concentrated Effect Support,0.0,0,0,0,0
 Cluster Traps Support,0.0,0,0,0,0
-Chain Hook,0.0,0,0,0,0
 Punishment,0.0,0,0,0,0
 Reap,0.0,0,0,0,0
 Righteous Fire,0.0,0,0,0,0
 Glacial Cascade,0.0,0,0,0,0
-Inspiration Support,0.0,0,0,0,0
+Minefield Support,0.0,0,0,0,0
+Increased Area of Effect Support,0.0,0,0,0,0
+Stormbind,0.0,0,0,0,0
+Immolate Support,0.0,0,0,0,0
+Sniper's Mark,0.0,0,0,0,0
+Intensify Support,0.0,0,0,0,0
 Ancestral Warchief,0.0,0,0,0,0
-Summon Lightning Golem,0.0,0,0,0,0
 Impale Support,0.0,0,0,0,0
 Cast while Channelling Support,0.0,0,0,0,0
+Less Duration Support,0.0,0,0,0,0
 Bonechill Support,0.0,0,0,0,0
+Elemental Weakness,0.0,0,0,0,0
+Fork Support,0.0,0,0,0,0
 Greater Volley Support,0.0,0,0,0,0
 Faster Casting Support,0.0,0,0,0,0
 Storm Call,0.0,0,0,0,0
-Cold to Fire Support,0.0,0,0,0,0
-Cold Penetration Support,0.0,0,0,0,0
 Elemental Army Support,0.0,0,0,0,0
-Anger,0.0,0,0,0,0
 Feeding Frenzy Support,0.0,0,0,0,0
 Grace,0.0,0,0,0,0
-Generosity Support,0.0,0,0,0,0
-Void Sphere,0.0,0,0,0,0
+Shockwave Totem,0.0,0,0,0,0
+Frost Shield,0.0,0,0,0,0
 Hydrosphere,0.0,0,0,0,0
 Pyroclast Mine,0.0,0,0,0,0
 Cast on Melee Kill Support,0.0,0,0,0,0
@@ -100,17 +100,13 @@ Minion Life Support,0.0,0,0,0,0
 Item Rarity Support,0.0,0,0,0,0
 Armageddon Brand,0.0,0,0,0,0
 Convocation,0.0,0,0,0,0
-Energy Leech Support,0.0,0,0,0,0
+Herald of Thunder,0.0,0,0,0,0
 Multiple Totems Support,0.0,0,0,0,0
-Frost Shield,0.0,0,0,0,0
-Swift Affliction Support,0.0,0,0,0,0
-Charged Dash,0.0,0,0,0,0
-Faster Attacks Support,0.0,0,0,0,0
-Flame Surge,0.0,0,0,0,0
-Vulnerability,0.0,0,0,0,0
-War Banner,0.0,0,0,0,0
-Stormblast Mine,0.0,0,0,0,0
-Earthshatter,0.0,0,0,0,0
+Pulverise Support,0.0,0,0,0,0
+Hatred,0.0,0,0,0,0
+Voltaxic Burst,0.0,0,0,0,0
+Arcane Surge Support,0.0,0,0,0,0
+Cleave,0.0,0,0,0,0
 Intimidating Cry,0.0,0,0,0,0
 Detonate Dead,0.0,0,0,0,0
 Bodyswap,0.0,0,0,0,0
@@ -119,162 +115,167 @@ Ancestral Call Support,0.0,0,0,0,0
 Ice Nova,0.0,0,0,0,0
 Bear Trap,0.0,0,0,0,0
 Stun Support,0.0,0,0,0,0
-Rolling Magma,0.0,0,0,0,0
 Dual Strike,0.0,0,0,0,0
-Cold Snap,0.0,0,0,0,0
 Splitting Steel,0.0,0,0,0,0
-Purity of Ice,0.0,0,0,0,0
+Iron Grip Support,0.0,0,0,0,0
 Viper Strike,0.0,0,0,0,0
-Predator Support,0.0,0,0,0,0
-Hypothermia Support,0.0,0,0,0,0
+Lesser Multiple Projectiles Support,0.0,0,0,0,0
 Infused Channelling Support,0.0,0,0,0,0
 Reave,0.0,0,0,0,0
 Power Siphon,0.0,0,0,0,0
-Blink Arrow,0.0,0,0,0,0
-Cremation,0.0,0,0,0,0
-Double Strike,0.0,0,0,0,0
-Dash,0.0,0,0,0,0
-Volcanic Fissure,0.0,0,0,0,0
+Shockwave Support,0.0,0,0,0,0
+Flame Surge,0.0,0,0,0,0
+Ball Lightning,0.0,0,0,0,0
+Glacial Hammer,0.0,0,0,0,0
+Blade Flurry,0.0,0,0,0,0
+Minion Damage Support,0.0,0,0,0,0
+Summon Holy Relic,0.0,0,0,0,0
+Earthshatter,0.0,0,0,0,0
+Stormblast Mine,0.0,0,0,0,0
+War Banner,0.0,0,0,0,0
+Unearth,0.0,0,0,0,0
+Lightning Conduit,0.0,0,0,0,0
 Galvanic Field,0.0,0,0,0,0
 Manabond,0.0,0,0,0,0
 Earthbreaker Support,0.0,0,0,0,0
 Eye of Winter,0.0,0,0,0,0
 Chance to Poison Support,0.0,0,0,0,0
 Heavy Strike,0.0,0,0,0,0
-Volatile Dead,0.0,0,0,0,0
 Reckoning,0.0,0,0,0,0
 Power Charge On Critical Support,0.0,0,0,0,0
-Swift Assembly Support,0.0,0,0,0,0
-Summon Raging Spirit,0.0,0,0,0,0
-Orb of Storms,0.0,0,0,0,0
-Wither,0.0,0,0,0,0
-Unearth,0.0,0,0,0,0
+Dash,0.0,0,0,0,0
+Frostbite,0.0,0,0,0,0
+Vulnerability,0.0,0,0,0,0
 Pride,0.0,0,0,0,0
 Decoy Totem,0.0,0,0,0,0
 Frostbolt,0.0,0,0,0,0
 Point Blank Support,0.0,0,0,0,0
 Cyclone,0.0,0,0,0,0
-Herald of Thunder,0.0,0,0,0,0
-Pulverise Support,0.0,0,0,0,0
-Shockwave Support,0.0,0,0,0,0
-Ball Lightning,0.0,0,0,0,0
-Dominating Blow,0.0,0,0,0,0
-Smite,0.0,0,0,0,0
-Increased Duration Support,0.0,0,0,0,0
-Iron Grip Support,0.0,0,0,0,0
-Herald of Purity,0.0,0,0,0,0
-Sunder,0.0,0,0,0,0
-Absolution,0.0,0,0,0,0
-Tornado Shot,0.0,0,0,0,0
-Blasphemy Support,0.0,0,0,0,0
-Summon Chaos Golem,0.0,0,0,0,0
-Artillery Ballista,0.0,0,0,0,0
-Herald of Ash,0.0,0,0,0,0
-Tectonic Slam,0.0,0,0,0,0
-Frostbite,0.0,0,0,0,0
-Second Wind Support,0.0,0,0,0,0
-Blade Flurry,0.0,0,0,0,0
-Warlord's Mark,0.0,0,0,0,0
-Temporal Chains,0.0,0,0,0,0
-Alchemist's Mark,0.0,0,0,0,0
-Charged Traps Support,0.0,0,0,0,0
-Arctic Armour,0.0,0,0,0,0
-Voltaxic Burst,0.0,0,0,0,0
-Toxic Rain,0.0,0,0,0,0
-Faster Projectiles Support,0.0,0,0,0,0
-Summon Carrion Golem,0.0,0,0,0,0
-Animate Guardian,0.0,0,0,0,0
-Assassin's Mark,0.0,0,0,0,0
-Protective Link,0.0,0,0,0,0
-Maim Support,0.0,0,0,0,0
-Flamethrower Trap,0.0,0,0,0,0
-Glacial Hammer,0.0,0,0,0,0
-Brand Recall,0.0,0,0,0,0
-Infernal Cry,0.0,0,0,0,0
-Minion Damage Support,0.0,0,0,0,0
-Summon Holy Relic,0.0,0,0,0,0
-Leap Slam,0.0,0,0,0,0
-Cleave,0.0,0,0,0,0
-Flesh Offering,0.0,0,0,0,0
-Lightning Arrow,0.0,0,0,0,0
-Barrage,0.0,0,0,0,0
-Cast on Death Support,0.0,0,0,0,0
-Lightning Warp,0.0,0,0,0,0
-Lightning Conduit,0.0,0,0,0,0
-Endurance Charge on Melee Stun Support,0.0,0,0,0,0
+Summon Raging Spirit,0.0,0,0,0,0
+Double Strike,0.0,0,0,0,0
 Molten Shell,0.0,0,0,0,0
 Volley Support,0.0,0,0,0,0
-Bone Offering,0.0,0,0,0,0
-Arcane Surge Support,0.0,0,0,0,0
-Galvanic Arrow,0.0,0,0,0,0
-Overcharge Support,0.0,0,0,0,0
+Blink Arrow,0.0,0,0,0,0
+Leap Slam,0.0,0,0,0,0
+Flesh Offering,0.0,0,0,0,0
+Winter Orb,0.0,0,0,0,0
+Lightning Arrow,0.0,0,0,0,0
+Purity of Ice,0.0,0,0,0,0
 Combustion Support,0.0,0,0,0,0
-Minefield Support,0.0,0,0,0,0
-Increased Area of Effect Support,0.0,0,0,0,0
+Efficacy Support,0.0,0,0,0,0
+Physical to Lightning Support,0.0,0,0,0,0
+Frenzy,0.0,0,0,0,0
+Contagion,0.0,0,0,0,0
+Herald of Purity,0.0,0,0,0,0
+Blasphemy Support,0.0,0,0,0,0
+Culling Strike Support,0.0,0,0,0,0
+Summon Chaos Golem,0.0,0,0,0,0
+Overcharge Support,0.0,0,0,0,0
+Flame Link,0.0,0,0,0,0
+Iron Will Support,0.0,0,0,0,0
+Siphoning Trap,0.0,0,0,0,0
+Animate Guardian,0.0,0,0,0,0
+Dominating Blow,0.0,0,0,0,0
+Scorching Ray,0.0,0,0,0,0
+Cold to Fire Support,0.0,0,0,0,0
+Lifetap Support,0.0,0,0,0,0
+Charged Dash,0.0,0,0,0,0
+Minion Speed Support,0.0,0,0,0,0
+Summon Carrion Golem,0.0,0,0,0,0
+Second Wind Support,0.0,0,0,0,0
+Artillery Ballista,0.0,0,0,0,0
+Protective Link,0.0,0,0,0,0
+Hypothermia Support,0.0,0,0,0,0
+Increased Duration Support,0.0,0,0,0,0
+Maim Support,0.0,0,0,0,0
+Barrage,0.0,0,0,0,0
+Endurance Charge on Melee Stun Support,0.0,0,0,0,0
+Smite,0.0,0,0,0,0
+Cremation,0.0,0,0,0,0
+Kinetic Bolt,0.0,0,0,0,0
+Predator Support,0.0,0,0,0,0
+Brand Recall,0.0,0,0,0,0
+Tectonic Slam,0.0,0,0,0,0
+Swift Assembly Support,0.0,0,0,0,0
+Flamethrower Trap,0.0,0,0,0,0
+Warlord's Mark,0.0,0,0,0,0
+Temporal Chains,0.0,0,0,0,0
+Infernal Cry,0.0,0,0,0,0
+Arctic Armour,0.0,0,0,0,0
+Sunder,0.0,0,0,0,0
+Orb of Storms,0.0,0,0,0,0
+Tornado Shot,0.0,0,0,0,0
+Assassin's Mark,0.0,0,0,0,0
+Cast on Death Support,0.0,0,0,0,0
+Wither,0.0,0,0,0,0
+Chain Hook,0.0,0,0,0,0
+Meat Shield Support,0.0,0,0,0,0
+Malevolence,0.0,0,0,0,0
 Divergent Greater Volley Support,0.0,0,0,0,0
-Petrified Blood,4.0,0,0,0,0
-Blade Blast,2.3,0,0,0,0
-Arc,2.8,0,0,0,0
-Wave of Conviction,2.87,0,0,0,0
-Lightning Tendrils,2.87,0,0,0,0
-Vampiric Link,3.0,0,0,0,0
+Charged Traps Support,4.0,0,0,0,0
 Explosive Concoction,3.0,0,0,0,0
 Spectral Helix,3.0,0,0,0,0
 Arcanist Brand,3.0,0,0,0,0
-Summon Skeletons,3.0,0,0,0,0
+Swiftbrand Support,3.0,0,0,0,0
+Penance Brand,3.0,0,0,0,0
 Holy Flame Totem,3.0,0,0,0,0
 Ice Spear,2.0,0,0,0,0
+Ruthless Support,3.0,0,0,0,0
 Frost Wall,3.0,0,0,0,0
-Shield Charge,3.0,0,0,0,0
-Conversion Trap,3.0,0,0,0,0
+Cold Snap,3.0,0,0,0,0
 Unbound Ailments Support,3.0,0,0,0,0
-Raise Spectre,3.0,0,0,0,0
 Split Arrow,3.0,0,0,0,0
 Purity of Elements,3.0,0,0,0,0
+Incinerate,3.0,0,0,0,0
 Blade Vortex,3.0,0,0,0,0
 Elemental Focus Support,3.0,0,0,0,0
 Frost Blades,3.0,0,0,0,0
 Summon Flame Golem,3.0,0,0,0,0
 Added Cold Damage Support,3.1,0,0,0,0
-Tempest Shield,2.22,0,0,0,0
-Fortify Support,2.1,0,0,0,0
-Blood Rage,2.1,0,0,0,0
+Conversion Trap,3.11,0,0,0,0
+Arrow Nova Support,3.2,0,0,0,0
+Enhance Support,0.0,0,0,0,0
+Petrified Blood,4.0,0,0,0,0
+Vampiric Link,3.0,0,0,0,0
+Volcanic Fissure,3.0,0,0,0,0
+Wave of Conviction,2.87,0,0,0,0
+Faster Attacks Support,2.0,0,0,0,0
+Cold Penetration Support,0.0,0,0,0,0
 Storm Burst,2.0,0,0,0,0
-Plague Bearer,2.0,0,0,0,0
-Icicle Mine,2.0,0,0,0,0
-Precision,2.0,0,0,0,0
-Close Combat Support,2.0,0,0,0,0
-Dread Banner,2.0,0,0,0,0
-Storm Brand,2.0,0,0,0,0
-Seismic Trap,2.0,0,0,0,0
-Fireball,2.0,0,0,0,0
-Wrath,2.0,0,0,0,0
-Lightning Trap,2.0,0,0,0,0
 Bladefall,2.0,0,0,0,0
-Ensnaring Arrow,2.1,0,0,0,0
 Elemental Hit,2.0,0,0,0,0
 Blight,2.0,0,0,0,0
 Elemental Proliferation Support,2.0,0,0,0,0
+Lightning Warp,2.0,0,0,0,0
 Cast On Critical Strike Support,2.0,0,0,0,0
-Molten Strike,2.0,0,0,0,0
+Lightning Tendrils,2.0,0,0,0,0
 Ice Shot,2.0,0,0,0,0
 Trap Support,2.0,0,0,0,0
+Blade Blast,2.3,0,0,0,0
+Dark Pact,2.0,0,0,0,0
 Determination,2.0,0,0,0,0
 Portal,0.0,0,0,0,0
-Hexblast,2.1,0,0,0,0
-Arrow Nova Support,3.2,0,0,0,0
-Swiftbrand Support,4.0,0,0,0,0
-Sigil of Power,2.0,0,0,0,0
+Hexblast,2.07,0,0,0,0
+Ensnaring Arrow,2.1,0,0,0,0
+Summon Skeletons,2.1,0,0,0,0
+Blood Rage,2.1,0,0,0,0
+Fortify Support,2.1,0,0,0,0
+Molten Strike,2.11,0,0,0,0
+Tempest Shield,2.22,0,0,0,0
+Inspiration Support,4.0,0,0,0,0
 Burning Arrow,4.0,0,0,0,0
+Lightning Trap,2.0,0,0,0,0
+Herald of Ice,4.0,0,0,0,0
 Ballista Totem Support,5.33,0,0,0,0
 Elemental Damage with Attacks Support,5.5,0,0,0,0
+Venom Gyre,6.83,0,0,0,0
 Immortal Call,7.0,0,0,0,0
 Discharge,7.0,0,0,0,0
 Additional Accuracy Support,7.0,0,0,0,0
 Damage on Full Life Support,7.0,0,0,0,0
 Fire Penetration Support,7.0,0,0,0,0
 Blast Rain,7.0,0,0,0,0
-Venom Gyre,7.09,0,0,0,0
+Exsanguinate,8.7,0,0,0,0
 Summon Skitterbots,9.0,0,0,0,0
 Searing Bond,9.0,0,0,0,0
 Seismic Cry,10.0,0,0,0,0
@@ -282,125 +283,58 @@ Siege Ballista,10.0,0,0,0,0
 Vicious Projectiles Support,11.0,0,0,0,0
 Forbidden Rite,12.0,0,0,0,0
 Herald of Agony,13.98,0,0,0,0
-Exsanguinate,15.0,0,0,0,0
 Cobra Lash,19.0,0,0,0,0
 Lightning Penetration Support,20.0,0,0,0,0
 Nightblade Support,30.0,0,0,0,0
 Focused Ballista Support,39.0,0,0,0,0
 Explosive Arrow,39.0,0,0,0,0
 Empower Support,0.0,0,0,0,0
-Enhance Support,0.0,0,0,0,0
+Bone Offering,5.0,0,0,0,0
 Rain of Arrows,5.0,0,0,0,0
 Melee Splash Support,5.0,0,0,0,0
-High-Impact Mine Support,5.0,0,0,0,0
-Herald of Ice,4.0,0,0,0,0
+Steelskin,5.0,0,0,0,0
 Flicker Strike,4.0,0,0,0,0
 Blade Trap,4.1,0,0,0,0
 Withering Step,4.1,0,0,0,0
 Vortex,4.1,0,0,0,0
-Trap and Mine Damage Support,4.1,0,0,0,0
 Blazing Salvo,4.99,0,0,0,0
 Destructive Link,5.0,0,0,0,0
 Energy Blade,5.0,0,0,0,0
-Penance Brand,5.0,0,0,0,0
+High-Impact Mine Support,5.0,0,0,0,0
 Blood and Sand,5.0,0,0,0,0
-Discipline,5.0,0,0,0,0
 Frostblink,5.0,0,0,0,0
-Steelskin,5.0,0,0,0,0
 Consecrated Path,5.0,0,0,0,0
+Generosity Support,5.0,0,0,0,0
 Scourge Arrow,5.0,0,0,0,0
 Ice Bite Support,5.0,0,0,0,0
+Summon Lightning Golem,0.0,0,0,0,0
 Flame Dash,5.0,0,0,0,0
 Enduring Cry,5.0,0,0,0,0
 Fire Trap,5.0,0,0,0,0
+Trap and Mine Damage Support,5.0,0,0,0,0
 Lacerate,5.0,0,0,0,0
 Increased Critical Strikes Support,5.0,0,0,0,0
-Wintertide Brand,2.0,0,0,0,0
-Spellslinger,2.0,0,0,0,0
-Stormbind,0.0,0,0,0,0
-Bloodlust Support,1.0,0,0,0,0
-Ignite Proliferation Support,0.0,0,0,0,0
-Lightning Spire Trap,0.0,0,0,0,0
-Physical to Lightning Support,0.0,0,0,0,0
-Added Chaos Damage Support,0.0,0,0,0,0
-Controlled Destruction Support,0.0,0,0,0,0
-Flesh and Stone,0.0,0,0,0,0
-Kinetic Blast,0.0,0,0,0,0
-Winter Orb,0.0,0,0,0,0
-Added Fire Damage Support,0.0,0,0,0,0
-Impending Doom Support,1.0,0,0,0,0
-Pinpoint Support,1.0,0,0,0,0
-General's Cry,1.0,0,0,0,0
-Ancestral Cry,1.0,0,0,0,0
-Creeping Frost,1.0,0,0,0,0
+Discipline,5.0,0,0,0,0
+Raise Spectre,2.0,0,0,0,0
+Wrath,2.0,0,0,0,0
+Spell Echo Support,0.0,0,0,0,0
+Ethereal Knives,1.0,0,0,0,0
 Barrage Support,1.0,0,0,0,0
 Shrapnel Ballista,1.0,0,0,0,0
+Galvanic Arrow,1.0,0,0,0,0
 Infernal Legion Support,1.0,0,0,0,0
 Perforate,1.0,0,0,0,0
+Summon Phantasm Support,1.0,0,0,0,0
 Zealotry,1.0,0,0,0,0
 Purifying Flame,1.0,0,0,0,0
 Soulrend,1.0,0,0,0,0
 Shattering Steel,1.0,0,0,0,0
 Explosive Trap,1.0,0,0,0,0
-Flameblast,0.0,0,0,0,0
-Fist of War Support,0.0,0,0,0,0
-Summon Stone Golem,0.0,0,0,0,0
-Unleash Support,0.0,0,0,0,0
-Immolate Support,0.0,0,0,0,0
-Sniper's Mark,0.0,0,0,0,0
-Spectral Shield Throw,0.0,0,0,0,0
-Malevolence,0.0,0,0,0,0
-Incinerate,0.0,0,0,0,0
-Iron Will Support,0.0,0,0,0,0
-Spell Echo Support,0.0,0,0,0,0
-Rage Support,0.0,0,0,0,0
-Firestorm,0.0,0,0,0,0
-Bloodthirst Support,0.0,0,0,0,0
-Arrogance Support,0.0,0,0,0,0
-Charged Mines Support,0.0,0,0,0,0
-Burning Damage Support,0.0,0,0,0,0
-Lifetap Support,0.0,0,0,0,0
-Deadly Ailments Support,0.0,0,0,0,0
-Brutality Support,0.0,0,0,0,0
-Haste,0.0,0,0,0,0
-Vitality,0.0,0,0,0,0
-Wild Strike,0.0,0,0,0,0
-Spirit Offering,0.0,0,0,0,0
-Hextouch Support,0.0,0,0,0,0
-Bane,0.0,0,0,0,0
 Life Gain on Hit Support,1.0,0,0,0,0
+Bloodlust Support,1.0,0,0,0,0
 Multiple Traps Support,1.0,0,0,0,0
-Ambush,2.0,0,0,0,0
 Chance to Bleed Support,1.0,0,0,0,0
-Spell Totem Support,1.0,0,0,0,0
-Smoke Mine,1.0,0,0,0,0
-Shockwave Totem,1.0,0,0,0,0
-Desecrate,1.0,0,0,0,0
-Added Lightning Damage Support,1.0,0,0,0,0
-Rallying Cry,1.0,0,0,0,0
-Mirror Arrow,1.0,0,0,0,0
-Detonate Mines,0.0,0,0,0,0
-Defiance Banner,1.1,0,0,0,0
-Lightning Strike,1.1,0,0,0,0
-Caustic Arrow,1.1,0,0,0,0
-Lancing Steel,1.11,0,0,0,0
-Shield Crush,1.2,0,0,0,0
-Ruthless Support,1.22,0,0,0,0
-Rejuvenation Totem,1.22,0,0,0,0
-Sweep,1.22,0,0,0,0
-Trinity Support,1.33,0,0,0,0
-Corrupting Fever,1.8,0,0,0,0
-Animate Weapon,1.87,0,0,0,0
-Whirling Blades,1.99,0,0,0,0
-Divine Blessing Support,2.0,0,0,0,0
-Poisonous Concoction,2.0,0,0,0,0
-Summon Reaper,0.0,0,0,0,0
-Purity of Fire,1.0,0,0,0,0
-Riposte,1.0,0,0,0,0
-Static Strike,1.0,0,0,0,0
-Increased Critical Damage Support,1.0,0,0,0,0
 Chance to Flee Support,1.0,0,0,0,0
-Void Manipulation Support,1.0,0,0,0,0
 Spark,1.0,0,0,0,0
 Essence Drain,1.0,0,0,0,0
 Pierce Support,1.0,0,0,0,0
@@ -408,17 +342,83 @@ Ground Slam,1.0,0,0,0,0
 Flammability,1.0,0,0,0,0
 Blind Support,1.0,0,0,0,0
 Spell Cascade Support,1.0,0,0,0,0
+Ancestral Cry,1.0,0,0,0,0
+General's Cry,1.0,0,0,0,0
+Crackling Lance,1.0,0,0,0,0
+Hextouch Support,0.0,0,0,0,0
+Firestorm,0.0,0,0,0,0
+Bloodthirst Support,0.0,0,0,0,0
+Unleash Support,0.0,0,0,0,0
+Arrogance Support,0.0,0,0,0,0
+Deadly Ailments Support,0.0,0,0,0,0
+Greater Multiple Projectiles Support,0.0,0,0,0,0
+Brutality Support,0.0,0,0,0,0
+Haste,0.0,0,0,0,0
+Vitality,0.0,0,0,0,0
+Wild Strike,0.0,0,0,0,0
+Bane,0.0,0,0,0,0
+Pinpoint Support,1.0,0,0,0,0
+Charged Mines Support,0.0,0,0,0,0
+Summon Stone Golem,0.0,0,0,0,0
+Fist of War Support,0.0,0,0,0,0
+Flameblast,0.0,0,0,0,0
+Ignite Proliferation Support,0.0,0,0,0,0
+Added Chaos Damage Support,0.0,0,0,0,0
+Controlled Destruction Support,0.0,0,0,0,0
+Kinetic Blast,0.0,0,0,0,0
+Added Fire Damage Support,0.0,0,0,0,0
+Impending Doom Support,1.0,0,0,0,0
 Knockback Support,1.0,0,0,0,0
-Ethereal Knives,1.0,0,0,0,0
-Ancestral Protector,1.0,0,0,0,0
 Ice Trap,1.0,0,0,0,0
+Fireball,2.0,0,0,0,0
 Enfeeble,1.0,0,0,0,0
+Mirage Archer Support,1.22,0,0,0,0
+Sweep,1.22,0,0,0,0
+Trinity Support,1.33,0,0,0,0
+Void Manipulation Support,1.33,0,0,0,0
+Corrupting Fever,1.41,0,0,0,0
+Creeping Frost,1.44,0,0,0,0
+Animate Weapon,1.87,0,0,0,0
+Whirling Blades,1.99,0,0,0,0
+Divine Blessing Support,2.0,0,0,0,0
+Poisonous Concoction,2.0,0,0,0,0
+Summon Reaper,0.0,0,0,0,0
+Ambush,2.0,0,0,0,0
+Spellslinger,2.0,0,0,0,0
+Sigil of Power,2.0,0,0,0,0
+Wintertide Brand,2.0,0,0,0,0
+Plague Bearer,2.0,0,0,0,0
+Icicle Mine,2.0,0,0,0,0
+Precision,2.0,0,0,0,0
+Close Combat Support,2.0,0,0,0,0
+Dread Banner,2.0,0,0,0,0
+Storm Brand,2.0,0,0,0,0
+Seismic Trap,2.0,0,0,0,0
+Volatile Dead,2.0,0,0,0,0
+Rejuvenation Totem,1.22,0,0,0,0
+Defiance Banner,1.21,0,0,0,0
+Shield Charge,1.2,0,0,0,0
+Purity of Fire,1.0,0,0,0,0
 Spectral Throw,1.0,0,0,0,0
 Poacher's Mark,1.0,0,0,0,0
-Mirage Archer Support,1.0,0,0,0,0
 Puncture,1.0,0,0,0,0
 Freezing Pulse,1.0,0,0,0,0
 Despair,1.0,0,0,0,0
 Vigilant Strike,1.0,0,0,0,0
 Infernal Blow,1.0,0,0,0,0
+Ancestral Protector,1.0,0,0,0,0
+Static Strike,1.0,0,0,0,0
+Riposte,1.0,0,0,0,0
+Spell Totem Support,1.0,0,0,0,0
+Shield Crush,1.2,0,0,0,0
+Smoke Mine,1.0,0,0,0,0
+Desecrate,1.0,0,0,0,0
+Added Lightning Damage Support,1.0,0,0,0,0
+Rallying Cry,1.0,0,0,0,0
+Mirror Arrow,1.0,0,0,0,0
+Detonate Mines,0.0,0,0,0,0
+Lightning Strike,1.1,0,0,0,0
+Caustic Arrow,1.1,0,0,0,0
+Arc,1.1,0,0,0,0
+Lancing Steel,1.11,0,0,0,0
 Divine Ire,0.0,0,0,0,0
