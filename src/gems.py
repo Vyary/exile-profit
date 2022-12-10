@@ -6,7 +6,7 @@ class Gem:
     """
     Class for gem objects
 
-    Parameters
+    Parameters:
         name : Gem's name
         base_price : Buy price of the gem
         fail_price : Price of unsuccessful corruption

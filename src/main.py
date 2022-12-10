@@ -8,7 +8,7 @@ def gem_quality_type(name: str) -> str:
     """
     This function gets the gem quality type based on its prefix
 
-    Parameters
+    Parameters:
         name : The name of the gem
 
     Returns
@@ -39,7 +39,7 @@ def create_gem_object(
     This function creates a gem object in the `gems.Gem` class if
     it doesn't exist and updates the given price
 
-    Parameters
+    Parameters:
         gem_name : Name of the gem
         variant : Variant of the gem
         price : Price of the gem of current variant
@@ -88,7 +88,7 @@ def go_over_elements(data: dict) -> dict:
     calls a function to create an object for each gem, and
     returns a dictionary of gem objects
 
-    Args:
+    Parameters:
         data (dict) : A dictionary containing the collected data from
         the API response
 
@@ -122,7 +122,7 @@ def save_data(dict: dict):
     makes a dataframe, and saves the information in a CSV file
     in descending order by the "21/20" column
 
-    Args:
+    Parameters:
         dict (dict): A dictionary of gem objects
     """
     df = pd.DataFrame.from_dict(dict, orient="index")
@@ -141,7 +141,7 @@ def main():
     # Set the URL for the API call
     url = (
         "https://poe.ninja/api/data/itemoverview?league="
-        "Kalandra&type=SkillGem&language=en"
+        "Sanctum&type=SkillGem&language=en"
     )
     # Send a request to the API and get the response
     response = requests.get(url).json()

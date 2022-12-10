@@ -1,6 +1,6 @@
 <p align=center>
     <a href="https://www.pathofexile.com/" title="Path of Exile Website">
-      <img align="center" src="https://web.poecdn.com/protected/image/layout/lakeofkalandralogo.png?v=1662291060302.69&key=hpNs3Pfa9jU2LLSbRyZVnQ" />
+      <img align="center" src="https://web.poecdn.com/protected/image/layout/sanctumlogo.png?v=1670373174098&key=j1DUgpyrwdlKZcGWzaFxxA" />
     </a>
 </p>
 <h2 align="center">Path of Exile Gem Price Collector</h2>
