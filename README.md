@@ -50,6 +50,7 @@ In the file you will see a couple of rows starting with Gem Name followed by:
 
 Auto updating google sheet:
 --------
-With filter for base price under 20, fail price 50% higher than base price, success price 100 or higher and listings 5 or more [click here](https://docs.google.com/spreadsheets/d/1qcYu22DIwEORUYuTJNnYnxS5ceQx8y6XJhVjBai_0lI/edit#gid=520131547&fvid=1260077901)\
-With filter for base price under 100, fail price 50% higher than base price, success price 200 or higher and listings 10 or more [click here](https://docs.google.com/spreadsheets/d/1qcYu22DIwEORUYuTJNnYnxS5ceQx8y6XJhVjBai_0lI/edit#gid=520131547&fvid=1517331125)\
-Without filter: [click here](https://docs.google.com/spreadsheets/d/1qcYu22DIwEORUYuTJNnYnxS5ceQx8y6XJhVjBai_0lI)
+Filter: Buy price - under 20, Corrupted 20/20 - 50% higher than buy price, Success 21/20 price - 100 or higher and listings 5 or more [click here](https://docs.google.com/spreadsheets/d/1qcYu22DIwEORUYuTJNnYnxS5ceQx8y6XJhVjBai_0lI/edit#gid=520131547&fvid=1990356991)\
+Filter: Buy price - under 100, Corrupted 20/20 - 50% higher than buy price, Success 21/20 price - 200 or higher and listings 10 or more [click here](https://docs.google.com/spreadsheets/d/1qcYu22DIwEORUYuTJNnYnxS5ceQx8y6XJhVjBai_0lI/edit#gid=520131547&fvid=1078373684)\
+Filter for leveling without corrupting gems: Buy price - under 100, Leveled 20/20 price - 100% higher than buy price and listings 10 or more [click here](https://docs.google.com/spreadsheets/d/1qcYu22DIwEORUYuTJNnYnxS5ceQx8y6XJhVjBai_0lI/edit#gid=520131547&fvid=549113950)\
+Without filter: [click here](https://docs.google.com/spreadsheets/d/1qcYu22DIwEORUYuTJNnYnxS5ceQx8y6XJhVjBai_0lI/edit#gid=520131547)
