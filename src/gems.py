@@ -12,7 +12,7 @@ class Gem:
         fail_price : Price of unsuccessful corruption
         success_price : Price of successful corruption
         vaal_price : Price of vaal/semi-fail corruption
-        listed : How many successful gems of set gem are listed on 
+        listed : How many successful gems of set gem are listed on
             the market including offline offerings
     """
 
@@ -23,8 +23,11 @@ class Gem:
     base_price: float = 0
     fail_price: float = 0
     success_price: float = 0
+    listed_21_20: float = 0
     vaal_price: float = 0
-    listed: float = 0
+    leveled_price: float = 0
+    listed_leveled: float = 0
+
 
     def __repr__(self):
         return self.name

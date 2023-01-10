@@ -62,6 +62,8 @@ def create_gem_object(
         is_basic_1_20 = variant == "1/20" and quality == "Basic"
         is_alternative_1 = variant == "1" and quality == "Alternative"
         is_awakened_1 = variant == "1" and quality == "Awakened"
+        # leveled price
+        is_leveled_20_20 = variant == "20/20"
         # fail price
         is_not_vaal_20_20c = variant == "20/20c" and quality != "Vaal"
         is_awakened_5_20c = variant == "5/20c" and quality == "Awakened"
@@ -73,13 +75,16 @@ def create_gem_object(
 
         if is_basic_1_20 or is_alternative_1 or is_awakened_1:
             obj.base_price = price
+        elif is_leveled_20_20:
+            obj.leveled_price = price
+            obj.listed_leveled = listed
         elif is_not_vaal_20_20c or is_awakened_5_20c:
             obj.fail_price = price
         elif is_vaal_20_20c:
             obj.vaal_price = price
         elif is_not_vaal_21_20c or is_awakened_6_20c:
             obj.success_price = price
-            obj.listed = listed
+            obj.listed_21_20 = listed
 
 
 def go_over_elements(data: dict) -> dict:
@@ -128,10 +133,18 @@ def save_data(dict: dict):
     df = pd.DataFrame.from_dict(dict, orient="index")
 
     # Set the column names
-    df.columns = ["Gem Name", "Base", "20/20", "21/20", "Vaal price", "Listed"]  # type: ignore
-
+    df.columns = [
+        "Gem Name",
+        "Buy price",
+        "Corrupted 20/20",
+        "Success 21/20",
+        "Listed 21/20",
+        "Vaal price",
+        "Leveled 20/20",
+        "Listed L20/20",
+    ] # type: ignore
     # Sort the DataFrame by the "success price" column in descending order
-    df = df.sort_values("21/20", ascending=False)
+    df = df.sort_values("Success 21/20", ascending=False)
 
     # Save the DataFrame as a CSV file
     df.to_csv("output/gems.csv", index=False, encoding="utf-8")
