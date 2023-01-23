@@ -59,5 +59,6 @@ Auto updating google sheet:
 --------
 Filter: Buy price - under 20, Corrupted 20/20 - 50% higher than buy price, Success 21/20 price - 100 or higher and listings 5 or more [click here](https://docs.google.com/spreadsheets/d/1qcYu22DIwEORUYuTJNnYnxS5ceQx8y6XJhVjBai_0lI/edit#gid=520131547&fvid=1990356991)\
 Filter: Buy price - under 100, Corrupted 20/20 - 50% higher than buy price, Success 21/20 price - 200 or higher and listings 10 or more [click here](https://docs.google.com/spreadsheets/d/1qcYu22DIwEORUYuTJNnYnxS5ceQx8y6XJhVjBai_0lI/edit#gid=520131547&fvid=1078373684)\
+Same as above but without awakened gems: [click here](https://docs.google.com/spreadsheets/d/1qcYu22DIwEORUYuTJNnYnxS5ceQx8y6XJhVjBai_0lI/edit#gid=520131547&fvid=1816347774)\
 Filter for leveling without corrupting gems: Buy price - under 100, Leveled 20/20 price - 100% higher than buy price and listings 10 or more [click here](https://docs.google.com/spreadsheets/d/1qcYu22DIwEORUYuTJNnYnxS5ceQx8y6XJhVjBai_0lI/edit#gid=520131547&fvid=549113950)\
 Without filter: [click here](https://docs.google.com/spreadsheets/d/1qcYu22DIwEORUYuTJNnYnxS5ceQx8y6XJhVjBai_0lI/edit#gid=520131547)
