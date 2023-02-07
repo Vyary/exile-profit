@@ -124,9 +124,7 @@ def go_over_elements(data: dict) -> dict:
 def save_data(dict: dict):
     """
     This function goes over all objects in the class dictionary,
-    makes a dataframe, and saves the information in a CSV file
-    in descending order by the "21/20" column
-
+    makes a dataframe, and saves the information in two CSV files.
     Parameters:
         dict (dict): A dictionary of gem objects
     """
@@ -142,12 +140,38 @@ def save_data(dict: dict):
         "Vaal price",
         "Leveled 20/20",
         "Listed L20/20",
-    ] # type: ignore
-    # Sort the DataFrame by the "success price" column in descending order
-    df = df.sort_values("Success 21/20", ascending=False)
+    ]
 
-    # Save the DataFrame as a CSV file
-    df.to_csv("output/gems.csv", index=False, encoding="utf-8")
+    # Split the DataFrame into two separate dataframes based on the columns
+    df1 = df[
+        [
+            "Gem Name",
+            "Buy price",
+            "Corrupted 20/20",
+            "Success 21/20",
+            "Listed 21/20",
+            "Vaal price",
+        ]
+    ]
+
+    df2 = df[
+        [
+            "Gem Name",
+            "Buy price",
+            "Leveled 20/20",
+            "Listed L20/20",
+        ]
+    ]
+
+    # Sort the first DataFrame by the "Success 21/20" column in descending order
+    df1 = df1.sort_values("Success 21/20", ascending=False)
+    # Save the first DataFrame as a CSV file
+    df1.to_csv("output/gems_to_corrupt.csv", index=False, encoding="utf-8")
+
+    # Sort the second DataFrame by the "Leveled 20/20" column in descending order
+    df2 = df2.sort_values("Leveled 20/20", ascending=False)
+    # Save the second DataFrame as a CSV file
+    df2.to_csv("output/gems_to_level.csv", index=False, encoding="utf-8")
 
 
 def main():
