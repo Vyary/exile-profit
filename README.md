@@ -57,8 +57,14 @@ In the file you will see a couple of rows starting with Gem Name followed by:
 
 Auto updating google sheet:
 --------
-Filter: Buy price - under 20, Corrupted 20/20 - 50% higher than buy price, Success 21/20 price - 100 or higher and listings 5 or more [click here](https://docs.google.com/spreadsheets/d/1qcYu22DIwEORUYuTJNnYnxS5ceQx8y6XJhVjBai_0lI/edit#gid=520131547&fvid=1990356991)\
-Filter: Buy price - under 100, Corrupted 20/20 - 50% higher than buy price, Success 21/20 price - 200 or higher and listings 10 or more [click here](https://docs.google.com/spreadsheets/d/1qcYu22DIwEORUYuTJNnYnxS5ceQx8y6XJhVjBai_0lI/edit#gid=520131547&fvid=1078373684)\
-Same as above but without awakened gems: [click here](https://docs.google.com/spreadsheets/d/1qcYu22DIwEORUYuTJNnYnxS5ceQx8y6XJhVjBai_0lI/edit#gid=520131547&fvid=1816347774)\
-Filter for leveling without corrupting gems: Buy price - under 100, Leveled 20/20 price - 100% higher than buy price and listings 10 or more [click here](https://docs.google.com/spreadsheets/d/1qcYu22DIwEORUYuTJNnYnxS5ceQx8y6XJhVjBai_0lI/edit#gid=520131547&fvid=549113950)\
-Without filter: [click here](https://docs.google.com/spreadsheets/d/1qcYu22DIwEORUYuTJNnYnxS5ceQx8y6XJhVjBai_0lI/edit#gid=520131547)
+**For Leveling:**
+* Filter 1: This sheet includes gems with 50%-ish profit just to level them, they are not for corruping [click here](https://docs.google.com/spreadsheets/d/1qcYu22DIwEORUYuTJNnYnxS5ceQx8y6XJhVjBai_0lI/edit#gid=1128179025&fvid=2016462890)
+
+**For Corrupting:**
+* Filter 1: Good in league start with buy price under 20, 50%-ish profit if it fails, sell price for success is set to be more than 100 and only show gems with 10 or more listings [click here](https://docs.google.com/spreadsheets/d/1qcYu22DIwEORUYuTJNnYnxS5ceQx8y6XJhVjBai_0lI/edit#gid=520131547&fvid=434671070)
+
+* Filter 2: Great for mid league with buy price under 100, 50%-ish profit if it fails, sell price for success is set to be more than 200 and only show gems with 10 or more listings [click here](https://docs.google.com/spreadsheets/d/1qcYu22DIwEORUYuTJNnYnxS5ceQx8y6XJhVjBai_0lI/edit#gid=520131547&fvid=1816347774)
+
+* Filter 3: Has the same settings as Filter 2 but includes awakened gems but keep in mind they take longer to level good if you don't want to buy gems often [click here](https://docs.google.com/spreadsheets/d/1qcYu22DIwEORUYuTJNnYnxS5ceQx8y6XJhVjBai_0lI/edit#gid=520131547&fvid=1324263742)
+
+
