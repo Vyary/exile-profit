@@ -105,7 +105,12 @@ def go_over_elements(data: dict) -> dict:
         gem_name = gem["name"]
         variant = gem["variant"]
         price = gem["chaosValue"]
-        listed = gem["listingCount"]
+
+        # fixes issue if a gem is missing a listingCount
+        try:
+            listed = gem["listingCount"]
+        except KeyError:
+            listed = 0
 
         # Get the gem's quality
         quality = gem_quality_type(gem_name)
