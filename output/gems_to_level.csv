@@ -1,153 +1,155 @@
 Gem Name,Buy price,Leveled 20/20,Listed L20/20
+Divergent Cast when Damage Taken Support,2198.88,2391.28,55
 Divergent Immolate Support,6.2,2363.8,9
-Divergent Cast when Damage Taken Support,2198.88,2336.31,56
-Divergent Power Charge On Critical Support,1841.56,1924.02,46
-Phantasmal Cremation,1610.68,1924.02,61
+Divergent Power Charge On Critical Support,1841.56,1924.02,45
+Phantasmal Cremation,1566.7,1924.02,59
 Phantasmal Smite,1374.3,1852.56,33
-Anomalous Blood Rage,1236.87,1572.2,43
+Anomalous Blood Rage,1236.87,1423.77,45
 Divergent Determination,1209.38,1374.3,63
-Divergent Creeping Frost,1352.31,1374.3,34
-Divergent Tempest Shield,1099.44,1319.33,94
-Anomalous Defiance Banner,1049.97,1286.34,62
-Divergent Summon Skitterbots,934.52,1264.36,67
-Anomalous Precision,1209.38,1236.87,68
-Divergent Shockwave Totem,1016.98,1236.87,36
-Divergent Inspiration Support,1099.44,1099.44,202
+Divergent Creeping Frost,1374.3,1374.3,32
+Divergent Tempest Shield,1099.44,1352.31,93
+Anomalous Defiance Banner,1060.96,1324.83,59
+Divergent Shockwave Totem,1016.98,1236.87,35
+Divergent Summon Skitterbots,907.04,1236.87,66
+Anomalous Precision,1209.38,1236.87,63
 Phantasmal Decoy Totem,12.2,1099.44,6
-Divergent Void Manipulation Support,994.99,1099.44,50
-Anomalous Ice Spear,824.58,1005.99,70
-Anomalous Impending Doom Support,522.23,994.99,79
-Divergent Static Strike,824.58,962.01,42
+Divergent Void Manipulation Support,1049.97,1099.44,50
+Divergent Inspiration Support,1099.44,1099.44,204
+Divergent Static Strike,824.58,1071.95,41
+Anomalous Ice Spear,824.58,1016.98,69
+Anomalous Impending Doom Support,522.23,890.55,80
 Divergent Flame Wall,19.4,824.58,14
+Divergent Mark On Hit Support,549.72,824.58,127
+Phantasmal Leap Slam,764.11,824.58,55
 Divergent Stormblast Mine,10.0,824.58,10
-Divergent Mark On Hit Support,549.72,824.58,128
-Phantasmal Leap Slam,764.11,824.58,57
-Anomalous Summon Skeletons,549.72,725.63,73
 Divergent Purity of Elements,538.73,714.64,19
-Anomalous Malevolence,632.18,659.66,21
-Divergent Pulverise Support,472.76,643.17,101
+Anomalous Summon Skeletons,549.72,714.64,74
+Anomalous Malevolence,632.18,687.15,20
+Divergent Pulverise Support,467.26,659.66,100
 Anomalous Crackling Lance,22.2,604.69,9
-Phantasmal Unearth,411.74,549.72,64
-Divergent Divine Blessing Support,384.8,549.72,161
+Phantasmal Unearth,388.65,549.72,64
 Phantasmal Lightning Arrow,40.0,549.72,24
-Anomalous Elemental Penetration Support,0.0,549.72,3
-Anomalous Tornado Shot,412.29,549.72,165
-Anomalous Arrogance Support,329.83,549.72,180
+Anomalous Tornado Shot,412.29,549.72,168
+Divergent Divine Blessing Support,384.8,549.72,159
 Divergent Volley Support,10.0,549.72,10
+Anomalous Arrogance Support,329.83,549.72,177
+Anomalous Elemental Penetration Support,0.0,549.72,3
 Phantasmal Flame Wall,230.0,533.23,54
-Divergent Fireball,274.86,530.64,66
+Divergent Fireball,274.86,522.23,67
 Divergent Elemental Army Support,20.0,516.74,15
-Phantasmal Toxic Rain,64.0,494.75,20
-Divergent Spark,383.7,467.26,76
-Divergent Anger,54.0,439.78,15
-Divergent Haste,327.08,439.78,105
-Anomalous Kinetic Blast,274.86,439.78,97
+Phantasmal Toxic Rain,62.0,450.77,19
+Divergent Haste,274.86,439.78,105
+Anomalous Kinetic Blast,254.97,439.78,97
+Divergent Spark,357.32,439.78,76
+Divergent Anger,69.4,439.78,15
+Divergent Arctic Armour,186.0,412.29,58
 Divergent Sweep,9.6,412.29,15
-Divergent Arctic Armour,184.0,412.29,59
-Divergent Rage Support,302.35,412.29,29
-Divergent Cyclone,274.86,401.3,152
-Divergent Plague Bearer,200.0,401.3,72
+Divergent Plague Bearer,209.47,401.3,72
+Divergent Rage Support,302.35,401.3,29
 Divergent Lacerate,10.0,384.8,13
 Anomalous Greater Multiple Projectiles Support,274.86,384.8,144
-Divergent Summon Raging Spirit,187.0,362.82,83
-Divergent Boneshatter,209.47,357.32,79
-Anomalous Mana Leech Support,274.86,357.32,94
-Anomalous Feeding Frenzy Support,247.37,357.32,46
+Divergent Cyclone,274.86,384.8,152
+Anomalous Kinetic Bolt,50.0,372.46,15
+Divergent Summon Raging Spirit,180.0,362.82,85
+Anomalous Feeding Frenzy Support,247.37,357.32,47
+Divergent Boneshatter,258.37,357.32,79
+Anomalous Mana Leech Support,274.86,346.32,93
 Anomalous Grace,196.0,340.83,48
+Divergent Righteous Fire,200.0,329.83,231
 Divergent Melee Splash Support,274.86,329.83,158
-Divergent Righteous Fire,200.0,329.83,232
-Divergent Herald of Agony,274.86,329.83,297
+Divergent Herald of Agony,274.86,329.83,299
 Divergent Venom Gyre,130.0,302.35,28
 Anomalous Elemental Army Support,18.2,284.92,38
-Divergent Elemental Focus Support,20.0,274.86,9
-Anomalous Vitality,274.7,274.86,35
-Divergent Blade Trap,45.0,274.86,66
-Divergent Bane,25.0,274.86,18
 Phantasmal Earthquake,41.0,274.86,5
-Phantasmal Bodyswap,20.8,274.86,3
+Anomalous Cold Snap,11.2,274.86,27
+Anomalous Rain of Arrows,10.0,274.86,16
+Divergent Bonechill Support,99.2,274.86,198
+Divergent Seismic Cry,26.0,274.86,1
+Phantasmal Storm Call,24.4,274.86,6
+Anomalous Frost Blades,39.0,274.86,28
+Divergent Charged Mines Support,90.0,274.86,115
+Divergent Minion Damage Support,151.6,274.86,78
+Phantasmal Spectral Shield Throw,90.0,274.86,67
+Anomalous Swiftbrand Support,12.0,274.86,11
+Phantasmal Soulrend,108.0,274.86,56
+Divergent Bane,25.0,274.86,18
+Divergent Life Gain on Hit Support,25.0,274.86,27
+Divergent Blade Trap,43.8,274.86,67
+Anomalous Cremation,15.0,274.86,25
+Anomalous Vitality,274.7,274.86,33
 Divergent Herald of Thunder,20.0,274.86,26
 Anomalous Splitting Steel,15.0,274.86,4
-Anomalous Nightblade Support,108.0,274.86,85
+Anomalous Nightblade Support,107.0,274.86,85
+Divergent Lightning Trap,27.74,274.86,20
+Anomalous Punishment,18.0,274.86,26
 Anomalous Puncture,12.6,274.86,27
-Anomalous Spell Echo Support,164.0,274.86,142
-Divergent Seismic Cry,26.0,274.86,1
-Divergent Bonechill Support,99.6,274.86,198
-Anomalous Cremation,15.0,274.86,25
-Anomalous Rain of Arrows,10.0,274.86,16
+Anomalous Despair,147.4,274.86,279
+Anomalous Spell Echo Support,174.0,274.86,142
+Phantasmal Bodyswap,20.8,274.86,3
+Divergent Elemental Focus Support,20.0,274.86,9
+Phantasmal Spark,199.8,274.86,81
+Phantasmal Reave,92.0,274.86,17
 Anomalous Storm Brand,8.6,274.86,29
-Divergent Lightning Trap,27.84,274.86,20
-Phantasmal Soulrend,101.0,274.86,57
-Anomalous Swiftbrand Support,12.0,274.86,11
-Phantasmal Spark,199.0,274.86,81
 Divergent Bloodlust Support,9.0,274.86,3
-Divergent Charged Mines Support,90.0,274.86,114
-Divergent Life Gain on Hit Support,25.0,274.86,27
-Anomalous Punishment,18.0,274.86,24
-Phantasmal Spectral Shield Throw,92.0,274.86,67
-Anomalous Cold Snap,11.2,274.86,27
-Phantasmal Reave,93.6,274.86,17
-Anomalous Despair,143.0,274.86,279
-Phantasmal Storm Call,24.6,274.86,6
-Anomalous Frost Blades,40.0,274.86,28
-Divergent Bone Offering,100.0,274.59,168
-Divergent Minion Damage Support,150.0,271.89,78
-Divergent Feeding Frenzy Support,17.8,270.92,73
+Divergent Bone Offering,98.0,274.59,168
+Divergent Feeding Frenzy Support,17.6,272.89,74
 Phantasmal Seismic Cry,11.8,270.92,21
 Anomalous Vile Toxins Support,15.0,269.36,23
+Divergent Trap and Mine Damage Support,100.0,262.77,55
 Divergent Discharge,274.86,256.92,10
-Anomalous Blade Vortex,92.0,251.44,7
+Anomalous Blade Vortex,94.0,251.44,7
 Phantasmal Mirror Arrow,20.0,250.0,21
 Divergent Overcharge Support,10.8,245.11,18
 Divergent Infused Channelling Support,19.0,244.92,22
 Divergent Impale Support,13.0,244.92,40
-Divergent Trap and Mine Damage Support,100.0,244.63,57
-Anomalous Endurance Charge on Melee Stun Support,80.0,244.42,63
-Anomalous Frostbolt,33.4,239.97,34
+Anomalous Frostbolt,30.6,239.97,34
 Divergent Temporal Rift,10.0,238.0,13
-Phantasmal Ballista Totem Support,150.0,229.94,26
-Anomalous Added Chaos Damage Support,10.0,224.89,32
 Divergent Cast on Death Support,10.0,224.4,11
 Divergent Double Strike,9.0,221.09,9
-Anomalous Alchemist's Mark,9.6,220.0,14
 Anomalous Spellslinger,10.0,220.0,27
+Anomalous Added Chaos Damage Support,10.0,220.0,33
+Anomalous Alchemist's Mark,10.0,220.0,14
+Anomalous Endurance Charge on Melee Stun Support,80.0,216.0,63
 Divergent Greater Volley Support,30.0,215.91,79
 Divergent Chain Support,8.2,205.94,18
 Anomalous Hextouch Support,12.79,205.0,20
-Phantasmal Flameblast,9.2,204.92,21
-Anomalous Shield Charge,10.0,200.0,20
-Divergent Blasphemy Support,35.6,200.0,29
-Divergent Cleave,12.0,200.0,21
-Anomalous Shrapnel Ballista,29.2,200.0,15
-Anomalous Lacerate,16.2,200.0,24
-Anomalous Bladefall,8.4,200.0,7
-Anomalous Storm Burst,12.0,200.0,22
-Anomalous Flame Surge,109.2,200.0,94
-Anomalous Inspiration Support,150.0,200.0,272
-Anomalous Cursed Ground Support,13.4,200.0,37
+Phantasmal Flameblast,9.4,204.92,21
+Anomalous Lacerate,16.2,204.0,25
 Divergent Ground Slam,12.0,200.0,11
+Anomalous Shield Charge,10.0,200.0,20
+Anomalous Storm Burst,10.0,200.0,22
+Divergent Blasphemy Support,35.6,200.0,29
+Anomalous Flame Surge,109.2,200.0,94
+Divergent Cleave,12.0,200.0,21
+Anomalous Inspiration Support,150.0,200.0,268
 Anomalous Destructive Link,10.0,200.0,10
-Divergent Vitality,120.0,200.0,156
+Anomalous Cursed Ground Support,13.0,200.0,37
+Anomalous Bladefall,8.0,200.0,7
+Divergent Vitality,119.59,200.0,156
+Anomalous Shrapnel Ballista,29.2,200.0,15
 Divergent Enduring Cry,20.0,199.94,40
-Anomalous Cast when Damage Taken Support,130.0,199.0,140
-Divergent Ball Lightning,22.0,197.72,28
+Divergent Ball Lightning,20.0,197.72,28
 Anomalous Frost Wall,10.0,196.94,15
 Phantasmal Perforate,174.12,196.94,21
-Anomalous War Banner,84.8,196.0,45
-Divergent Intimidating Cry,10.0,191.44,15
+Anomalous War Banner,88.0,196.0,45
+Phantasmal Ballista Totem Support,150.0,194.0,26
+Divergent Intimidating Cry,10.0,190.96,15
 Anomalous Blade Blast,15.0,190.0,2
 Divergent Arcane Cloak,100.0,189.4,119
+Anomalous Cast when Damage Taken Support,129.0,188.0,139
 Divergent Cold to Fire Support,23.0,185.0,9
-Divergent Volatile Dead,37.0,184.0,39
+Anomalous Earthshatter,12.0,185.0,6
+Phantasmal Desecrate,119.4,184.0,31
+Divergent Volatile Dead,35.0,184.0,39
 Divergent Lightning Conduit,16.0,183.2,9
-Divergent Swift Assembly Support,40.0,182.48,171
 Divergent Essence Drain,12.0,182.0,20
-Anomalous Multiple Totems Support,20.0,181.98,52
+Divergent Multistrike Support,150.0,181.0,209
 Anomalous Purity of Elements,150.0,180.0,212
-Anomalous Increased Duration Support,73.2,180.0,172
-Anomalous Earthshatter,13.0,180.0,5
-Divergent Multistrike Support,150.0,180.0,210
-Phantasmal Desecrate,119.4,180.0,30
 Divergent Pierce Support,14.6,180.0,22
+Anomalous Increased Duration Support,70.0,180.0,170
+Divergent Deadly Ailments Support,96.0,180.0,16
+Divergent Swift Assembly Support,40.0,180.0,172
+Anomalous Multiple Totems Support,20.0,180.0,52
 Anomalous Lesser Multiple Projectiles Support,20.0,179.0,43
 Phantasmal Blink Arrow,69.2,177.0,53
 Divergent Explosive Concoction,10.8,174.97,21
@@ -156,1206 +158,1205 @@ Divergent Arcanist Brand,12.0,172.0,15
 Divergent Melee Physical Damage Support,10.0,172.0,29
 Divergent Discipline,25.0,171.0,19
 Anomalous Purity of Ice,10.0,169.94,25
-Anomalous Dread Banner,40.0,167.2,32
 Anomalous Ice Nova,25.0,164.92,49
+Divergent Withering Touch Support,100.0,164.0,167
 Divergent Purity of Lightning,25.0,163.94,10
-Divergent Withering Touch Support,100.0,160.0,166
-Divergent Swiftbrand Support,14.0,160.0,56
-Divergent Zealotry,61.0,160.0,35
+Divergent Swiftbrand Support,14.8,160.0,56
+Divergent Spirit Offering,20.0,160.0,87
 Anomalous Holy Flame Totem,15.0,160.0,16
-Divergent Temporal Chains,70.0,160.0,204
-Anomalous Vengeance,31.0,158.89,39
-Phantasmal Vengeance,72.0,158.0,53
-Divergent Molten Strike,15.0,158.0,16
-Divergent Spirit Offering,20.0,158.0,86
-Anomalous Spectral Throw,10.0,150.0,26
-Phantasmal Ice Spear,30.0,150.0,86
-Phantasmal Raise Spectre,20.0,150.0,21
-Divergent Unbound Ailments Support,10.0,150.0,35
-Anomalous Bonechill Support,20.0,150.0,90
-Anomalous Pyroclast Mine,10.0,150.0,30
-Phantasmal Frostbolt,50.0,150.0,65
-Anomalous Second Wind Support,28.55,150.0,111
-Divergent Stun Support,20.0,150.0,2
+Divergent Zealotry,61.0,160.0,35
+Divergent Molten Strike,15.0,158.97,15
+Anomalous Vengeance,35.0,158.89,39
+Divergent Temporal Chains,70.0,158.0,202
+Anomalous Dread Banner,40.0,153.6,33
+Divergent Energy Leech Support,20.0,152.4,40
 Anomalous Scourge Arrow,22.0,150.0,43
 Anomalous Mirage Archer Support,50.0,150.0,109
+Divergent Stun Support,20.0,150.0,2
+Phantasmal Frostbolt,50.0,150.0,64
+Anomalous Pyroclast Mine,10.0,150.0,30
+Phantasmal Ice Spear,30.0,150.0,85
+Divergent Unbound Ailments Support,10.0,150.0,35
+Anomalous Spectral Throw,10.0,150.0,26
+Phantasmal Vengeance,72.0,150.0,53
 Phantasmal Earthshatter,10.0,150.0,27
-Phantasmal Winter Orb,25.0,149.8,63
+Anomalous Bonechill Support,20.0,150.0,90
+Phantasmal Winter Orb,25.0,150.0,64
+Phantasmal Raise Spectre,20.0,150.0,21
+Anomalous Second Wind Support,28.43,150.0,111
 Anomalous Purity of Fire,10.0,148.0,33
-Anomalous Energy Leech Support,10.0,147.96,23
-Divergent Deadly Ailments Support,100.0,146.0,16
-Divergent Chance to Bleed Support,39.0,146.0,69
-Divergent Storm Brand,11.8,145.0,33
+Divergent Chance to Bleed Support,39.6,146.0,69
 Phantasmal Seismic Trap,11.0,145.0,30
-Anomalous Temporal Rift,28.4,144.0,47
-Anomalous Increased Critical Damage Support,25.0,144.0,44
+Divergent Storm Brand,15.8,145.0,33
+Anomalous Increased Critical Damage Support,27.0,144.0,44
 Divergent Predator Support,25.0,144.0,96
-Anomalous Faster Attacks Support,38.0,142.0,24
 Anomalous High-Impact Mine Support,10.0,142.0,28
+Anomalous Faster Attacks Support,38.0,142.0,24
 Anomalous Minion Life Support,30.0,141.8,32
-Anomalous Lightning Arrow,10.0,140.0,14
-Anomalous Discipline,70.0,140.0,118
-Anomalous Immortal Call,15.0,140.0,108
-Anomalous Petrified Blood,56.8,140.0,227
+Anomalous Lightning Arrow,11.0,140.0,14
+Anomalous Petrified Blood,58.4,140.0,228
+Anomalous Infused Channelling Support,20.0,140.0,84
+Anomalous Immortal Call,15.0,140.0,109
 Divergent Berserk,30.0,140.0,64
-Divergent Flicker Strike,45.0,140.0,124
-Anomalous Infernal Cry,15.0,139.0,45
-Anomalous Onslaught Support,20.0,138.2,75
+Anomalous Discipline,70.0,140.0,118
+Divergent Flicker Strike,44.6,140.0,123
+Divergent Rallying Cry,20.0,138.6,9
+Anomalous Onslaught Support,20.0,138.0,75
+Anomalous Assassin's Mark,75.0,137.0,235
 Phantasmal Sunder,10.0,136.0,16
 Divergent Frost Bomb,15.0,136.0,78
-Anomalous Assassin's Mark,75.0,136.0,234
-Anomalous Infused Channelling Support,20.0,136.0,83
+Anomalous Molten Shell,65.0,135.0,120
 Divergent Incinerate,15.6,134.97,20
 Divergent Manabond,10.4,134.0,15
 Divergent Unearth,10.0,134.0,32
-Anomalous Seismic Trap,10.0,134.0,23
-Anomalous Molten Shell,65.0,131.0,121
-Divergent Eternal Blessing Support,50.0,130.0,185
-Divergent Spell Echo Support,50.0,128.8,66
+Divergent Eternal Blessing Support,50.0,130.0,184
+Anomalous Energy Leech Support,10.0,130.0,24
+Anomalous Infernal Cry,15.0,130.0,44
+Phantasmal Ancestral Protector,78.6,128.2,262
 Phantasmal Holy Flame Totem,18.0,128.0,16
-Phantasmal Ancestral Protector,80.0,125.0,262
+Divergent Spell Echo Support,50.0,127.6,65
+Anomalous Item Rarity Support,10.0,126.0,26
+Phantasmal Rolling Magma,20.0,126.0,11
 Divergent Chain Hook,10.0,125.0,14
-Phantasmal Rolling Magma,20.0,122.4,11
-Anomalous Kinetic Bolt,50.0,120.8,17
-Anomalous Raise Spectre,39.8,120.0,50
-Divergent Purity of Ice,55.0,120.0,21
-Divergent Increased Critical Damage Support,14.8,120.0,49
-Anomalous Spark,30.0,120.0,118
-Anomalous Wrath,60.0,120.0,127
-Anomalous Hatred,59.2,120.0,114
-Anomalous Smite,15.6,120.0,61
-Divergent Summon Stone Golem,13.0,120.0,21
+Divergent Innervate Support,54.0,124.0,58
+Anomalous Hexblast,18.13,120.0,59
 Anomalous Infernal Blow,20.0,120.0,22
+Anomalous Wrath,59.6,120.0,128
 Anomalous Flammability,45.0,120.0,139
-Divergent Ice Spear,28.55,120.0,86
+Anomalous Hatred,59.6,120.0,114
+Divergent Summon Stone Golem,13.0,120.0,21
+Divergent Purity of Ice,55.0,120.0,21
+Anomalous Raise Spectre,40.0,120.0,51
+Anomalous Smite,15.6,120.0,61
+Divergent Ice Spear,29.0,120.0,85
+Anomalous Spark,30.0,120.0,118
 Anomalous Reave,10.2,119.2,22
-Anomalous Hexblast,16.2,116.0,58
-Divergent Animate Guardian,68.0,115.0,204
+Divergent Increased Critical Damage Support,14.8,119.0,49
+Anomalous Temporal Rift,24.6,116.0,47
+Divergent Animate Guardian,65.0,115.0,204
 Phantasmal Lightning Tendrils,20.0,114.0,18
-Phantasmal Galvanic Field,25.0,110.97,39
-Divergent Additional Accuracy Support,20.0,110.0,58
-Anomalous Frostbite,48.0,110.0,159
+Anomalous Seismic Trap,10.0,112.0,24
+Phantasmal Galvanic Field,24.0,110.97,39
+Divergent Arcane Surge Support,74.0,110.0,63
 Divergent Summon Holy Relic,17.6,110.0,36
-Anomalous Frost Bomb,12.0,109.4,65
-Anomalous Soulrend,9.4,108.0,26
-Anomalous Item Rarity Support,10.0,108.0,26
+Divergent Additional Accuracy Support,20.0,110.0,58
+Anomalous Frostbite,48.4,110.0,158
+Anomalous Frost Bomb,12.0,109.2,65
 Anomalous Spell Totem Support,13.2,108.0,13
-Divergent Rallying Cry,20.0,106.6,10
+Anomalous Soulrend,9.4,108.0,26
 Divergent Conductivity,13.8,106.0,30
 Phantasmal Hexblast,29.8,106.0,26
-Phantasmal Purifying Flame,10.0,104.0,8
-Anomalous Leap Slam,18.0,104.0,45
-Divergent Innervate Support,50.0,104.0,58
-Divergent Arcane Surge Support,79.0,104.0,65
+Phantasmal Purifying Flame,10.0,104.0,9
 Divergent Vortex,40.0,103.6,77
-Divergent Energy Leech Support,20.0,102.6,40
-Divergent Vicious Projectiles Support,12.0,102.0,15
+Anomalous Penance Brand,8.2,102.0,11
+Divergent Vicious Projectiles Support,15.0,102.0,15
+Anomalous Leap Slam,19.0,102.0,44
 Divergent Pinpoint Support,12.0,102.0,19
-Anomalous Penance Brand,5.0,102.0,11
-Anomalous Arcane Surge Support,60.0,101.0,121
 Divergent Spectral Shield Throw,10.0,100.46,34
-Divergent Summon Carrion Golem,7.0,100.0,37
-Anomalous Multistrike Support,14.0,100.0,25
-Anomalous Steelskin,20.0,100.0,40
-Anomalous Reap,30.0,100.0,52
-Anomalous Determination,39.6,100.0,134
-Anomalous Additional Accuracy Support,10.0,100.0,31
-Divergent Vigilant Strike,10.0,100.0,11
-Phantasmal Creeping Frost,20.0,100.0,56
-Anomalous Cruelty Support,20.0,100.0,76
-Phantasmal Sigil of Power,45.0,100.0,164
-Divergent Charged Traps Support,19.0,100.0,41
 Anomalous Viper Strike,10.0,100.0,8
-Anomalous Mirror Arrow,39.0,100.0,14
-Anomalous Toxic Rain,38.8,100.0,88
-Divergent Clarity,40.0,100.0,55
-Divergent Elemental Hit,10.0,100.0,10
-Anomalous Creeping Frost,13.0,100.0,47
-Anomalous Ancestral Warchief,20.0,100.0,63
-Anomalous Hypothermia Support,35.0,100.0,112
-Divergent Wild Strike,20.0,100.0,27
-Anomalous Freezing Pulse,15.0,100.0,60
-Divergent Close Combat Support,20.0,100.0,94
-Divergent Devouring Totem,6.6,100.0,5
-Divergent Tornado Shot,50.0,100.0,250
-Divergent Blazing Salvo,10.0,100.0,15
-Anomalous Bear Trap,23.4,100.0,85
-Anomalous Herald of Ice,21.2,100.0,50
+Anomalous Reap,30.0,100.0,52
+Anomalous Forbidden Rite,26.6,100.0,67
 Divergent Culling Strike Support,20.0,100.0,55
-Anomalous Spell Cascade Support,13.6,100.0,63
-Anomalous Convocation,17.4,100.0,106
-Divergent Ancestral Cry,15.0,100.0,40
-Divergent Dash,40.0,100.0,76
-Anomalous Lightning Strike,20.0,100.0,40
-Anomalous Forbidden Rite,25.8,100.0,67
-Anomalous Blast Rain,10.0,100.0,21
-Anomalous Culling Strike Support,25.0,100.0,74
-Divergent Arc,15.6,100.0,53
-Divergent Hypothermia Support,30.0,100.0,83
-Anomalous Ice Bite Support,20.0,100.0,46
-Phantasmal Vortex,10.0,100.0,30
-Anomalous Voltaxic Burst,16.8,100.0,32
+Divergent Vigilant Strike,10.0,100.0,11
+Anomalous Steelskin,20.0,100.0,40
 Divergent Pestilent Strike,5.0,100.0,9
-Anomalous Conversion Trap,9.8,100.0,25
-Anomalous Phase Run,30.0,100.0,122
+Anomalous Blast Rain,10.0,100.0,21
+Anomalous Multistrike Support,14.0,100.0,25
+Anomalous Bear Trap,24.4,100.0,85
+Anomalous Cruelty Support,20.0,100.0,76
+Phantasmal Sigil of Power,45.0,100.0,163
+Divergent Close Combat Support,20.0,100.0,94
+Phantasmal Storm Brand,20.0,100.0,44
+Anomalous Arcane Surge Support,60.0,100.0,120
+Divergent Tornado Shot,50.0,100.0,250
+Phantasmal Vortex,10.0,100.0,30
+Anomalous Ancestral Warchief,20.0,100.0,63
+Divergent Wild Strike,20.0,100.0,27
+Anomalous Voltaxic Burst,16.8,100.0,32
+Anomalous Determination,40.0,100.0,133
+Divergent Clarity,40.0,100.0,55
+Divergent Dash,40.0,100.0,76
+Elemental Penetration Support,200.0,100.0,114
+Anomalous Hypothermia Support,35.0,100.0,113
+Divergent Arrogance Support,15.0,100.0,22
+Anomalous Additional Accuracy Support,10.0,100.0,31
+Divergent Ancestral Cry,15.0,100.0,40
+Anomalous Convocation,18.2,100.0,106
+Divergent Charged Traps Support,19.0,100.0,41
 Anomalous Controlled Destruction Support,16.6,100.0,65
-Divergent Assassin's Mark,25.0,100.0,172
+Divergent Blazing Salvo,11.2,100.0,15
+Anomalous Spell Cascade Support,13.2,100.0,63
+Anomalous Culling Strike Support,25.0,100.0,74
+Divergent Elemental Hit,10.0,100.0,10
+Divergent Devouring Totem,6.6,100.0,5
+Anomalous Conversion Trap,9.8,100.0,25
+Anomalous Herald of Ice,20.8,100.0,50
+Anomalous Cleave,9.8,100.0,16
+Divergent Summon Carrion Golem,7.0,100.0,37
+Divergent Hypothermia Support,30.0,100.0,84
+Anomalous Freezing Pulse,15.0,100.0,60
+Anomalous Phase Run,30.0,100.0,122
+Anomalous Mirror Arrow,31.0,100.0,14
+Divergent Assassin's Mark,25.0,100.0,171
+Phantasmal Creeping Frost,20.0,100.0,57
+Anomalous Toxic Rain,37.4,100.0,88
+Anomalous Lightning Strike,20.0,100.0,40
+Divergent Arc,15.0,100.0,53
 Divergent Advanced Traps Support,10.0,99.92,49
-Elemental Penetration Support,200.0,99.8,115
-Divergent Grace,15.0,99.0,79
-Divergent Artillery Ballista,64.2,99.0,54
-Anomalous Shockwave Totem,25.0,99.0,79
-Phantasmal Lightning Warp,40.0,98.2,102
+Divergent Artillery Ballista,62.0,99.0,54
+Anomalous Shockwave Totem,26.37,99.0,79
+Phantasmal Lightning Warp,40.0,99.0,103
 Divergent Smite,15.6,98.2,52
-Divergent Pride,20.0,98.0,99
-Divergent Poisonous Concoction,20.0,98.0,64
 Divergent Immortal Call,20.0,98.0,23
-Anomalous Enfeeble,25.0,97.92,70
-Divergent Ballista Totem Support,25.0,97.2,59
-Anomalous Minion Speed Support,60.0,96.8,330
-Divergent Rejuvenation Totem,15.0,96.2,53
-Divergent Lifetap Support,15.0,96.0,52
+Divergent Pride,20.0,98.0,100
+Divergent Poisonous Concoction,22.4,98.0,64
+Anomalous Minion Speed Support,60.0,98.0,329
+Divergent Ballista Totem Support,24.8,97.2,59
+Divergent Grace,15.0,97.2,79
+Anomalous Creeping Frost,12.0,96.0,47
 Anomalous Flesh Offering,10.0,96.0,20
 Divergent Tectonic Slam,17.4,96.0,6
 Divergent Cremation,10.0,96.0,26
-Anomalous Zealotry,45.0,95.6,176
+Anomalous Zealotry,44.8,95.6,176
 Anomalous Corrupting Fever,20.0,95.4,40
-Anomalous Cast on Death Support,22.0,95.2,67
-Phantasmal Searing Bond,50.0,95.0,122
 Divergent Ancestral Call Support,28.0,95.0,36
-Anomalous Cast On Critical Strike Support,34.0,95.0,64
+Phantasmal Searing Bond,50.0,95.0,122
+Anomalous Cast On Critical Strike Support,31.0,95.0,64
 Divergent Minefield Support,12.0,94.97,29
-Divergent Urgent Orders Support,39.0,94.97,11
+Divergent Urgent Orders Support,39.2,94.97,11
 Anomalous Life Leech Support,15.0,94.0,16
-Divergent Arrogance Support,15.0,94.0,23
-Phantasmal Storm Brand,20.0,94.0,44
-Divergent Meat Shield Support,20.0,94.0,33
-Anomalous Generosity Support,20.0,94.0,44
-Divergent Spectral Throw,20.0,94.0,29
 Phantasmal Raise Zombie,31.0,94.0,14
-Divergent Decoy Totem,15.0,92.0,41
-Anomalous Barrage Support,17.6,92.0,54
+Divergent Meat Shield Support,20.0,94.0,33
+Divergent Spectral Throw,20.0,94.0,29
+Divergent Lifetap Support,15.0,94.0,52
+Anomalous Generosity Support,20.0,94.0,44
+Anomalous Enfeeble,25.0,93.96,70
+Divergent Rejuvenation Totem,15.0,93.4,53
+Anomalous Poacher's Mark,16.0,92.0,69
 Phantasmal Stormbind,7.2,92.0,16
-Divergent Explosive Trap,14.2,92.0,30
+Anomalous Barrage Support,17.0,92.0,54
 Phantasmal Fireball,10.8,92.0,25
+Divergent Frost Shield,27.4,92.0,116
+Divergent Explosive Trap,14.2,92.0,30
+Divergent Decoy Totem,15.0,92.0,41
+Divergent Fortify Support,12.0,90.97,23
 Divergent Despair,10.0,90.97,40
-Divergent Fortify Support,11.0,90.97,23
 Divergent Slower Projectiles Support,18.0,90.2,15
-Anomalous Caustic Arrow,20.0,90.0,86
-Divergent Frost Shield,29.2,90.0,117
-Anomalous Whirling Blades,10.4,90.0,42
-Anomalous Warlord's Mark,15.0,90.0,65
-Phantasmal Cleave,8.0,90.0,12
-Divergent Cobra Lash,17.4,90.0,26
-Divergent Purity of Fire,20.0,90.0,39
-Divergent Fork Support,13.0,90.0,25
-Phantasmal Bladestorm,20.0,90.0,21
-Anomalous Poacher's Mark,16.0,90.0,70
-Anomalous Ballista Totem Support,13.2,90.0,31
-Divergent Siege Ballista,9.0,90.0,20
-Divergent Herald of Ash,51.0,90.0,213
-Divergent Malevolence,40.0,90.0,171
-Anomalous Summon Stone Golem,40.0,90.0,179
 Anomalous Bloodthirst Support,14.2,90.0,69
+Divergent Malevolence,40.0,90.0,168
+Phantasmal Cleave,8.0,90.0,12
+Anomalous Whirling Blades,10.8,90.0,42
+Divergent Purity of Fire,20.0,90.0,39
+Anomalous Caustic Arrow,20.0,90.0,86
+Divergent Herald of Ash,51.0,90.0,213
+Divergent Frenzy,14.0,90.0,21
+Divergent Siege Ballista,9.0,90.0,20
+Divergent Fork Support,13.0,90.0,25
 Divergent Impending Doom Support,20.0,90.0,22
-Anomalous Ice Trap,20.0,90.0,76
-Anomalous Haste,30.0,90.0,66
-Divergent Precision,45.0,90.0,179
-Anomalous Focused Ballista Support,20.0,90.0,49
-Anomalous Frostblink,19.2,90.0,65
+Divergent Precision,45.0,90.0,178
 Phantasmal Frenzy,15.0,90.0,35
-Anomalous Efficacy Support,42.0,90.0,137
 Divergent Hatred,35.0,90.0,30
-Divergent Less Duration Support,10.0,89.0,5
-Anomalous Flame Dash,26.4,89.0,139
-Divergent Frenzy,14.0,88.0,20
+Anomalous Haste,30.0,90.0,66
+Anomalous Ballista Totem Support,13.2,90.0,31
+Phantasmal Bladestorm,20.0,90.0,21
+Divergent Cobra Lash,18.2,90.0,26
+Anomalous Frostblink,19.4,90.0,65
+Anomalous Warlord's Mark,15.0,90.0,65
+Anomalous Focused Ballista Support,20.0,90.0,49
+Anomalous Ice Trap,20.0,90.0,75
+Anomalous Efficacy Support,43.0,90.0,137
+Anomalous Summon Stone Golem,40.0,90.0,177
+Anomalous Flame Dash,30.0,89.2,138
+Divergent Less Duration Support,14.0,89.0,5
+Anomalous Summon Carrion Golem,15.0,88.4,64
 Divergent Spell Cascade Support,19.6,88.0,26
-Phantasmal Crackling Lance,28.0,87.0,56
+Anomalous Power Siphon,35.0,87.2,114
+Phantasmal Crackling Lance,23.0,87.0,56
 Divergent Shrapnel Ballista,9.4,86.97,12
-Divergent Increased Duration Support,10.0,86.6,62
-Anomalous Faster Projectiles Support,20.0,86.0,26
 Anomalous Double Strike,15.0,86.0,27
-Anomalous Conductivity,35.0,85.0,95
+Anomalous Faster Projectiles Support,20.0,86.0,26
+Divergent Increased Duration Support,10.0,85.8,62
+Anomalous Conductivity,35.0,85.0,94
 Anomalous Bane,5.6,84.0,62
+Anomalous Battlemage's Cry,20.0,84.0,44
 Anomalous Ice Shot,7.4,84.0,29
 Anomalous Infernal Legion Support,11.0,84.0,31
-Anomalous Power Siphon,35.0,83.6,114
 Anomalous Lightning Trap,10.0,83.4,29
-Anomalous Summon Carrion Golem,15.0,83.2,65
-Anomalous Sweep,8.8,82.0,14
+Anomalous Power Charge On Critical Support,19.0,82.0,75
+Divergent Enfeeble,20.0,82.0,75
 Anomalous Herald of Ash,15.0,82.0,17
 Divergent Toxic Rain,10.0,82.0,29
-Divergent Enfeeble,20.0,82.0,75
 Divergent Multiple Totems Support,30.0,82.0,76
-Anomalous Flesh and Stone,20.0,80.0,75
-Anomalous Herald of Purity,30.0,80.0,143
-Anomalous Increased Critical Strikes Support,15.0,80.0,56
-Anomalous Greater Volley Support,10.0,80.0,18
-Divergent Void Sphere,15.0,80.0,2
-Anomalous Withering Step,40.0,80.0,356
-Divergent Energy Blade,10.0,80.0,14
-Divergent Caustic Arrow,10.0,80.0,32
-Divergent Galvanic Field,15.0,80.0,21
-Phantasmal Arcanist Brand,10.0,80.0,21
-Anomalous Summon Lightning Golem,30.0,80.0,212
-Divergent Mirror Arrow,9.2,80.0,10
-Divergent Spell Totem Support,13.0,80.0,28
-Divergent Frostblink,40.0,80.0,156
-Anomalous Power Charge On Critical Support,20.0,80.0,76
-Divergent Galvanic Arrow,9.4,80.0,6
-Divergent Barrage Support,12.0,80.0,40
-Phantasmal Shattering Steel,5.0,80.0,14
+Anomalous Sweep,8.8,82.0,14
+Anomalous Frenzy,19.0,80.0,80
 Divergent Increased Critical Strikes Support,18.0,80.0,22
-Anomalous Added Cold Damage Support,15.0,80.0,18
+Phantasmal Shattering Steel,9.2,80.0,14
+Anomalous Increased Critical Strikes Support,15.0,80.0,56
 Divergent Convocation,23.0,80.0,21
-Anomalous Consecrated Path,15.0,80.0,71
-Anomalous Withering Touch Support,20.0,80.0,125
-Anomalous Summon Raging Spirit,13.4,80.0,43
+Divergent Galvanic Arrow,9.4,80.0,6
 Anomalous Multiple Traps Support,10.0,80.0,27
-Divergent Greater Multiple Projectiles Support,25.0,80.0,48
+Anomalous Summon Lightning Golem,30.0,80.0,211
+Divergent Caustic Arrow,10.0,80.0,31
+Divergent Mirror Arrow,9.2,80.0,10
+Anomalous Enduring Cry,14.0,80.0,71
+Divergent Spell Totem Support,13.0,80.0,28
+Anomalous Greater Volley Support,10.0,80.0,19
+Divergent Energy Blade,10.0,80.0,14
+Anomalous Summon Raging Spirit,13.4,80.0,43
+Divergent Greater Multiple Projectiles Support,27.4,80.0,48
+Anomalous Consecrated Path,15.0,80.0,71
+Anomalous Added Cold Damage Support,14.4,80.0,18
+Phantasmal Arcanist Brand,10.0,80.0,22
+Divergent Frostblink,40.0,80.0,156
+Divergent Galvanic Field,15.0,80.0,21
+Divergent Barrage Support,12.0,80.0,40
+Anomalous Herald of Purity,30.0,80.0,142
+Anomalous Withering Touch Support,20.0,80.0,125
+Anomalous Withering Step,40.0,80.0,357
 Anomalous Rallying Cry,3.0,79.98,20
 Divergent Hexblast,20.0,79.4,102
-Divergent Elemental Weakness,17.8,79.0,58
-Divergent Rain of Arrows,13.6,78.97,23
-Divergent Nightblade Support,10.0,78.0,19
+Divergent Elemental Weakness,17.6,79.0,58
+Anomalous Flesh and Stone,20.0,79.0,74
+Divergent Rain of Arrows,12.0,78.97,23
+Divergent Faster Projectiles Support,9.4,78.0,31
 Divergent Whirling Blades,13.0,78.0,32
-Divergent Heavy Strike,16.0,78.0,22
+Divergent Nightblade Support,10.0,78.0,19
 Anomalous Damage on Full Life Support,19.2,78.0,20
-Divergent Ancestral Protector,21.71,78.0,18
+Anomalous Cast on Death Support,23.0,78.0,68
+Divergent Ancestral Protector,21.69,78.0,18
 Divergent Glacial Cascade,15.0,78.0,29
-Divergent Shockwave Support,20.0,77.8,96
-Anomalous Volatile Dead,10.0,77.6,61
-Divergent Desecrate,22.8,77.0,70
-Phantasmal Ice Crash,11.0,77.0,31
+Divergent Shockwave Support,21.0,77.8,96
+Phantasmal Ice Crash,12.8,77.0,31
 Divergent Shield Crush,25.0,76.2,52
-Anomalous Vicious Projectiles Support,15.0,76.0,23
-Divergent Cast on Melee Kill Support,9.0,76.0,11
-Anomalous Frenzy,16.6,76.0,81
-Anomalous Faster Casting Support,38.0,76.0,52
-Anomalous Ruthless Support,15.8,76.0,23
-Anomalous Tempest Shield,28.24,76.0,107
+Anomalous Tempest Shield,28.43,76.0,107
+Anomalous Knockback Support,11.0,76.0,11
+Anomalous Ruthless Support,15.0,76.0,23
+Divergent Cast on Melee Kill Support,9.4,76.0,11
+Anomalous Faster Casting Support,44.0,76.0,52
 Divergent Ice Bite Support,10.0,75.4,20
-Anomalous Essence Drain,8.4,75.0,34
+Anomalous Volatile Dead,10.0,75.4,61
 Anomalous Winter Orb,10.0,75.0,19
-Anomalous Storm Call,9.6,75.0,29
-Divergent Frozen Legion,15.0,75.0,68
-Divergent Herald of Ice,10.8,75.0,63
-Anomalous Sniper's Mark,8.8,75.0,22
+Anomalous Essence Drain,8.4,75.0,34
+Anomalous Sniper's Mark,8.4,75.0,22
 Divergent Phase Run,15.0,75.0,25
-Divergent Earthshatter,8.0,74.97,49
+Divergent Void Sphere,15.0,75.0,2
+Divergent Herald of Ice,10.8,75.0,63
+Divergent Earthshatter,8.4,74.97,49
 Divergent Flame Dash,34.4,74.8,41
 Anomalous Purifying Flame,19.0,74.6,24
-Divergent Faster Projectiles Support,9.6,74.4,30
-Anomalous Knockback Support,12.0,74.4,11
-Divergent Animate Weapon,14.4,74.0,20
-Anomalous Battlemage's Cry,20.0,74.0,44
-Phantasmal Lightning Strike,10.0,74.0,33
-Anomalous Ethereal Knives,12.4,74.0,103
 Anomalous Rage Vortex,15.0,74.0,56
+Divergent Animate Weapon,14.4,74.0,20
 Anomalous Frost Shield,15.0,74.0,32
+Phantasmal Lightning Strike,10.0,74.0,33
 Divergent Freezing Pulse,10.0,74.0,37
+Anomalous Storm Call,9.8,73.0,29
+Divergent Heavy Strike,16.0,73.0,22
+Anomalous Ethereal Knives,14.0,73.0,103
 Anomalous Concentrated Effect Support,15.0,73.0,42
-Anomalous Vortex,10.0,72.0,51
-Anomalous Enduring Cry,14.0,72.0,71
-Divergent Increased Area of Effect Support,15.0,72.0,65
+Anomalous Overcharge Support,12.0,72.0,58
 Divergent Cruelty Support,19.0,72.0,32
 Anomalous Meat Shield Support,15.0,72.0,20
-Divergent Knockback Support,14.6,72.0,14
-Divergent Ancestral Warchief,9.0,72.0,18
+Anomalous Vortex,10.0,72.0,51
 Phantasmal Ice Nova,10.0,72.0,20
+Divergent Frozen Legion,15.0,72.0,69
+Divergent Mirage Archer Support,20.0,72.0,164
+Divergent Increased Area of Effect Support,15.0,72.0,65
+Divergent Ancestral Warchief,9.0,72.0,18
 Divergent Burning Damage Support,9.8,71.8,35
 Divergent Generosity Support,15.0,71.0,52
-Divergent Mirage Archer Support,20.0,71.0,163
-Anomalous Pierce Support,19.8,70.0,108
-Anomalous Combustion Support,15.0,70.0,75
-Anomalous Less Duration Support,15.0,70.0,46
-Divergent Rolling Magma,8.0,70.0,6
-Anomalous Orb of Storms,11.2,70.0,41
-Divergent Divine Ire,12.4,70.0,15
-Divergent Wither,15.0,70.0,27
-Divergent Infernal Cry,9.6,70.0,18
-Anomalous Impale Support,12.4,70.0,67
-Divergent Frost Wall,10.0,70.0,23
-Anomalous Sigil of Power,20.0,70.0,52
-Anomalous Fortify Support,13.0,70.0,48
-Anomalous Divine Blessing Support,15.0,70.0,65
-Anomalous Melee Physical Damage Support,18.8,70.0,31
-Anomalous Blastchain Mine Support,10.0,70.0,74
-Divergent Barrage,16.0,70.0,42
-Anomalous Arcanist Brand,10.8,70.0,26
-Divergent Trinity Support,19.0,70.0,72
-Anomalous Reckoning,20.0,70.0,35
-Anomalous Herald of Agony,13.0,70.0,67
-Anomalous Temporal Chains,28.55,70.0,184
+Divergent Desecrate,20.0,71.0,70
 Anomalous Bodyswap,10.0,70.0,17
-Anomalous Eternal Blessing Support,14.0,70.0,34
-Anomalous Summon Ice Golem,20.0,70.0,93
-Anomalous Slower Projectiles Support,10.0,70.0,39
+Anomalous Sigil of Power,20.0,70.0,52
+Anomalous Arcanist Brand,10.8,70.0,26
+Anomalous Divine Blessing Support,15.0,70.0,64
+Anomalous Arctic Armour,13.0,70.0,108
+Anomalous Trap and Mine Damage Support,38.0,70.0,271
+Anomalous Vicious Projectiles Support,15.0,70.0,23
+Anomalous Less Duration Support,14.0,70.0,46
 Anomalous Pinpoint Support,9.4,70.0,19
-Divergent Voltaxic Burst,10.0,70.0,37
-Anomalous Arctic Armour,14.6,70.0,107
-Anomalous Trap and Mine Damage Support,38.8,70.0,270
+Divergent Barrage,16.0,70.0,42
+Anomalous Temporal Chains,28.43,70.0,184
+Anomalous Summon Ice Golem,20.0,70.0,92
+Divergent Infernal Cry,9.6,70.0,18
+Anomalous Combustion Support,15.0,70.0,75
+Anomalous Reckoning,20.0,70.0,35
+Anomalous Impale Support,12.4,70.0,67
+Anomalous Blastchain Mine Support,10.0,70.0,75
 Divergent Blade Blast,28.0,70.0,2
-Phantasmal Siege Ballista,13.6,69.6,10
+Divergent Rolling Magma,8.0,70.0,6
+Anomalous Eternal Blessing Support,9.0,70.0,34
+Anomalous Pierce Support,20.0,70.0,108
+Anomalous Fortify Support,13.0,70.0,48
+Divergent Frost Wall,10.0,70.0,23
+Divergent Voltaxic Burst,10.0,70.0,37
+Anomalous Herald of Agony,13.0,70.0,67
+Divergent Wither,15.0,70.0,27
+Anomalous Orb of Storms,11.2,70.0,41
+Divergent Trinity Support,19.0,70.0,72
+Divergent Divine Ire,11.6,70.0,15
+Anomalous Slower Projectiles Support,10.0,70.0,39
+Anomalous Melee Physical Damage Support,18.8,69.98,31
+Phantasmal Siege Ballista,13.8,69.6,10
 Anomalous Arrow Nova Support,10.0,69.2,16
 Divergent Dominating Blow,9.2,69.0,15
-Phantasmal Discharge,24.0,69.0,19
-Anomalous Siege Ballista,15.0,68.0,56
+Phantasmal Discharge,25.0,69.0,19
 Phantasmal Summon Skeletons,19.0,68.0,46
-Divergent Forbidden Rite,10.0,68.0,48
-Divergent Exsanguinate,15.0,68.0,65
+Anomalous Siege Ballista,15.8,68.0,56
+Divergent Exsanguinate,14.4,68.0,65
 Divergent Explosive Arrow,15.0,68.0,43
 Anomalous Summon Reaper,21.2,68.0,11
-Divergent Focused Ballista Support,9.0,68.0,67
+Divergent Forbidden Rite,10.0,68.0,48
 Divergent Minion Speed Support,14.0,67.2,53
-Divergent Unleash Support,12.6,67.2,36
 Anomalous Mark On Hit Support,20.0,67.2,59
 Anomalous Split Arrow,12.2,67.0,20
 Divergent Armageddon Brand,15.8,67.0,15
-Anomalous Overcharge Support,12.0,66.0,57
+Anomalous Artillery Ballista,10.0,66.0,32
 Divergent Riposte,10.0,66.0,20
+Divergent Focused Ballista Support,9.0,66.0,66
 Anomalous Glacial Cascade,10.0,65.2,29
-Anomalous Vampiric Link,10.0,65.0,9
-Divergent Perforate,12.0,65.0,26
-Divergent Multiple Traps Support,10.0,65.0,22
+Divergent Perforate,16.2,65.0,26
 Anomalous Siphoning Trap,13.2,65.0,11
+Divergent Multiple Traps Support,10.0,65.0,22
+Anomalous Vampiric Link,10.0,65.0,9
 Divergent Sniper's Mark,12.0,64.2,63
-Divergent Fist of War Support,21.8,64.0,36
-Anomalous Cold to Fire Support,17.2,64.0,105
+Anomalous Cold to Fire Support,17.0,64.2,105
+Divergent Frost Blades,10.0,64.0,62
+Divergent Fist of War Support,10.0,64.0,36
 Divergent Ruthless Support,15.0,64.0,31
-Anomalous Summon Phantasm Support,11.6,64.0,14
-Divergent Conversion Trap,10.2,63.6,19
+Divergent Combustion Support,15.0,64.0,76
+Divergent Conversion Trap,13.4,63.6,19
 Divergent Punishment,15.0,63.0,61
+Divergent Knockback Support,14.6,63.0,14
 Anomalous Flamethrower Trap,10.0,62.0,22
+Anomalous Cold Penetration Support,10.0,62.0,29
+Divergent Reckoning,14.0,62.0,33
 Anomalous Predator Support,10.0,62.0,45
 Anomalous Clarity,20.0,62.0,50
-Divergent Blight,8.8,62.0,32
-Divergent Reckoning,14.0,62.0,33
+Divergent Blight,10.0,62.0,32
+Anomalous Summon Phantasm Support,11.6,61.0,14
 Phantasmal Cyclone,11.0,61.0,42
-Anomalous Summon Chaos Golem,20.0,61.0,91
-Divergent Bloodthirst Support,10.0,61.0,41
 Divergent Swift Affliction Support,20.0,60.8,23
 Anomalous Cast on Melee Kill Support,10.0,60.6,17
-Anomalous Blazing Salvo,10.0,60.0,51
-Divergent Soul Link,10.0,60.0,10
-Anomalous Physical to Lightning Support,13.8,60.0,60
-Anomalous Riposte,10.0,60.0,37
-Divergent Combustion Support,15.2,60.0,77
 Anomalous Dash,10.0,60.0,62
-Anomalous Manabond,10.0,60.0,18
-Anomalous Deadly Ailments Support,15.0,60.0,86
-Divergent Flesh and Stone,10.0,60.0,20
-Divergent Frost Blades,10.0,60.0,65
-Anomalous Blade Trap,10.0,60.0,31
 Divergent Flame Link,10.0,60.0,13
-Divergent Smoke Mine,35.0,60.0,20
-Phantasmal Tectonic Slam,10.0,60.0,20
-Divergent Flesh Offering,20.0,60.0,139
-Anomalous Added Lightning Damage Support,15.0,60.0,18
-Anomalous Explosive Arrow,8.8,60.0,40
-Anomalous Berserk,14.8,60.0,88
-Anomalous Fireball,15.0,60.0,105
+Divergent Bloodthirst Support,10.0,60.0,41
 Divergent Kinetic Blast,20.0,60.0,124
-Divergent Purifying Flame,30.0,60.0,130
-Anomalous Icicle Mine,25.0,60.0,132
-Anomalous Cold Penetration Support,10.0,60.0,30
-Divergent Defiance Banner,10.0,60.0,78
-Anomalous Detonate Dead,24.0,60.0,134
-Anomalous Shock Nova,30.0,60.0,65
+Anomalous Berserk,15.0,60.0,88
+Anomalous Blazing Salvo,10.0,60.0,51
 Anomalous Intensify Support,13.8,60.0,39
+Anomalous Summon Chaos Golem,20.0,60.0,90
+Anomalous Physical to Lightning Support,13.4,60.0,60
+Phantasmal Tectonic Slam,10.0,60.0,20
+Divergent Purifying Flame,30.0,60.0,129
+Anomalous Manabond,10.0,60.0,18
+Anomalous Deadly Ailments Support,15.0,60.0,85
+Anomalous Close Combat Support,10.0,60.0,12
+Anomalous Detonate Dead,24.0,60.0,134
+Divergent Soul Link,10.0,60.0,10
+Divergent Flesh Offering,20.0,60.0,138
+Anomalous Riposte,10.0,60.0,37
+Divergent Smoke Mine,35.0,60.0,20
+Anomalous Explosive Arrow,8.8,60.0,40
+Anomalous Added Lightning Damage Support,15.0,60.0,18
+Anomalous Fireball,15.0,60.0,105
+Anomalous Icicle Mine,25.0,60.0,133
+Divergent Flesh and Stone,10.0,60.0,20
+Anomalous Ice Bite Support,20.0,60.0,47
 Anomalous Maim Support,15.0,60.0,44
-Anomalous Close Combat Support,10.0,60.0,11
+Anomalous Shock Nova,30.0,60.0,65
+Divergent Defiance Banner,10.0,59.8,77
 Phantasmal Dual Strike,20.0,59.6,7
-Anomalous Pulverise Support,15.0,59.2,75
-Anomalous Perforate,6.6,59.0,37
-Divergent Storm Call,20.0,59.0,19
+Anomalous Pulverise Support,15.0,59.2,74
 Divergent Sunder,9.4,59.0,18
+Anomalous Perforate,6.6,59.0,37
 Anomalous Blind Support,12.0,59.0,37
-Anomalous Summon Skitterbots,15.0,59.0,105
-Anomalous Absolution,8.4,58.0,23
-Anomalous Lightning Spire Trap,10.0,58.0,31
-Anomalous Volcanic Fissure,10.0,58.0,78
-Divergent Storm Burst,15.0,58.0,22
-Anomalous Life Gain on Hit Support,6.6,58.0,25
-Divergent Spellslinger,10.0,58.0,25
+Divergent Storm Call,20.0,59.0,19
+Divergent Unleash Support,12.6,59.0,36
 Divergent Viper Strike,20.0,58.0,25
+Anomalous Volcanic Fissure,10.0,58.0,78
+Anomalous Lightning Spire Trap,10.0,58.0,31
+Anomalous Summon Skitterbots,15.0,58.0,105
+Anomalous Life Gain on Hit Support,6.0,58.0,25
+Divergent Storm Burst,14.6,58.0,22
+Anomalous Righteous Fire,15.0,58.0,59
 Divergent Raise Zombie,14.0,58.0,47
 Phantasmal Stormblast Mine,13.0,58.0,15
+Anomalous Absolution,8.4,58.0,23
+Divergent Spellslinger,10.0,58.0,25
 Divergent Lightning Strike,10.0,57.6,28
 Divergent Bladestorm,10.0,57.0,14
-Divergent Leap Slam,12.6,56.0,34
-Phantasmal Dominating Blow,20.0,56.0,22
-Divergent Efficacy Support,15.0,56.0,39
-Anomalous Storm Rain,20.0,56.0,73
-Divergent Summon Ice Golem,9.0,56.0,16
-Phantasmal Wave of Conviction,22.0,56.0,33
+Divergent Leap Slam,13.4,56.0,34
 Anomalous Ancestral Cry,10.0,56.0,12
+Phantasmal Wave of Conviction,20.0,56.0,32
+Divergent Summon Ice Golem,9.0,56.0,16
+Divergent Efficacy Support,15.0,56.0,39
+Phantasmal Dominating Blow,20.0,56.0,22
+Anomalous Storm Rain,20.0,56.0,73
 Anomalous Trap Support,5.8,55.4,39
-Anomalous Ball Lightning,10.0,55.0,38
-Anomalous Elemental Weakness,19.8,55.0,25
-Anomalous Cleave,9.8,55.0,16
+Anomalous Elemental Weakness,22.4,55.0,25
 Divergent Scorching Ray,10.0,55.0,16
-Divergent Alchemist's Mark,10.0,54.8,18
+Anomalous Ball Lightning,10.0,55.0,38
 Phantasmal Intimidating Cry,10.0,54.8,39
+Divergent Alchemist's Mark,10.0,54.8,18
+Divergent Herald of Purity,10.0,54.8,46
+Divergent Infernal Legion Support,11.6,54.0,24
+Divergent Fire Trap,22.0,54.0,13
 Divergent Onslaught Support,10.0,54.0,32
 Divergent Holy Flame Totem,6.2,54.0,23
-Anomalous Arc,15.0,54.0,85
-Divergent Fire Trap,20.0,54.0,13
-Divergent Infernal Legion Support,11.6,54.0,24
-Divergent Herald of Purity,10.0,53.2,45
 Anomalous Increased Area of Effect Support,15.0,53.0,65
 Divergent Life Leech Support,17.0,52.6,21
+Anomalous Blade Trap,10.0,52.0,31
+Divergent Blood Rage,15.0,52.0,77
 Divergent Cast On Critical Strike Support,10.0,52.0,82
-Divergent Blood Rage,15.0,52.0,76
+Anomalous Arc,15.0,52.0,83
+Anomalous Smoke Mine,10.0,52.0,34
 Anomalous Hex Bloom Support,15.0,51.8,82
 Anomalous Charged Traps Support,10.0,51.0,30
-Divergent Added Chaos Damage Support,30.0,50.0,33
-Divergent Endurance Charge on Melee Stun Support,10.0,50.0,23
-Power Charge On Critical Support,15.0,50.0,373
-Devouring Totem,3.0,50.0,7
-Divergent Frostbolt,10.0,50.0,27
-Divergent Ensnaring Arrow,9.59,50.0,24
+Anomalous Dark Pact,10.0,50.0,50
 Phantasmal Viper Strike,26.0,50.0,1
-Anomalous Summon Flame Golem,20.0,50.0,83
-Anomalous Lightning Tendrils,6.8,50.0,10
-Anomalous Elemental Proliferation Support,10.0,50.0,65
-Divergent Chance to Poison Support,12.0,50.0,44
-Divergent Cast when Stunned Support,10.0,50.0,39
-Divergent Vulnerability,11.2,50.0,18
 Divergent Trap Support,10.0,50.0,39
 Anomalous Scorching Ray,13.0,50.0,11
-Anomalous Stun Support,10.0,50.0,9
-Divergent Siphoning Trap,8.0,50.0,22
-Divergent Hydrosphere,10.0,50.0,56
-Anomalous Stormbind,8.4,50.0,44
+Anomalous Lightning Tendrils,7.4,50.0,10
+Devouring Totem,3.0,50.0,7
 Anomalous Sunder,10.0,50.0,42
-Phantasmal Arc,19.0,50.0,4
-Anomalous Dark Pact,10.0,50.0,50
-Anomalous Iron Will Support,10.0,50.0,23
-Phantasmal Pyroclast Mine,10.0,50.0,17
-Anomalous Decay Support,10.4,50.0,29
-Anomalous Lancing Steel,15.8,50.0,26
-Divergent Maim Support,15.0,50.0,40
-Anomalous Molten Strike,10.0,50.0,24
-Anomalous Trinity Support,11.6,50.0,33
-Divergent Added Lightning Damage Support,11.2,50.0,39
-Anomalous Urgent Orders Support,18.2,50.0,97
+Anomalous Elemental Proliferation Support,10.0,50.0,65
+Divergent Endurance Charge on Melee Stun Support,10.0,50.0,23
+Anomalous Summon Flame Golem,20.0,50.0,82
+Divergent Ensnaring Arrow,9.59,50.0,24
+Anomalous Swift Assembly Support,9.2,50.0,28
+Divergent Chance to Poison Support,11.6,50.0,44
 Anomalous Spirit Offering,10.0,50.0,25
-Anomalous Rage Support,15.0,50.0,60
-Divergent Second Wind Support,15.0,50.0,28
-Anomalous Swift Assembly Support,9.6,50.0,28
-Phantasmal Consecrated Path,18.0,50.0,15
-Divergent Earthbreaker Support,10.0,50.0,26
-Phantasmal Summon Raging Spirit,20.0,50.0,31
-Anomalous Raise Zombie,10.0,50.0,43
-Divergent Lesser Multiple Projectiles Support,12.0,50.0,29
-Divergent Wave of Conviction,19.0,50.0,26
-Anomalous Venom Gyre,10.4,50.0,90
-Anomalous Righteous Fire,15.0,50.0,60
-Divergent Lightning Arrow,15.0,50.0,64
-Anomalous Fist of War Support,10.8,50.0,23
-Anomalous Exsanguinate,18.4,50.0,94
-Anomalous Herald of Thunder,10.0,50.0,41
-Divergent Summon Reaper,15.0,50.0,46
+Divergent Siphoning Trap,8.0,50.0,22
 Divergent Sigil of Power,10.0,50.0,33
+Divergent Cast when Stunned Support,10.0,50.0,39
+Divergent Vulnerability,11.2,50.0,18
+Phantasmal Summon Raging Spirit,20.0,50.0,31
+Power Charge On Critical Support,15.0,50.0,372
+Anomalous Lancing Steel,15.8,50.0,26
+Divergent Summon Skeletons,14.6,50.0,44
+Anomalous Iron Will Support,10.0,50.0,23
+Divergent Wave of Conviction,19.0,50.0,26
+Anomalous Venom Gyre,10.0,50.0,91
+Anomalous Stormbind,8.4,50.0,44
+Anomalous Rage Support,15.0,50.0,60
+Phantasmal Consecrated Path,18.0,50.0,15
+Divergent Added Lightning Damage Support,10.0,50.0,39
+Anomalous Fist of War Support,11.0,50.0,23
+Divergent Summon Reaper,15.0,50.0,46
+Anomalous Herald of Thunder,10.0,50.0,41
+Divergent Lesser Multiple Projectiles Support,12.0,50.0,29
+Anomalous Urgent Orders Support,18.2,50.0,97
+Divergent Lightning Arrow,15.0,50.0,64
+Anomalous Molten Strike,10.0,50.0,25
+Divergent Hydrosphere,10.0,50.0,56
+Anomalous Decay Support,10.4,50.0,29
+Divergent Maim Support,15.0,50.0,40
+Divergent Added Chaos Damage Support,30.0,50.0,33
+Divergent Frostbolt,10.0,50.0,26
+Phantasmal Arc,19.0,50.0,4
+Anomalous Trinity Support,10.0,50.0,33
+Anomalous Exsanguinate,18.4,50.0,94
+Phantasmal Pyroclast Mine,10.0,50.0,17
+Divergent Second Wind Support,15.0,50.0,28
+Anomalous Stun Support,10.0,50.0,9
+Anomalous Raise Zombie,10.0,50.0,43
+Divergent Earthbreaker Support,10.0,50.0,26
 Anomalous Cluster Traps Support,10.6,49.8,48
 Anomalous Melee Splash Support,10.0,49.6,55
-Divergent War Banner,9.8,49.0,32
-Divergent Dread Banner,14.6,49.0,72
+Divergent War Banner,9.6,49.0,32
 Anomalous Chance to Poison Support,30.0,49.0,27
+Divergent Dread Banner,14.6,49.0,72
 Phantasmal Blast Rain,10.0,48.0,13
-Anomalous Cyclone,12.0,48.0,61
-Divergent Dark Pact,15.0,48.0,49
-Anomalous Unbound Ailments Support,11.6,48.0,71
-Phantasmal Rallying Cry,10.0,48.0,18
-Anomalous Added Fire Damage Support,10.0,48.0,13
-Anomalous Void Sphere,13.0,48.0,22
-Anomalous Blink Arrow,8.8,48.0,23
 Anomalous Anger,10.0,48.0,39
-Divergent Ice Trap,20.0,48.0,47
-Anomalous Wintertide Brand,16.0,48.0,22
-Divergent Damage on Full Life Support,12.0,47.0,19
+Phantasmal Rallying Cry,10.0,48.0,18
+Anomalous Unbound Ailments Support,12.4,48.0,71
+Anomalous Void Sphere,12.0,48.0,22
+Anomalous Blink Arrow,8.8,48.0,23
+Anomalous Wintertide Brand,10.0,48.0,22
+Anomalous Added Fire Damage Support,10.0,48.0,13
+Anomalous Cyclone,12.0,48.0,61
 Divergent Lightning Warp,14.0,47.0,21
+Divergent Damage on Full Life Support,12.0,47.0,19
 Anomalous Hydrosphere,10.0,46.6,30
+Divergent Dark Pact,15.0,46.0,48
 Anomalous Boneshatter,15.0,46.0,60
-Phantasmal Wild Strike,13.0,46.0,25
-Divergent Frostbite,15.0,46.0,56
+Phantasmal Wild Strike,13.4,46.0,25
+Divergent Ice Trap,19.0,46.0,47
 Divergent Elemental Proliferation Support,29.0,46.0,32
+Divergent Frostbite,15.0,46.0,56
 Divergent Ethereal Knives,20.0,45.8,30
-Anomalous Shield Crush,5.8,45.6,26
-Divergent Iron Grip Support,10.0,45.2,20
+Anomalous Shield Crush,7.4,45.6,26
 Divergent Consecrated Path,10.0,45.2,23
-Divergent Tornado,12.0,45.0,54
-Anomalous Ancestral Protector,13.2,45.0,30
+Divergent Iron Grip Support,10.0,45.2,19
 Divergent Minion Life Support,10.0,45.0,29
 Anomalous Ice Crash,10.0,45.0,9
-Withering Touch Support,10.0,45.0,266
+Divergent Tornado,12.0,45.0,54
+Anomalous Fork Support,10.4,44.4,65
 Divergent Battlemage's Cry,7.4,44.2,23
-Anomalous Wave of Conviction,15.0,44.0,31
-Divergent Summon Skeletons,14.6,44.0,45
-Phantasmal Molten Strike,13.4,44.0,35
-Divergent Detonate Dead,10.0,44.0,32
 Divergent Bladefall,11.6,44.0,13
+Divergent Detonate Dead,10.0,44.0,32
 Divergent Intuitive Link,9.6,44.0,17
+Anomalous Wave of Conviction,15.0,44.0,31
 Divergent Burning Arrow,9.2,44.0,18
+Phantasmal Molten Strike,14.2,44.0,35
 Divergent Blade Vortex,9.6,43.4,32
-Divergent Summon Phantasm Support,10.0,43.2,18
-Anomalous Ensnaring Arrow,11.2,43.0,36
-Anomalous Fork Support,10.4,43.0,65
+Divergent Summon Phantasm Support,10.6,43.2,18
 Divergent Flameblast,14.0,43.0,34
-Pinpoint Support,8.0,43.0,147
+Anomalous Animate Guardian,12.6,43.0,51
+Anomalous Ensnaring Arrow,11.2,43.0,36
+Anomalous Pride,11.0,43.0,30
+Anomalous Intimidating Cry,9.6,42.0,38
+Divergent Ignite Proliferation Support,8.6,42.0,18
 Divergent Contagion,6.6,42.0,10
 Divergent Lancing Steel,10.0,42.0,14
-Anomalous Ground Slam,9.8,42.0,19
-Divergent Ignite Proliferation Support,8.8,42.0,18
+Pinpoint Support,8.0,42.0,147
 Phantasmal Shockwave Totem,9.6,41.8,56
 Divergent Elemental Damage with Attacks Support,20.0,41.8,21
+Withering Touch Support,10.0,41.4,268
 Divergent Faster Casting Support,10.0,41.2,34
-Anomalous Eye of Winter,9.0,41.2,40
+Anomalous Eye of Winter,9.8,41.2,40
 Anomalous Rejuvenation Totem,10.0,41.0,17
 Divergent Cold Penetration Support,9.0,41.0,23
+Anomalous Ground Slam,9.8,41.0,19
 Anomalous Lifetap Support,15.0,40.8,50
 Anomalous Bloodlust Support,11.0,40.2,13
-Anomalous Ignite Proliferation Support,10.0,40.0,26
-Anomalous Arcane Cloak,10.0,40.0,34
-Anomalous Advanced Traps Support,9.0,40.0,34
-Phantasmal Frost Bomb,10.0,40.0,38
-Meat Shield Support,9.0,40.0,246
-Divergent Corrupting Fever,10.0,40.0,60
-Divergent Earthquake,10.0,40.0,15
-Divergent Stormbind,10.0,40.0,10
-Precision,10.0,40.0,175
-Divergent Reap,7.4,40.0,45
-Anomalous Animate Guardian,12.6,40.0,51
-Smite,5.0,40.0,171
-Divergent Arrow Nova Support,10.0,40.0,28
-Divergent Shock Nova,10.0,40.0,42
-Divergent Dual Strike,9.4,40.0,29
-Anomalous Vulnerability,14.6,40.0,56
-Anomalous Void Manipulation Support,15.0,40.0,77
-Anomalous Shockwave Support,8.0,40.0,46
-Phantasmal Void Sphere,8.0,40.0,42
-Divergent Eye of Winter,9.6,40.0,57
-Anomalous Spectral Helix,10.0,40.0,30
-Divergent Charged Dash,10.0,40.0,19
+Anomalous Galvanic Field,9.6,40.0,27
+Precision,10.0,40.0,172
 Divergent Fire Penetration Support,10.0,40.0,10
-Divergent Rage Vortex,6.8,40.0,33
+Anomalous Spectral Helix,10.0,40.0,31
+Anomalous Void Manipulation Support,15.0,40.0,77
+Life Gain on Hit Support,5.0,40.0,57
+Anomalous Ancestral Protector,13.2,40.0,30
+Phantasmal Frost Bomb,10.0,40.0,38
+Phantasmal Void Sphere,8.0,40.0,41
+Anomalous Ignite Proliferation Support,10.0,40.0,26
+Divergent Stormbind,10.0,40.0,10
+Divergent Charged Dash,10.0,40.0,19
+Divergent Arrow Nova Support,14.0,40.0,28
+Meat Shield Support,9.0,40.0,246
+Anomalous Shockwave Support,8.0,40.0,46
+Divergent Shock Nova,10.0,40.0,42
+Phantasmal Shrapnel Ballista,10.0,40.0,31
 Divergent Molten Shell,10.0,40.0,30
+Divergent Corrupting Fever,10.0,40.0,61
+Anomalous Advanced Traps Support,9.0,40.0,34
 Anomalous Chance to Bleed Support,10.0,40.0,7
-Divergent Added Cold Damage Support,10.0,40.0,25
-Anomalous Galvanic Field,9.6,39.2,27
-Divergent Bodyswap,6.0,39.0,29
-Divergent Orb of Storms,9.4,39.0,19
-Life Gain on Hit Support,5.0,39.0,56
+Divergent Eye of Winter,9.6,40.0,57
+Divergent Dual Strike,9.6,40.0,29
+Divergent Rage Vortex,6.8,40.0,33
+Anomalous Arcane Cloak,10.0,40.0,34
+Anomalous Vulnerability,14.6,40.0,56
+Divergent Earthquake,10.0,40.0,15
+Divergent Added Cold Damage Support,11.0,40.0,25
+Divergent Reap,7.4,40.0,45
+Smite,5.0,39.2,172
+Arcanist Brand,10.0,39.2,272
 Divergent Petrified Blood,7.4,39.0,52
-Divergent Summon Lightning Golem,10.0,39.0,27
 Anomalous Archmage Support,10.0,39.0,19
+Anomalous Rolling Magma,7.6,39.0,47
+Divergent Bodyswap,6.0,39.0,29
+Divergent Orb of Storms,9.6,39.0,19
+Divergent Summon Lightning Golem,10.0,39.0,27
 Divergent Steelskin,9.79,38.8,34
-Divergent Hex Bloom Support,20.0,38.4,18
 Anomalous Wither,10.0,38.4,39
-Anomalous Bladestorm,7.0,38.2,48
+Divergent Hex Bloom Support,19.4,38.4,18
+Determination,15.0,38.2,310
 Divergent Storm Rain,10.0,38.0,21
-Divergent Vampiric Link,15.0,38.0,19
-Divergent Vengeance,8.0,38.0,15
-Anomalous Frozen Legion,7.6,38.0,37
-Anomalous Flameblast,13.0,38.0,10
 Divergent Power Siphon,10.0,38.0,20
-Anomalous Glacial Hammer,11.2,38.0,18
 Divergent Bear Trap,9.4,38.0,33
+Divergent Vampiric Link,15.0,38.0,19
+Anomalous Frozen Legion,7.6,38.0,37
+Divergent Vengeance,8.0,38.0,15
+Anomalous Flameblast,13.0,38.0,10
+Anomalous Glacial Hammer,11.2,38.0,18
+Anomalous Bladestorm,6.6,37.4,48
+Berserk,10.0,37.4,226
 Anomalous Unleash Support,16.0,37.0,54
-Divergent Hextouch Support,9.49,37.0,32
 Divergent Icicle Mine,6.0,37.0,47
+Divergent Hextouch Support,9.63,37.0,32
 Anomalous Firestorm,14.2,37.0,9
-Divergent Split Arrow,10.0,36.8,51
 Anomalous Volley Support,10.0,36.6,18
-Steelskin,9.0,36.6,137
-Spell Totem Support,5.0,36.6,181
-Determination,15.0,36.6,308
-Berserk,9.2,36.6,225
-Divergent Faster Attacks Support,10.0,36.4,24
-Divergent Blastchain Mine Support,10.0,36.0,21
+Steelskin,9.0,36.6,139
+Divergent Faster Attacks Support,10.0,36.4,23
+Divergent Split Arrow,10.0,36.2,51
 Divergent Ice Nova,9.0,36.0,15
-Divergent Cold Snap,12.2,36.0,33
-Anomalous Flame Wall,9.8,36.0,41
+Divergent Blastchain Mine Support,10.0,36.0,21
+Anomalous Blade Flurry,10.0,36.0,39
 Anomalous Vigilant Strike,9.36,36.0,14
-Anomalous Pride,11.0,36.0,29
-Arcanist Brand,10.0,35.8,271
+Divergent Cold Snap,14.0,36.0,33
+Anomalous Flame Wall,9.6,36.0,41
 Ballista Totem Support,10.0,35.6,202
-Petrified Blood,5.0,35.4,185
-Divergent Controlled Destruction Support,8.0,35.0,34
-Freezing Pulse,7.0,35.0,96
-Divergent Seismic Trap,10.6,35.0,28
-Divergent Decay Support,15.0,35.0,7
-Anomalous Elemental Damage with Attacks Support,15.0,35.0,32
-Anomalous Discharge,10.0,35.0,48
-Divergent Physical to Lightning Support,16.0,35.0,4
-Ice Spear,10.0,35.0,267
-Divine Blessing Support,15.0,35.0,407
 Divergent Cluster Traps Support,10.0,35.0,42
-Swiftbrand Support,5.0,35.0,54
+Divergent Decay Support,15.0,35.0,7
+Spell Totem Support,5.0,35.0,183
+Divine Blessing Support,15.0,35.0,407
+Anomalous Discharge,10.0,35.0,48
 Divergent Shield Charge,8.4,35.0,43
-Anomalous Charged Mines Support,10.0,35.0,67
+Divergent Physical to Lightning Support,15.0,35.0,4
+Divergent Seismic Trap,10.6,35.0,28
+Divergent Controlled Destruction Support,8.0,35.0,34
+Ice Spear,10.0,35.0,269
+Anomalous Elemental Damage with Attacks Support,15.0,35.0,32
 Divergent Flame Surge,10.0,35.0,37
+Anomalous Charged Mines Support,10.0,35.0,67
+Freezing Pulse,7.0,35.0,94
+Petrified Blood,5.0,35.0,183
+Swiftbrand Support,5.0,35.0,54
 Anomalous Critical Strike Affliction Support,15.0,34.6,17
-Anomalous Intimidating Cry,9.6,34.0,38
-Anomalous Dual Strike,10.0,34.0,31
 Anomalous Desecrate,10.0,34.0,32
+Anomalous Dual Strike,10.0,34.0,31
 Anomalous Stormblast Mine,7.0,34.0,27
 Anomalous Brutality Support,11.0,33.8,17
 Maim Support,5.0,33.2,141
 Divergent Raise Spectre,10.0,33.0,14
-Divergent Iron Will Support,7.0,32.42,21
-Anomalous Blade Flurry,10.0,32.0,38
+Divergent Iron Will Support,7.0,32.37,21
 Anomalous Flicker Strike,10.0,32.0,39
-Phantasmal Shrapnel Ballista,10.0,32.0,31
-Divergent Summon Chaos Golem,13.4,32.0,11
-Phantasmal Blade Vortex,8.0,32.0,45
 Phantasmal Frost Shield,25.8,32.0,16
+Divergent Summon Chaos Golem,13.4,32.0,11
 Divergent Withering Step,15.0,32.0,67
-Anomalous Smoke Mine,10.0,32.0,34
 Divergent Firestorm,10.0,32.0,8
-Spell Cascade Support,13.2,31.8,316
 Whirling Blades,7.0,31.8,157
-Swift Assembly Support,8.4,31.8,132
 Divergent Mana Leech Support,17.0,31.8,26
-Anomalous Rolling Magma,7.6,31.8,47
-Haste,10.0,31.6,179
-Phantasmal Animate Weapon,9.6,31.0,26
-Overcharge Support,3.8,30.8,37
-Divergent Shattering Steel,13.0,30.8,6
+Spell Cascade Support,14.0,31.6,315
+Anomalous Pestilent Strike,8.6,31.6,14
+Hydrosphere,5.0,31.0,115
+Phantasmal Animate Weapon,9.2,31.0,26
+Overcharge Support,3.6,30.8,37
+Haste,10.0,30.8,180
+Divergent Shattering Steel,25.0,30.8,6
+Enfeeble,5.0,30.4,292
 Temporal Chains,5.0,30.2,232
 Divergent Soulrend,10.0,30.2,61
-Multiple Totems Support,18.4,30.0,302
-Anomalous Tectonic Slam,6.0,30.0,11
-Elemental Weakness,15.0,30.0,208
-Mark On Hit Support,15.2,30.0,351
-Impale Support,9.0,30.0,108
-Charged Mines Support,7.6,30.0,163
-Divergent Lightning Penetration Support,10.0,30.0,31
-Hydrosphere,5.0,30.0,115
-Barrage Support,5.0,30.0,104
-Eternal Blessing Support,5.0,30.0,196
-Shield Charge,10.0,30.0,339
-Block Chance Reduction Support,0.0,30.0,43
-Anomalous Unearth,6.0,30.0,13
-Divergent Warlord's Mark,8.8,30.0,21
+Cast On Critical Strike Support,10.0,30.0,168
 Cruelty Support,8.0,30.0,151
-Less Duration Support,13.0,30.0,259
-Blade Vortex,5.0,30.0,826
-Feeding Frenzy Support,5.6,30.0,177
-Discipline,9.0,30.0,218
-Summon Skeletons,15.0,30.0,203
-Enfeeble,5.0,30.0,293
-Impending Doom Support,15.0,30.0,271
-Flame Dash,18.0,30.0,422
-Increased Duration Support,17.0,30.0,521
-Divergent Flamethrower Trap,5.6,30.0,23
-Divergent Archmage Support,10.0,30.0,26
-Cast On Critical Strike Support,10.0,30.0,171
-Flicker Strike,4.0,30.0,144
-Culling Strike Support,10.0,30.0,190
-Phase Run,9.0,30.0,249
-Divergent General's Cry,13.6,30.0,11
-Infused Channelling Support,7.0,30.0,72
-Ruthless Support,9.0,30.0,123
-Bonechill Support,10.0,30.0,360
-Blood Rage,10.0,30.0,243
-Cast when Damage Taken Support,20.0,30.0,511
+Eternal Blessing Support,5.0,30.0,196
+Divergent Warlord's Mark,9.0,30.0,21
 Dash,5.0,30.0,127
+Culling Strike Support,10.0,30.0,189
+Mark On Hit Support,15.2,30.0,349
+Ice Nova,3.0,30.0,71
+Divergent Flamethrower Trap,5.6,30.0,23
+Divergent General's Cry,13.6,30.0,11
+Anomalous Tectonic Slam,7.0,30.0,11
+Flicker Strike,4.0,30.0,144
+Cast when Damage Taken Support,20.0,30.0,513
+Ruthless Support,9.0,30.0,124
+Elemental Weakness,15.0,30.0,208
+Less Duration Support,13.0,30.0,259
+Charged Mines Support,8.0,30.0,163
+Discipline,9.0,30.0,217
+Shield Charge,10.0,30.0,339
+Phantasmal Blade Vortex,8.0,30.0,45
+Minion Life Support,9.4,30.0,230
+Increased Duration Support,15.8,30.0,519
+Swift Assembly Support,8.4,30.0,132
+Divergent Lightning Penetration Support,10.0,30.0,31
+Phase Run,9.0,30.0,251
+Divergent Archmage Support,10.0,30.0,26
+Impale Support,8.8,30.0,107
+Infused Channelling Support,7.0,30.0,69
+Feeding Frenzy Support,6.0,30.0,178
 Faster Attacks Support,15.0,30.0,497
-Minion Life Support,9.0,30.0,232
-Anomalous Tornado,14.0,30.0,46
-Divergent Glacial Hammer,11.2,30.0,63
-Anomalous Ancestral Call Support,10.6,30.0,25
+Summon Skeletons,15.0,30.0,202
+Anomalous Unearth,6.0,30.0,13
+Multiple Totems Support,18.4,30.0,303
+Flame Dash,18.18,30.0,421
+Blood Rage,10.0,30.0,240
+Blade Vortex,5.0,30.0,826
 Divergent Spectral Helix,10.0,30.0,37
-Anomalous Earthbreaker Support,9.0,30.0,27
-Divergent Ice Shot,10.8,30.0,31
-Divergent Ice Crash,9.0,30.0,21
-Sniper's Mark,10.0,30.0,302
-Anomalous Summon Holy Relic,10.0,30.0,39
-Anomalous Plague Bearer,10.0,30.0,52
-Divergent Destructive Link,9.0,30.0,25
+Sniper's Mark,10.0,30.0,301
 Anomalous Bone Offering,10.0,30.0,34
-Ice Nova,3.82,30.0,71
-Divergent Concentrated Effect Support,9.4,30.0,9
-Phantasmal Bear Trap,20.0,30.0,3
-Divergent Intensify Support,12.4,30.0,19
+Divergent Intensify Support,13.6,30.0,19
+Anomalous Summon Holy Relic,10.0,30.0,39
+Block Chance Reduction Support,0.0,30.0,43
+Divergent Ice Shot,10.8,30.0,31
 Divergent Behead Support,10.0,30.0,36
+Divergent Concentrated Effect Support,10.0,30.0,9
+Anomalous Plague Bearer,10.0,30.0,52
+Divergent Glacial Hammer,11.2,30.0,63
+Impending Doom Support,15.0,30.0,271
+Anomalous Ancestral Call Support,10.6,30.0,25
+Anomalous Earthbreaker Support,9.0,30.0,27
+Anomalous Tornado,14.0,30.0,46
+Divergent Ice Crash,9.0,30.0,21
+Divergent Destructive Link,9.0,30.0,25
+Phantasmal Bear Trap,20.0,30.0,3
+Punishment,8.6,30.0,212
+Faster Casting Support,10.0,29.8,244
 Anomalous Chain Hook,10.0,29.8,18
-Inspiration Support,20.0,29.8,545
-Lightning Warp,5.0,29.6,118
-Spark,10.0,29.6,617
-Punishment,9.0,29.6,212
 Purity of Elements,8.0,29.59,197
-Faster Casting Support,10.0,29.4,246
+Creeping Frost,5.0,29.4,170
+Inspiration Support,19.4,29.2,554
+Mirage Archer Support,6.8,29.2,128
 Divergent Blind Support,9.4,29.2,12
-Divergent Flammability,10.0,29.0,45
-Vortex,10.0,29.0,245
-Divergent Lightning Spire Trap,10.0,29.0,34
-Anomalous Elemental Hit,7.0,29.0,40
-Mirage Archer Support,6.8,29.0,126
-Divergent Lightning Tendrils,10.0,29.0,22
-Frostbolt,4.0,29.0,97
-Pulverise Support,8.0,29.0,73
-Enduring Cry,5.0,29.0,129
-Phantasmal Static Strike,11.6,29.0,56
+Lightning Warp,5.0,29.2,117
 Divergent High-Impact Mine Support,5.0,29.0,26
-Increased Critical Damage Support,15.8,29.0,567
-Additional Accuracy Support,4.0,28.4,56
+Anomalous Elemental Hit,7.0,29.0,40
+Increased Critical Damage Support,15.4,29.0,566
+Frostbolt,4.0,29.0,97
+Pulverise Support,8.6,29.0,71
+Bonechill Support,10.0,29.0,360
+Barrage Support,5.0,29.0,103
+Enduring Cry,5.0,29.0,130
+Phantasmal Static Strike,11.6,29.0,56
+Vortex,10.0,29.0,248
+Divergent Flammability,10.0,29.0,45
 Cursed Ground Support,4.6,28.4,46
+Additional Accuracy Support,4.0,28.4,56
+Spark,10.0,28.4,616
 Anomalous Fire Penetration Support,5.8,28.0,22
-Anomalous Purity of Lightning,9.0,28.0,35
 Anomalous Heavy Strike,10.0,28.0,23
-Spell Echo Support,15.0,27.4,229
-Divergent Absolution,10.0,27.2,32
-Anomalous Minion Damage Support,8.6,27.2,45
+Anomalous Purity of Lightning,9.0,28.0,35
+Assassin's Mark,10.0,27.4,355
+Spell Echo Support,14.6,27.4,229
+Faster Projectiles Support,5.0,27.4,179
 Anomalous Immolate Support,8.0,27.2,31
+Anomalous Minion Damage Support,8.6,27.2,45
+Divergent Absolution,10.0,27.2,32
+Divergent Lightning Tendrils,10.0,27.0,22
 Anomalous Cast while Channelling Support,10.0,27.0,25
-Caustic Arrow,5.0,26.8,398
-Creeping Frost,5.0,26.6,169
+Caustic Arrow,5.0,26.4,392
+Second Wind Support,11.6,26.4,184
 Slower Projectiles Support,5.0,26.2,51
-Assassin's Mark,10.0,26.2,356
-Divergent Infernal Blow,5.4,26.0,22
-Point Blank Support,4.0,26.0,112
-Second Wind Support,11.6,26.0,183
+Arrogance Support,15.0,26.2,280
 Anomalous Chain Support,9.4,26.0,20
+Divergent Infernal Blow,5.4,26.0,22
 Divergent Vile Toxins Support,14.0,25.4,20
-Divergent Cursed Ground Support,10.0,25.0,46
-Wither,5.0,25.0,105
-Frostblink,5.0,25.0,152
-Frost Bomb,4.0,25.0,111
 Phantasmal Ancestral Warchief,15.0,25.0,41
-Divergent Brutality Support,10.0,25.0,47
-Eye of Winter,3.0,25.0,88
-Divergent Reave,9.4,25.0,28
-Cyclone,9.22,25.0,140
-Divergent Puncture,10.0,25.0,19
-Leap Slam,5.0,25.0,85
-Bloodthirst Support,3.0,25.0,102
-Tempest Shield,5.0,25.0,183
-Faster Projectiles Support,5.0,25.0,179
+Greater Volley Support,8.0,25.0,137
+Tempest Shield,5.0,25.0,181
+Damage on Full Life Support,8.8,25.0,98
 Righteous Fire,10.0,25.0,463
-Greater Volley Support,8.0,25.0,138
-Divergent Critical Strike Affliction Support,10.0,25.0,24
-Close Combat Support,14.99,25.0,186
-Anomalous Animate Weapon,9.0,25.0,29
-Focused Ballista Support,8.4,25.0,191
-Vengeance,5.0,25.0,50
-Unleash Support,8.0,25.0,275
-Increased Area of Effect Support,6.8,25.0,331
-Fist of War Support,3.6,25.0,35
-Phantasmal Rain of Arrows,8.0,25.0,15
-Arrogance Support,15.0,25.0,285
-Trinity Support,10.0,25.0,258
-Damage on Full Life Support,8.0,25.0,97
+Divergent Puncture,10.0,25.0,19
+Vengeance,4.4,25.0,50
 Arcane Cloak,4.0,25.0,104
+Cyclone,9.0,25.0,140
+Fist of War Support,3.6,25.0,35
+Increased Area of Effect Support,7.0,25.0,333
+Eye of Winter,3.0,25.0,89
+Divergent Critical Strike Affliction Support,10.0,25.0,24
+Trinity Support,10.0,25.0,258
+Divergent Reave,9.4,25.0,28
+Increased Critical Strikes Support,13.6,25.0,479
+Unleash Support,8.0,25.0,276
+Grace,10.0,25.0,189
+Close Combat Support,11.8,25.0,186
+Herald of Thunder,9.0,25.0,104
+Point Blank Support,4.0,25.0,112
+Molten Shell,15.0,25.0,304
+Purity of Ice,5.0,25.0,80
+Wither,5.0,25.0,105
+Focused Ballista Support,8.4,25.0,191
+Leap Slam,5.0,25.0,85
+Frostblink,5.0,25.0,153
 Predator Support,5.0,25.0,91
-Purity of Ice,5.0,25.0,78
+Phantasmal Rain of Arrows,8.0,25.0,15
 Despair,9.4,25.0,357
-Frost Shield,3.0,25.0,116
-Herald of Thunder,9.0,25.0,105
-Anomalous Soul Link,10.0,24.8,13
-Lightning Arrow,3.8,24.8,100
-Divergent Crackling Lance,10.0,24.8,16
-Minefield Support,8.0,24.8,96
+Frost Bomb,4.0,25.0,111
 Frost Wall,3.0,24.8,37
+Anomalous Soul Link,10.0,24.8,13
+Minefield Support,8.0,24.8,96
+Divergent Crackling Lance,10.0,24.8,16
+Arcane Surge Support,15.0,24.7,272
 Anomalous Innervate Support,10.0,24.6,63
-Arcane Surge Support,15.0,24.5,278
-Herald of Ice,13.0,24.4,273
-Summon Skitterbots,5.0,24.0,325
-Wrath,6.6,24.0,137
-Anomalous Flame Link,12.2,24.0,5
-Anomalous Burning Arrow,5.8,24.0,14
-Explosive Concoction,3.0,24.0,59
-Anomalous Pestilent Strike,14.8,24.0,14
-Increased Critical Strikes Support,13.2,24.0,478
-Anomalous Wild Strike,13.0,24.0,27
+Herald of Ice,14.0,24.4,271
+Divergent Lightning Spire Trap,10.0,24.4,35
 Phantasmal Reckoning,11.0,24.0,32
-Molten Shell,15.0,24.0,304
-Ice Bite Support,8.0,23.6,116
-Grace,10.0,23.4,189
-Mana Leech Support,4.0,23.2,29
+Summon Skitterbots,5.0,24.0,325
+Explosive Concoction,3.0,24.0,59
+Anomalous Wild Strike,13.0,24.0,27
+Ancestral Protector,5.0,24.0,157
+Anomalous Burning Arrow,9.0,24.0,14
+Anomalous Flame Link,12.2,24.0,5
+Frost Shield,3.0,24.0,117
+Wrath,6.6,24.0,138
+Intensify Support,5.0,23.2,74
 Anomalous Fire Trap,10.0,23.2,33
 Anomalous Minefield Support,10.0,23.2,19
+Mana Leech Support,4.0,23.2,29
 Phantasmal Vigilant Strike,20.0,23.2,13
-Intensify Support,5.0,23.2,74
-Ancestral Protector,5.0,23.0,156
-War Banner,4.0,23.0,95
-Divergent Searing Bond,8.4,23.0,24
+Fire Trap,10.0,23.0,170
+War Banner,4.0,23.0,94
+Divergent Searing Bond,8.2,23.0,24
+Clarity,8.8,23.0,105
 Phantasmal Barrage,10.0,23.0,19
-Multistrike Support,15.0,23.0,336
-Divergent Winter Orb,9.4,23.0,46
+Divergent Winter Orb,10.0,23.0,46
+Dread Banner,5.0,23.0,125
+Multistrike Support,15.0,23.0,335
 Charged Traps Support,5.0,23.0,104
 Arctic Armour,5.0,22.6,73
-Anomalous Energy Blade,6.8,22.0,16
-Dread Banner,5.0,22.0,124
-High-Impact Mine Support,8.0,22.0,200
-Rage Support,3.4,22.0,69
-Anomalous Charged Dash,10.0,22.0,18
+Divergent Cursed Ground Support,10.0,22.6,46
+Immortal Call,10.0,22.2,75
+Anomalous Swift Affliction Support,8.8,22.0,33
 Anomalous Elemental Focus Support,9.0,22.0,54
+Rage Support,3.8,22.0,69
+Anomalous Energy Blade,6.8,22.0,16
+Anomalous Charged Dash,10.0,22.0,18
 Anomalous Lightning Penetration Support,10.0,22.0,21
-Clarity,8.4,21.4,106
-Divergent Summon Flame Golem,10.0,21.0,20
-Anomalous Explosive Concoction,8.2,21.0,21
+Divergent Brutality Support,10.0,22.0,47
+Ice Bite Support,8.0,22.0,117
+Anomalous Animate Weapon,9.0,22.0,29
+High-Impact Mine Support,8.0,21.6,199
 Anomalous Armageddon Brand,10.0,21.0,44
-Manabond,4.0,20.8,113
+Bloodthirst Support,3.0,21.0,103
+Anomalous Explosive Concoction,8.2,21.0,21
+Divergent Summon Flame Golem,10.0,21.0,20
 Anomalous Contagion,9.6,20.6,38
-Immortal Call,10.0,20.6,76
-Divergent Kinetic Bolt,10.0,20.4,64
-Elemental Army Support,4.0,20.0,74
-Volley Support,5.0,20.0,72
-Physical to Lightning Support,5.0,20.0,57
-Void Manipulation Support,10.0,20.0,553
-Pride,5.0,20.0,185
-Cluster Traps Support,4.0,20.0,136
-Advanced Traps Support,5.0,20.0,131
-Phantasmal Lancing Steel,10.0,20.0,13
-Fire Trap,10.0,20.0,170
-Pierce Support,7.0,20.0,146
-Frostbite,4.0,20.0,185
-Trap Support,8.0,20.0,134
-Tornado Shot,9.0,20.0,240
-Combustion Support,10.0,20.0,376
-Minion Speed Support,5.0,20.0,176
-Firestorm,5.0,20.0,56
-Ancestral Cry,3.2,20.0,78
-Conductivity,4.6,20.0,80
-Sigil of Power,3.6,20.0,93
+Manabond,4.0,20.4,112
 Earthbreaker Support,3.0,20.0,58
+Volley Support,5.0,20.0,72
+Tornado Shot,9.4,20.0,238
+Minion Speed Support,5.0,20.0,176
+Frenzy,5.0,20.0,195
+Sigil of Power,4.0,20.0,93
+Cluster Traps Support,4.0,20.0,136
+Pierce Support,7.0,20.0,145
+Lightning Arrow,3.8,20.0,100
+Advanced Traps Support,5.0,20.0,132
+Firestorm,5.0,20.0,56
 Bone Offering,4.0,20.0,285
-Chain Support,8.0,20.0,240
-Battlemage's Cry,5.0,20.0,162
-Anomalous Earthquake,10.0,20.0,28
-Glacial Cascade,4.2,20.0,51
+Pride,5.0,20.0,184
+Void Manipulation Support,10.0,20.0,555
 Reave,3.0,20.0,47
-Split Arrow,3.0,20.0,43
-Hextouch Support,5.0,20.0,193
-Ethereal Knives,5.0,20.0,160
-Greater Multiple Projectiles Support,15.0,20.0,447
-Cold Snap,5.0,20.0,103
-Lifetap Support,13.8,20.0,510
-Decoy Totem,3.0,20.0,32
-Desecrate,9.0,20.0,196
-Efficacy Support,10.0,20.0,423
-Fortify Support,10.0,20.0,189
-Item Rarity Support,7.0,20.0,127
-Divergent Scourge Arrow,13.0,20.0,33
-Plague Bearer,4.0,20.0,139
-Divergent Blade Flurry,20.0,20.0,20
-Vitality,10.0,20.0,196
-Divergent Pyroclast Mine,15.0,20.0,49
-Kinetic Blast,5.0,20.0,108
-Fireball,8.0,20.0,246
-Herald of Ash,9.99,20.0,240
-Zealotry,5.0,20.0,207
-Defiance Banner,10.0,20.0,422
+Frostbite,4.0,20.0,185
 Fork Support,5.0,20.0,275
-Onslaught Support,5.4,20.0,82
-Anger,8.0,20.0,88
+Conductivity,4.6,20.0,79
+Battlemage's Cry,5.0,20.0,162
+Combustion Support,10.0,20.0,376
+Chain Support,8.0,20.0,240
+Decoy Totem,3.4,20.0,32
+Anomalous Earthquake,10.0,20.0,28
+Trap Support,8.0,20.0,134
+Glacial Cascade,4.6,20.0,51
+Elemental Army Support,4.0,20.0,70
+Physical to Lightning Support,5.0,20.0,58
+Hextouch Support,5.0,20.0,193
 Anomalous Seismic Cry,10.0,20.0,10
-Hypothermia Support,8.99,20.0,266
+Concentrated Effect Support,10.0,20.0,232
+Greater Multiple Projectiles Support,15.0,20.0,446
+Item Rarity Support,7.0,20.0,127
+Divergent Kinetic Bolt,10.0,20.0,65
+Kinetic Blast,5.0,20.0,109
+Ancestral Cry,3.4,20.0,78
+Onslaught Support,5.6,20.0,82
+Convocation,4.0,20.0,178
+Efficacy Support,10.0,20.0,423
 Shockwave Support,5.0,20.0,75
-Convocation,4.0,20.0,179
-Hatred,10.0,20.0,197
-Storm Brand,6.0,20.0,71
-Concentrated Effect Support,10.0,20.0,231
 Anomalous Incinerate,5.0,20.0,20
-Anomalous Burning Damage Support,10.0,20.0,31
-Divergent Blast Rain,10.0,20.0,32
+Lifetap Support,15.8,20.0,510
+Divergent Scourge Arrow,13.0,20.0,33
+Divergent Blade Flurry,20.0,20.0,20
+Storm Brand,6.0,20.0,71
+Ethereal Knives,5.0,20.0,160
+Fortify Support,10.0,20.0,189
+Herald of Ash,10.0,20.0,239
+Divergent Pyroclast Mine,15.0,20.0,49
+Vitality,10.0,20.0,196
+Defiance Banner,10.0,20.0,425
 Ancestral Warchief,5.0,20.0,78
-Frenzy,5.0,19.6,194
-Anomalous Blight,10.0,19.6,22
-Anomalous Static Strike,10.0,19.6,40
+Zealotry,5.0,20.0,207
+Hatred,10.0,20.0,196
+Fireball,8.0,20.0,247
+Anomalous Burning Damage Support,10.0,20.0,31
+Cold Snap,5.0,20.0,103
+Anger,8.0,20.0,88
+Divergent Blast Rain,10.0,20.0,32
+Desecrate,8.6,20.0,195
+Hypothermia Support,10.0,20.0,267
+Plague Bearer,4.0,19.8,138
 Cast while Channelling Support,4.0,19.6,108
-Phantasmal Scourge Arrow,10.0,19.4,18
-Hexblast,6.0,19.4,216
-Anomalous Iron Grip Support,15.0,19.36,9
-Anomalous Swift Affliction Support,8.8,19.2,33
+Anomalous Static Strike,10.0,19.6,40
+Anomalous Blight,10.0,19.6,22
+Anomalous Iron Grip Support,15.0,19.54,9
+Hexblast,6.0,19.4,213
+Herald of Purity,5.0,19.4,213
+Phantasmal Scourge Arrow,10.6,19.4,18
 Anomalous General's Cry,8.8,19.2,18
 Bear Trap,3.0,19.2,65
-Nightblade Support,5.0,19.0,168
-Exsanguinate,5.0,19.0,117
-Divergent Poacher's Mark,8.0,19.0,20
-Purity of Fire,5.0,19.0,85
-Tornado,5.0,19.0,129
-Divergent Added Fire Damage Support,10.0,19.0,11
 Generosity Support,5.0,19.0,307
-Anomalous Explosive Trap,5.0,19.0,40
-Herald of Purity,5.0,19.0,213
-Frost Blades,4.4,19.0,44
-Divergent Wintertide Brand,20.0,19.0,23
 Anomalous Divine Ire,8.8,19.0,37
-Blink Arrow,4.0,19.0,70
 Hex Bloom Support,5.0,19.0,89
+Tornado,5.0,19.0,129
 Energy Leech Support,8.0,19.0,84
-Anomalous Blasphemy Support,6.8,18.84,31
-Detonate Dead,3.0,18.8,62
+Purity of Fire,5.0,19.0,85
+Divergent Wintertide Brand,20.0,19.0,23
+Divergent Added Fire Damage Support,10.0,19.0,11
+Blink Arrow,4.0,19.0,70
+Anomalous Explosive Trap,5.0,19.0,40
+Divergent Poacher's Mark,8.0,19.0,20
+Exsanguinate,5.0,19.0,117
+Frost Blades,4.4,19.0,44
+Anomalous Blasphemy Support,6.8,18.96,31
 Poacher's Mark,5.0,18.8,88
+Detonate Dead,3.0,18.8,62
 Anomalous Galvanic Arrow,4.8,18.6,35
 Anomalous Spectral Shield Throw,10.0,18.4,30
-Anomalous Poisonous Concoction,9.6,18.0,27
-Shockwave Totem,5.0,18.0,174
-Trap and Mine Damage Support,8.8,18.0,341
 Cast on Death Support,5.0,18.0,96
+Split Arrow,3.0,18.0,43
+Anomalous Poisonous Concoction,9.6,18.0,27
+Flesh Offering,3.0,18.0,220
+Nightblade Support,5.0,18.0,168
+Trap and Mine Damage Support,8.4,18.0,341
+Shockwave Totem,5.0,18.0,174
 Malevolence,9.0,17.6,283
-Flesh Offering,3.0,17.4,221
-Anomalous Artillery Ballista,10.0,17.4,32
-Flame Surge,5.0,17.4,153
+Blasphemy Support,5.0,17.4,308
+Purity of Lightning,3.0,16.8,76
 Divergent Protective Link,5.2,16.8,15
-Purity of Lightning,3.0,16.8,75
 Bloodlust Support,5.0,16.8,62
 Cremation,3.0,16.8,39
-Blasphemy Support,5.0,16.6,308
 Anomalous Lightning Conduit,10.0,16.4,29
 Cast on Melee Kill Support,3.0,16.2,34
 Anomalous Cast when Stunned Support,9.6,16.0,11
-Lightning Conduit,3.6,15.8,111
 Forbidden Rite,5.0,15.8,105
+Lightning Conduit,3.6,15.8,111
 Blind Support,3.0,15.6,32
-Animate Guardian,4.0,15.4,347
-Chance to Poison Support,5.0,15.0,94
-Winter Orb,3.0,15.0,92
-Summon Lightning Golem,3.0,15.0,120
-Elemental Hit,8.0,15.0,59
-Infernal Legion Support,4.2,15.0,74
-Temporal Rift,3.0,15.0,44
-Ignite Proliferation Support,5.0,15.0,319
-Innervate Support,5.0,15.0,77
-Elemental Damage with Attacks Support,10.0,15.0,867
-Blade Trap,3.0,15.0,73
-Summon Stone Golem,4.0,15.0,288
+Chance to Bleed Support,5.4,15.2,60
+Animate Guardian,4.0,15.2,345
+Rejuvenation Totem,3.0,15.0,48
+Chance to Poison Support,4.8,15.0,94
+Ignite Proliferation Support,5.0,15.0,317
+Added Cold Damage Support,5.0,15.0,342
+Elemental Damage with Attacks Support,10.0,15.0,865
+Elemental Focus Support,9.8,15.0,519
+Herald of Agony,4.0,15.0,185
 Soul Link,3.0,15.0,48
-Cold Penetration Support,5.0,15.0,167
-Barrage,3.0,15.0,89
-Summon Ice Golem,3.0,15.0,83
-Added Cold Damage Support,5.0,15.0,343
+Barrage,3.0,15.0,90
 Behead Support,5.0,15.0,103
-Arc,5.0,15.0,194
-Melee Splash Support,8.0,15.0,317
-Withering Step,5.0,15.0,342
-Phantasmal Blade Blast,6.6,15.0,66
-Ice Shot,3.0,15.0,49
-Spellslinger,3.0,15.0,55
+Fire Penetration Support,5.0,15.0,151
+Withering Step,5.0,15.0,339
 Immolate Support,5.0,15.0,86
-Unbound Ailments Support,9.0,15.0,799
-Toxic Rain,5.0,15.0,138
+Unbound Ailments Support,9.0,15.0,797
 Vigilant Strike,3.0,15.0,41
-Explosive Arrow,7.0,15.0,364
-Raise Zombie,3.47,15.0,153
-Infernal Cry,4.0,15.0,155
-Static Strike,4.0,15.0,74
-Fire Penetration Support,5.0,15.0,150
-Added Chaos Damage Support,4.9,15.0,154
-Rejuvenation Totem,3.0,15.0,47
-Elemental Focus Support,9.2,15.0,518
-Phantasmal Sweep,6.8,15.0,8
+Added Chaos Damage Support,4.77,15.0,154
+Ice Shot,3.0,15.0,48
 Reap,4.6,15.0,336
-Raise Spectre,5.0,15.0,221
-Anomalous Dominating Blow,10.0,15.0,22
+Raise Spectre,5.0,15.0,222
+Infernal Cry,4.0,15.0,156
+Infernal Legion Support,4.4,15.0,74
+Explosive Arrow,7.0,15.0,363
 Iron Will Support,2.0,15.0,50
+Arc,5.0,15.0,195
+Cold Penetration Support,5.0,15.0,167
+Phantasmal Blade Blast,6.6,15.0,66
+Melee Splash Support,8.0,15.0,317
+Toxic Rain,5.0,15.0,137
+Phantasmal Sweep,6.8,15.0,8
+Anomalous Dominating Blow,10.0,15.0,22
+Summon Lightning Golem,3.0,15.0,120
+Spellslinger,3.0,15.0,55
+Summon Stone Golem,4.0,15.0,289
+Static Strike,4.0,15.0,74
 Storm Call,3.0,15.0,50
+Temporal Rift,3.0,15.0,44
+Flame Surge,5.0,15.0,154
+Raise Zombie,3.67,15.0,153
+Winter Orb,3.0,15.0,92
+Innervate Support,5.0,15.0,77
+Blade Trap,3.0,15.0,73
 Lightning Strike,3.0,14.8,59
-Herald of Agony,4.0,14.2,184
+Elemental Hit,8.0,14.4,59
+Flammability,5.0,14.2,433
 Kinetic Bolt,3.0,14.2,78
-Flammability,5.0,14.2,434
 General's Cry,3.0,14.2,83
-Intimidating Cry,3.0,14.0,61
+Contagion,3.0,14.0,69
 Chain Hook,4.0,14.0,40
-Unearth,2.4,14.0,46
-Wintertide Brand,3.0,13.99,65
-Chance to Bleed Support,5.0,13.6,59
+Intimidating Cry,3.0,14.0,61
+Cold to Fire Support,5.0,14.0,97
+Unearth,2.6,14.0,46
+Ensnaring Arrow,5.0,13.6,51
+Power Siphon,5.0,13.6,104
 Shock Nova,4.0,13.4,48
-Dual Strike,3.8,13.2,45
-Ensnaring Arrow,5.0,13.2,50
-Flame Wall,5.0,13.2,109
-Summon Raging Spirit,4.0,13.0,449
-Cold to Fire Support,5.0,13.0,96
-Corrupting Fever,3.0,13.0,102
-Discharge,3.0,13.0,39
-Stun Support,3.0,13.0,32
+Archmage Support,4.2,13.2,52
+Dual Strike,3.8,13.2,44
+Corrupting Fever,3.0,13.2,103
+Lightning Penetration Support,5.4,13.0,164
 Anomalous Barrage,10.8,13.0,25
-Archmage Support,4.0,12.6,51
+Stun Support,3.0,13.0,32
+Discharge,3.0,13.0,39
+Summon Raging Spirit,4.0,13.0,448
+Summon Ice Golem,3.0,13.0,82
 Sunder,3.0,12.6,42
-Lightning Tendrils,4.0,12.0,53
-Lightning Penetration Support,5.8,12.0,162
-Endurance Charge on Melee Stun Support,4.0,12.0,31
-Power Siphon,5.0,12.0,103
-Ancestral Call Support,6.0,12.0,74
+Flame Wall,5.0,12.4,109
 Glacial Hammer,5.0,12.0,57
 Anomalous Shattering Steel,8.0,12.0,12
+Wintertide Brand,3.0,12.0,66
+Endurance Charge on Melee Stun Support,4.0,12.0,31
+Lightning Tendrils,4.0,12.0,53
 Blastchain Mine Support,3.0,11.8,202
-Ball Lightning,3.0,11.6,84
 Charged Dash,3.0,11.6,43
-Orb of Storms,3.0,11.2,91
-Summon Phantasm Support,4.0,11.0,95
-Vile Toxins Support,4.2,11.0,39
+Ball Lightning,3.0,11.6,84
+Ancestral Call Support,6.0,11.6,75
+Vile Toxins Support,4.36,11.0,39
+Multiple Traps Support,3.0,10.95,61
+Orb of Storms,3.0,10.8,91
 Bladefall,2.8,10.8,66
-Contagion,3.0,10.8,67
+Energy Blade,3.0,10.8,70
 Double Strike,4.0,10.6,32
 Phantasmal Puncture,8.8,10.4,14
-Burning Damage Support,6.0,10.0,781
-Storm Rain,5.0,10.0,69
-Siege Ballista,3.0,10.0,64
-Summon Carrion Golem,4.0,10.0,169
-Added Lightning Damage Support,9.0,10.0,244
-Heavy Strike,3.0,10.0,38
-Added Fire Damage Support,5.0,10.0,181
-Brutality Support,8.4,10.0,334
-Lesser Multiple Projectiles Support,5.0,10.0,113
-Absolution,3.0,10.0,118
-Lightning Trap,4.0,10.0,51
-Blazing Salvo,4.0,10.0,75
-Wave of Conviction,5.0,10.0,160
+Spectral Helix,3.0,10.2,72
 Ice Crash,3.8,10.0,30
-Controlled Destruction Support,5.0,10.0,427
-Deadly Ailments Support,9.0,10.0,566
-Alchemist's Mark,3.0,10.0,62
-Tectonic Slam,5.0,10.0,52
-Flesh and Stone,4.16,10.0,94
-Scorching Ray,3.0,10.0,54
-Blast Rain,3.0,10.0,58
-Minion Damage Support,8.0,10.0,468
 Flameblast,3.0,10.0,75
-Blight,3.0,10.0,97
-Boneshatter,3.0,10.0,126
+Animate Weapon,5.0,10.0,181
+Deadly Ailments Support,9.0,10.0,567
+Siege Ballista,3.0,10.0,64
+Wave of Conviction,5.0,10.0,159
+Lightning Trap,4.0,10.0,51
+Vicious Projectiles Support,6.2,10.0,352
+Blazing Salvo,4.0,10.0,75
+Melee Physical Damage Support,6.6,10.0,334
+Brutality Support,8.6,10.0,336
+Swift Affliction Support,10.0,10.0,741
+Added Lightning Damage Support,9.0,10.0,246
+Protective Link,4.0,10.0,45
+Seismic Trap,4.0,10.0,294
+Soulrend,4.0,10.0,90
+Shrapnel Ballista,3.0,10.0,81
+Summon Phantasm Support,4.0,10.0,97
+Spectral Throw,5.0,10.0,57
+Summon Flame Golem,4.0,10.0,97
+Flesh and Stone,5.0,10.0,94
+Minion Damage Support,8.0,10.0,469
+Siphoning Trap,3.0,10.0,42
+Scorching Ray,3.0,10.0,54
+Tectonic Slam,5.0,10.0,52
+Pyroclast Mine,4.4,10.0,51
+Summon Chaos Golem,2.0,10.0,132
+Anomalous Protective Link,10.0,10.0,9
+Summon Carrion Golem,4.0,10.0,170
+Reckoning,3.0,10.0,64
+Lesser Multiple Projectiles Support,5.0,10.0,113
 Elemental Proliferation Support,3.0,10.0,242
+Blight,3.0,10.0,97
+Added Fire Damage Support,5.0,10.0,181
+Puncture,3.0,10.0,63
+Flamethrower Trap,4.0,10.0,60
+Absolution,3.0,10.0,118
+Divine Ire,3.0,10.0,65
+Lacerate,3.0,10.0,46
+Burning Damage Support,6.0,10.0,780
+Alchemist's Mark,3.0,10.0,62
 Scourge Arrow,3.0,10.0,54
+Volatile Dead,4.0,10.0,66
+Stormblast Mine,3.0,10.0,52
+Cobra Lash,5.0,10.0,42
+Rolling Magma,4.0,10.0,45
+Heavy Strike,3.0,10.0,38
+Boneshatter,3.0,10.0,124
+Controlled Destruction Support,5.0,10.0,426
+Molten Strike,4.8,10.0,67
 Ice Trap,3.0,10.0,103
 Explosive Trap,5.0,10.0,108
-Stormblast Mine,3.0,10.0,52
-Rolling Magma,4.0,10.0,45
-Cobra Lash,5.0,10.0,42
-Volatile Dead,4.0,10.0,66
-Multiple Traps Support,3.4,10.0,61
-Molten Strike,4.2,10.0,67
-Pyroclast Mine,4.4,10.0,51
-Shrapnel Ballista,3.0,10.0,81
-Lacerate,3.0,10.0,47
-Spectral Throw,5.0,10.0,56
-Protective Link,3.0,10.0,45
-Flamethrower Trap,4.0,10.0,60
 Armageddon Brand,4.0,10.0,85
-Summon Flame Golem,3.2,10.0,97
-Animate Weapon,5.0,10.0,181
-Vicious Projectiles Support,7.4,10.0,351
-Swift Affliction Support,10.0,10.0,742
-Puncture,3.0,10.0,63
-Reckoning,3.0,10.0,64
-Soulrend,4.0,10.0,90
-Summon Chaos Golem,2.4,10.0,132
-Siphoning Trap,3.0,10.0,42
-Divine Ire,3.0,10.0,66
-Anomalous Protective Link,10.0,10.0,9
-Seismic Trap,4.0,10.0,297
-Melee Physical Damage Support,6.6,10.0,335
-Ground Slam,3.0,9.85,49
+Blast Rain,3.0,10.0,58
+Storm Rain,5.0,10.0,69
+Ground Slam,3.0,9.85,48
 Dark Pact,3.0,9.8,99
+Venom Gyre,2.8,9.8,247
 Bane,3.0,9.8,183
 Spirit Offering,3.0,9.8,91
-Venom Gyre,2.8,9.8,248
-Rage Vortex,3.0,9.6,77
 Bodyswap,4.0,9.6,43
+Rage Vortex,3.0,9.6,77
 Urgent Orders Support,10.0,9.6,51
+Volcanic Fissure,4.0,9.6,119
 Blade Flurry,3.0,9.6,68
-Energy Blade,3.0,9.4,69
 Intuitive Link,3.0,9.4,38
-Volcanic Fissure,4.0,9.4,117
-Destructive Link,3.0,9.2,55
 Galvanic Field,3.0,9.2,69
-Arrow Nova Support,5.0,9.2,87
-Decay Support,4.4,9.2,51
-Iron Grip Support,4.2,9.0,35
-Incinerate,5.0,9.0,53
+Decay Support,5.0,9.2,51
+Destructive Link,3.0,9.2,55
 Riposte,3.0,9.0,50
-Vulnerability,4.0,9.0,104
+Critical Strike Affliction Support,5.0,9.0,80
+Iron Grip Support,4.2,9.0,35
 Purifying Flame,5.0,9.0,85
 Searing Bond,4.0,9.0,29
-Critical Strike Affliction Support,5.0,9.0,80
-Icicle Mine,3.0,8.8,73
+Incinerate,5.0,9.0,53
+Vulnerability,4.0,9.0,104
+Arrow Nova Support,5.0,8.8,87
 Crackling Lance,5.0,8.8,57
+Icicle Mine,3.0,8.8,73
 Wild Strike,9.0,8.8,40
 Life Leech Support,4.0,8.6,36
-Viper Strike,3.0,8.2,45
-Cleave,3.0,8.2,60
 Smoke Mine,3.0,8.2,64
+Viper Strike,3.0,8.2,45
+Lightning Spire Trap,5.0,8.2,103
+Cleave,3.0,8.2,60
+Warlord's Mark,3.0,8.2,77
 Chance to Flee Support,2.0,8.0,20
-Shield Crush,3.8,8.0,89
-Knockback Support,3.0,8.0,35
-Artillery Ballista,3.0,8.0,139
-Stormbind,4.0,8.0,61
-Frozen Legion,2.92,8.0,122
-Burning Arrow,3.6,8.0,48
-Lightning Spire Trap,5.0,8.0,102
-Rain of Arrows,3.0,8.0,66
 Cast when Stunned Support,4.0,8.0,85
+Frozen Legion,3.0,8.0,122
+Stormbind,4.8,8.0,61
+Shield Crush,3.8,8.0,89
+Artillery Ballista,3.0,8.0,139
+Knockback Support,3.0,8.0,35
+Burning Arrow,3.8,8.0,49
+Rain of Arrows,2.8,8.0,67
 Anomalous Chance to Flee Support,8.8,7.6,9
 Storm Burst,3.0,7.6,63
-Warlord's Mark,3.0,7.4,76
 Bladestorm,3.0,7.2,60
-Sweep,4.0,7.0,37
-Consecrated Path,4.0,7.0,66
 Shattering Steel,4.0,7.0,47
-Holy Flame Totem,5.0,7.0,84
-Void Sphere,3.8,7.0,73
+Essence Drain,5.0,7.0,107
 Divergent Penance Brand,8.8,7.0,12
-Essence Drain,5.0,7.0,108
+Sweep,4.0,7.0,37
+Summon Holy Relic,3.0,7.0,72
+Holy Flame Totem,5.0,7.0,84
+Void Sphere,3.4,7.0,73
 Blade Blast,3.0,6.8,68
-Summon Holy Relic,3.0,6.6,74
-Galvanic Arrow,3.2,6.6,49
+Consecrated Path,4.0,6.6,66
+Galvanic Arrow,3.0,6.2,49
 Splitting Steel,5.0,6.2,36
-Spectral Helix,3.0,6.2,72
 Lancing Steel,3.0,6.0,43
 Penance Brand,2.4,5.8,58
-Earthshatter,3.4,5.6,52
 Perforate,4.0,5.6,45
 Summon Reaper,3.0,5.6,58
-Infernal Blow,3.4,5.4,53
+Earthshatter,3.0,5.6,52
+Infernal Blow,3.0,5.4,53
 Flame Link,4.0,5.2,33
-Poisonous Concoction,3.0,5.0,161
-Vampiric Link,3.0,5.0,95
-Earthquake,4.0,5.0,54
-Seismic Cry,2.4,5.0,64
-Conversion Trap,3.0,5.0,41
-Divergent Splitting Steel,10.0,5.0,33
-Anomalous Ambush,10.0,5.0,42
 Ambush,4.0,5.0,58
-Pestilent Strike,3.0,5.0,46
+Conversion Trap,3.0,5.0,41
+Seismic Cry,3.0,5.0,64
+Poisonous Concoction,3.0,5.0,161
+Anomalous Ambush,10.0,5.0,42
 Spectral Shield Throw,2.0,5.0,76
+Divergent Splitting Steel,10.0,5.0,33
+Earthquake,4.0,5.0,54
+Pestilent Strike,3.0,5.0,46
+Vampiric Link,3.0,4.8,94
 Rallying Cry,3.0,4.8,53
-Dominating Blow,3.0,4.0,71
+Dominating Blow,3.0,4.2,72
 Voltaxic Burst,3.0,3.4,46
 Mirror Arrow,1.0,3.0,204
-Anomalous Devouring Totem,12.2,0.0,0
-Anomalous Enlighten Support,467.26,0.0,0
-Detonate Mines,0.0,0.0,0
-Enlighten Support,0.0,0.0,0
-Awakened Unleash Support,824.58,0.0,0
 Blood and Sand,5.0,0.0,0
-Awakened Burning Damage Support,25.0,0.0,0
-Awakened Empower Support,18800.42,0.0,0
-Awakened Enlighten Support,24022.76,0.0,0
+Awakened Unbound Ailments Support,80.0,0.0,0
+Awakened Enlighten Support,24077.74,0.0,0
+Awakened Elemental Damage with Attacks Support,100.0,0.0,0
 Awakened Cast On Critical Strike Support,272.11,0.0,0
-Awakened Enhance Support,6101.89,0.0,0
-Divergent Impurity of Fire,0.0,0.0,0
-Awakened Spell Echo Support,4601.16,0.0,0
-Awakened Swift Affliction Support,30.0,0.0,0
+Awakened Unleash Support,824.58,0.0,0
+Enlighten Support,0.0,0.0,0
+Awakened Burning Damage Support,25.0,0.0,0
+Detonate Mines,0.0,0.0,0
+Awakened Empower Support,18855.4,0.0,0
 Awakened Void Manipulation Support,140.0,0.0,0
-Awakened Greater Multiple Projectiles Support,7696.08,0.0,0
+Divergent Impurity of Fire,0.0,0.0,0
+Awakened Swift Affliction Support,30.0,0.0,0
+Awakened Enhance Support,6101.89,0.0,0
+Anomalous Enlighten Support,439.78,0.0,0
+Phantasmal Lancing Steel,10.0,0.0,0
+Awakened Spell Echo Support,4535.19,0.0,0
 Awakened Elemental Focus Support,95.0,0.0,0
-Awakened Unbound Ailments Support,79.36,0.0,0
+Awakened Greater Multiple Projectiles Support,7696.08,0.0,0
 Awakened Spell Cascade Support,6871.5,0.0,0
 Awakened Multistrike Support,6321.78,0.0,0
-Awakened Elemental Damage with Attacks Support,100.0,0.0,0
-Awakened Fork Support,687.15,0.0,0
-Awakened Chain Support,227.0,0.0,0
-Awakened Melee Physical Damage Support,20.0,0.0,0
-Impurity of Lightning,0.0,0.0,0
-Awakened Brutality Support,15.0,0.0,0
+Anomalous Devouring Totem,12.2,0.0,0
 Impurity of Fire,0.0,0.0,0
+Awakened Fork Support,687.15,0.0,0
+Awakened Melee Physical Damage Support,20.0,0.0,0
+Awakened Chain Support,222.96,0.0,0
+Impurity of Lightning,0.0,0.0,0
+Awakened Blasphemy Support,30.0,0.0,0
+Awakened Added Cold Damage Support,15.0,0.0,0
 Phantasmal Infernal Blow,8.0,0.0,0
-Awakened Added Fire Damage Support,9.2,0.0,0
-Anomalous Blood and Sand,412.29,0.0,0
+Anomalous Enhance Support,70.0,0.0,0
 Awakened Arrow Nova Support,15.0,0.0,0
+Anomalous Blood and Sand,412.29,0.0,0
 Divergent Blink Arrow,12.4,0.0,0
 Divergent Wrath,4177.87,0.0,0
 Phantasmal Splitting Steel,14.0,0.0,0
@@ -1365,44 +1366,43 @@ Divergent Ambush,12.6,0.0,0
 Divergent Cast while Channelling Support,10.0,0.0,0
 Anomalous Point Blank Support,9.0,0.0,0
 Anomalous Decoy Totem,10.0,0.0,0
-Awakened Melee Splash Support,10.0,0.0,0
+Awakened Minion Damage Support,19.0,0.0,0
 Brand Recall,4.0,0.0,0
-Anomalous Portal,21.2,0.0,0
 Phantasmal Siphoning Trap,16.6,0.0,0
+Phantasmal Infernal Cry,20.0,0.0,0
 Anomalous Intuitive Link,10.0,0.0,0
 Anomalous Impurity of Fire,0.0,0.0,0
-Divergent Point Blank Support,25.44,0.0,0
+Divergent Point Blank Support,22.26,0.0,0
 Divergent Blood and Sand,35.0,0.0,0
 Anomalous Impurity of Ice,0.0,0.0,0
-Anomalous Detonate Mines,25.0,0.0,0
 Anomalous Impurity of Lightning,0.0,0.0,0
 Anomalous Lightning Warp,8.8,0.0,0
-Anomalous Enhance Support,70.0,0.0,0
+Anomalous Detonate Mines,25.8,0.0,0
+Awakened Added Fire Damage Support,10.0,0.0,0
+Awakened Melee Splash Support,10.0,0.0,0
+Awakened Added Chaos Damage Support,10.0,0.0,0
 Awakened Fire Penetration Support,10.0,0.0,0
-Phantasmal Infernal Cry,20.0,0.0,0
-Awakened Blasphemy Support,30.0,0.0,0
-Awakened Added Cold Damage Support,15.0,0.0,0
-Awakened Added Lightning Damage Support,20.0,0.0,0
 Divergent Impurity of Lightning,0.0,0.0,0
-Awakened Minion Damage Support,19.0,0.0,0
-Awakened Vicious Projectiles Support,20.0,0.0,0
+Anomalous Portal,15.4,0.0,0
+Awakened Added Lightning Damage Support,20.0,0.0,0
+Awakened Controlled Destruction Support,10.0,0.0,0
 Phantasmal Intensify Support,13.0,0.0,0
 Awakened Increased Area of Effect Support,329.83,0.0,0
-Awakened Controlled Destruction Support,10.0,0.0,0
-Awakened Lightning Penetration Support,14.0,0.0,0
+Awakened Vicious Projectiles Support,20.0,0.0,0
 Divergent Impurity of Ice,0.0,0.0,0
+Awakened Lightning Penetration Support,14.0,0.0,0
+Awakened Hextouch Support,25.0,0.0,0
 Awakened Deadly Ailments Support,25.0,0.0,0
-Awakened Generosity Support,32.0,0.0,0
-Anomalous Cobra Lash,15.0,0.0,0
+Awakened Generosity Support,30.0,0.0,0
+Awakened Brutality Support,15.0,0.0,0
 Awakened Cast While Channelling Support,35.0,0.0,0
 Phantasmal Haste,28.0,0.0,0
-Anomalous Empower Support,90.0,0.0,0
+Anomalous Empower Support,93.0,0.0,0
 Awakened Cold Penetration Support,10.0,0.0,0
-Awakened Hextouch Support,25.0,0.0,0
 Enhance Support,0.0,0.0,0
 Empower Support,0.0,0.0,0
-Awakened Added Chaos Damage Support,10.0,0.0,0
 Anomalous Brand Recall,10.0,0.0,0
 Awakened Ancestral Call Support,15.0,0.0,0
 Anomalous Behead Support,15.2,0.0,0
+Anomalous Cobra Lash,15.0,0.0,0
 Portal,0.0,0.0,0
