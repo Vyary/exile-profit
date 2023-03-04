@@ -4,7 +4,7 @@
     </a>
 </p>
 
-<h2 align="center">Path of Exile Gem Price Collector</h2>
+<h2 align="center">Path of Exile Gem Profit</h2>
 
 ## Table of Contents
 - [Introduction](#introduction)
