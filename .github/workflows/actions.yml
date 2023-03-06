@@ -22,7 +22,7 @@ jobs:
           pip install -r requirements.txt
           
       - name: execute main.py
-        run: python src/main.py
+        run: python src/gem_profit_calculator.py
 
       - name: create json
         id: create-json-1
@@ -33,7 +33,7 @@ jobs:
           dir: 'output/'
 
       - name: execute sheet_update.py
-        run: python src/sheet_update.py
+        run: python src/sheet_updater.py
           
       - name: commit files
         run: |
