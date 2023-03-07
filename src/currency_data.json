@@ -1,0 +1,98 @@
+{
+    "Orb of Alchemy": {
+        "currency_value": 0,
+        "exchange_for": "Orb of Regret",
+        "exchange_rate": 1,
+        "exchange_currency_price": 0
+    },
+    "Orb of Regret": {
+        "currency_value": 0,
+        "exchange_for": "Orb of Scouring",
+        "exchange_rate": 2,
+        "exchange_currency_price": 0
+    },
+    "Orb of Scouring": {
+        "currency_value": 0,
+        "exchange_for": "Orb of Chance",
+        "exchange_rate": 4,
+        "exchange_currency_price": 0
+    },
+    "Orb of Chance": {
+        "currency_value": 0,
+        "exchange_for": "Orb of Fusing",
+        "exchange_rate": 1,
+        "exchange_currency_price": 0
+    },
+    "Orb of Fusing": {
+        "currency_value": 0,
+        "exchange_for": "Jeweller's Orb",
+        "exchange_rate": 4,
+        "exchange_currency_price": 0
+    },
+    "Chromatic Orb": {
+        "currency_value": 0,
+        "exchange_for": "Jeweller's Orb",
+        "exchange_rate": 3,
+        "exchange_currency_price": 0
+    },
+    "Jeweller's Orb": {
+        "currency_value": 0,
+        "exchange_for": "Orb of Alteration",
+        "exchange_rate": 2,
+        "exchange_currency_price": 0
+    },
+    "Orb of Alteration": {
+        "currency_value": 0,
+        "exchange_for": "Orb of Augmentation",
+        "exchange_rate": 4,
+        "exchange_currency_price": 0
+    },
+    "Orb of Augmentation": {
+        "currency_value": 0,
+        "exchange_for": "Orb of Transmutation",
+        "exchange_rate": 4,
+        "exchange_currency_price": 0
+    },
+    "Orb of Transmutation": {
+        "currency_value": 0,
+        "exchange_for": "Portal Scroll",
+        "exchange_rate": 7,
+        "exchange_currency_price": 0
+    },
+    "Portal Scroll": {
+        "currency_value": 0,
+        "exchange_for": "Scroll of Wisdom",
+        "exchange_rate": 3,
+        "exchange_currency_price": 0
+    },
+    "Glassblower's Bauble": {
+        "currency_value": 0,
+        "exchange_for": "Blacksmith's Whetstone",
+        "exchange_rate": 8,
+        "exchange_currency_price": 0
+    },
+    "Blacksmith's Whetstone": {
+        "currency_value": 0,
+        "exchange_for": "Armourer's Scrap",
+        "exchange_rate": 3,
+        "exchange_currency_price": 0
+    },
+    "Armourer's Scrap": {
+        "currency_value": 0,
+        "exchange_for": "Blacksmith's Whetstone",
+        "exchange_rate": 1,
+        "exchange_currency_price": 0
+    },
+    "Orb of Unmaking": {
+        "currency_value": 0,
+        "exchange_for": "Orb of Regret",
+        "exchange_rate": 2,
+        "exchange_currency_price": 0
+    },
+    "Scroll of Wisdom": {
+        "currency_value": 0,
+        "exchange_for": "Scroll of Wisdom",
+        "exchange_rate": 1,
+        "exchange_currency_price": 0
+    }
+}

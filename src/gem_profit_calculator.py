@@ -1,21 +1,24 @@
-import requests
+from typing import Dict
+
 import pandas as pd
-from get_league import get_current_league
+import requests
+
+from get_league import current_league
 
 
 class Gem:
-    dictionary = {}
+    dictionary: Dict[str, "Gem"] = {}
 
     def __init__(self, name: str) -> None:
-        self.name = name
-        self.quality = self.get_quality_type(name)
-        self.base_price = None
-        self.leveled_price = None
-        self.fail_price = None
-        self.success_price = None
-        self.vaal_price = None
-        self.listed_leveled = 0
-        self.listed_21_20 = 0
+        self.name: str = name
+        self.quality: str = self.get_quality_type(name)
+        self.base_price: float = 0
+        self.leveled_price: float = 0
+        self.fail_price: float = 0
+        self.success_price: float = 0
+        self.vaal_price: float = 0
+        self.listed_leveled: int = 0
+        self.listed_21_20: int = 0
 
     @staticmethod
     def get_quality_type(name: str) -> str:
@@ -33,13 +36,18 @@ class Gem:
         return "Basic"
 
     def update_prices(self, variant: str, price: float, listed: int) -> None:
+        # base price
         is_basic_1_20 = variant == "1/20" and self.quality == "Basic"
         is_alternative_1 = variant == "1" and self.quality == "Alternative"
         is_awakened_1 = variant == "1" and self.quality == "Awakened"
+        # leveled price
         is_leveled_20_20 = variant == "20/20"
+        # fail price
         is_not_vaal_20_20c = variant == "20/20c" and self.quality != "Vaal"
         is_awakened_5_20c = variant == "5/20c" and self.quality == "Awakened"
+        # semi fail price
         is_vaal_20_20c = variant == "20/20c" and self.quality == "Vaal"
+        # success price
         is_not_vaal_21_20c = variant == "21/20c" and self.quality != "Vaal"
         is_awakened_6_20c = variant == "6/20c" and self.quality == "Awakened"
 
@@ -125,12 +133,13 @@ class Gem:
 
         df1 = df1.sort_values("Success 21/20", ascending=False)
         df1.to_csv("output/gems_to_corrupt.csv", index=False, encoding="utf-8")
+
         df2 = df2.sort_values("Leveled 20/20", ascending=False)
         df2.to_csv("output/gems_to_level.csv", index=False, encoding="utf-8")
 
 
 def main():
-    league = get_current_league()
+    league = current_league()
 
     if league.startswith("Error"):
         exit()

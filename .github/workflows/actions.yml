@@ -24,6 +24,9 @@ jobs:
       - name: execute main.py
         run: python src/gem_profit_calculator.py
 
+      - name: execute main.py
+        run: python src/currency_flipping.py
+
       - name: create json
         id: create-json-1
         uses: jsdaniell/create-json@v1.2.1
