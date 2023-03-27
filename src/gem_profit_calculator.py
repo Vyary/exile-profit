@@ -35,21 +35,21 @@ class Gem:
 
         return "Basic"
 
-    def update_prices(self, variant: str, price: float, listed: int) -> None:
+    def update_prices(self, variant: str, quality: str, price: float, listed: int):
         # base price
-        is_basic_1_20 = variant == "1/20" and self.quality == "Basic"
-        is_alternative_1 = variant == "1" and self.quality == "Alternative"
-        is_awakened_1 = variant == "1" and self.quality == "Awakened"
+        is_basic_1_20 = variant == "1/20" and quality == "Basic"
+        is_alternative_1 = variant == "1" and quality == "Alternative"
+        is_awakened_1 = variant == "1" and quality == "Awakened"
         # leveled price
         is_leveled_20_20 = variant == "20/20"
         # fail price
-        is_not_vaal_20_20c = variant == "20/20c" and self.quality != "Vaal"
-        is_awakened_5_20c = variant == "5/20c" and self.quality == "Awakened"
+        is_not_vaal_20_20c = variant == "20/20c" and quality != "Vaal"
+        is_awakened_5_20c = variant == "5/20c" and quality == "Awakened"
         # semi fail price
-        is_vaal_20_20c = variant == "20/20c" and self.quality == "Vaal"
+        is_vaal_20_20c = variant == "20/20c" and quality == "Vaal"
         # success price
-        is_not_vaal_21_20c = variant == "21/20c" and self.quality != "Vaal"
-        is_awakened_6_20c = variant == "6/20c" and self.quality == "Awakened"
+        is_not_vaal_21_20c = variant == "21/20c" and quality != "Vaal"
+        is_awakened_6_20c = variant == "6/20c" and quality == "Awakened"
 
         if is_basic_1_20 or is_alternative_1 or is_awakened_1:
             self.base_price = price
@@ -80,7 +80,7 @@ class Gem:
             if gem_name not in cls.dictionary:
                 cls.dictionary[gem_name] = cls(gem_name)
 
-            cls.dictionary[gem_name].update_prices(variant, price, listed)
+            cls.dictionary[gem_name].update_prices(variant, quality, price, listed)
 
     @classmethod
     def save_data(cls) -> None:
