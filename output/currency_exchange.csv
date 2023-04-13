@@ -1,17 +1,17 @@
 Currency,Price,Component,Count,Component Price,Profit per 100
+Orb of Unmaking,1.0,Orb of Regret,2,0.485322,2.94
 Orb of Fusing,0.33333,Jeweller's Orb,4,0.07692,2.57
 Orb of Scouring,0.28571,Orb of Chance,4,0.06667,1.9
-Orb of Unmaking,1.0,Orb of Regret,2,0.5,0.0
-Scroll of Wisdom,0.01136,Scroll of Wisdom,1,0.01136,0.0
-Portal Scroll,0.031916,Scroll of Wisdom,3,0.01136,-0.22
-Blacksmith's Whetstone,0.075504,Armourer's Scrap,3,0.02941,-1.27
-Armourer's Scrap,0.02941,Blacksmith's Whetstone,1,0.075504,-4.61
+Scroll of Wisdom,0.011424,Scroll of Wisdom,1,0.011424,0.0
+Portal Scroll,0.03125,Scroll of Wisdom,3,0.011424,-0.3
+Blacksmith's Whetstone,0.07407,Armourer's Scrap,3,0.02857,-1.16
+Armourer's Scrap,0.02857,Blacksmith's Whetstone,1,0.07407,-4.55
 Orb of Augmentation,0.03333,Orb of Transmutation,4,0.02222,-5.56
 Orb of Alteration,0.07692,Orb of Augmentation,4,0.03333,-5.64
-Orb of Regret,0.5,Orb of Scouring,2,0.28571,-7.14
-Chromatic Orb,0.15873,Jeweller's Orb,3,0.07692,-7.2
+Chromatic Orb,0.15667,Jeweller's Orb,3,0.07692,-7.41
 Jeweller's Orb,0.07692,Orb of Alteration,2,0.07692,-7.69
-Glassblower's Bauble,0.45,Blacksmith's Whetstone,8,0.075504,-15.4
-Orb of Transmutation,0.02222,Portal Scroll,7,0.031916,-20.12
+Orb of Regret,0.485322,Orb of Scouring,2,0.28571,-8.61
+Glassblower's Bauble,0.44,Blacksmith's Whetstone,8,0.07407,-15.26
+Orb of Transmutation,0.02222,Portal Scroll,7,0.03125,-19.65
 Orb of Chance,0.06667,Orb of Fusing,1,0.33333,-26.67
-Orb of Alchemy,0.12469,Orb of Regret,1,0.5,-37.53
+Orb of Alchemy,0.122438,Orb of Regret,1,0.485322,-36.29
