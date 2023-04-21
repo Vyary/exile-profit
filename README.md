@@ -1,6 +1,6 @@
 <p align=center>
     <a href="https://www.pathofexile.com/" title="Path of Exile Website">
-      <img align="center" src="https://web.poecdn.com/protected/image/layout/sanctumlogo.png?v=1670373174098&key=j1DUgpyrwdlKZcGWzaFxxA" />
+      <img align="center" src="https://www.pathofexile.com/protected/image/layout/cruciblelogo.png?v=1680235310122&key=_T0JuTA0JCDHg7yjm-5TWw" />
     </a>
 </p>
 
