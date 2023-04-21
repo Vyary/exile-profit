@@ -42,6 +42,7 @@ class Gem:
         is_awakened_1 = variant == "1" and quality == "Awakened"
         # leveled price
         is_leveled_20_20 = variant == "20/20"
+        is_leveled_awakened_1_20 = variant == "5/20"
         # fail price
         is_not_vaal_20_20c = variant == "20/20c" and quality != "Vaal"
         is_awakened_5_20c = variant == "5/20c" and quality == "Awakened"
@@ -53,7 +54,7 @@ class Gem:
 
         if is_basic_1_20 or is_alternative_1 or is_awakened_1:
             self.base_price = price
-        elif is_leveled_20_20:
+        elif is_leveled_20_20 or is_leveled_awakened_1_20:
             self.leveled_price = price
             self.listed_leveled = listed
         elif is_not_vaal_20_20c or is_awakened_5_20c:
