@@ -12,8 +12,8 @@
 - [In-Game Profit](#in-game-profit)
 - [Script Functionality](#script-functionality)
 - [Using the CSV Files](#using-the-csv-files)
-- [CSV Files Location](#csv-file-locations)
-- [CSV Files Contents](#csv-file-contents)
+- [CSV Files Location](#csv-files-location)
+- [CSV Files Contents](#csv-files-contents)
 - [Auto-Updating Google Sheet](#auto-updating-google-sheet)
 
 ## Introduction
@@ -56,9 +56,9 @@ For ease of use, users can access an auto-updating Google Sheet with the latest 
 **For Leveling:**
 * Filter 1: This sheet includes gems with 50%-ish profit just for leveling them, they are not for corruping [click here](https://docs.google.com/spreadsheets/d/1qcYu22DIwEORUYuTJNnYnxS5ceQx8y6XJhVjBai_0lI/edit#gid=1128179025&fvid=2016462890)
 
-* Filter 2: This sheet includes non-awakened gems with 50%-ish profit for leveling them with 10 or more listings [click here](https://docs.google.com/spreadsheets/d/1qcYu22DIwEORUYuTJNnYnxS5ceQx8y6XJhVjBai_0lI/edit#gid=1128179025&fvid=1198810126)
+* Filter 2: Filter for non-awakened gems with 50%-ish profit for leveling them with 10 or more listings [click here](https://docs.google.com/spreadsheets/d/1qcYu22DIwEORUYuTJNnYnxS5ceQx8y6XJhVjBai_0lI/edit#gid=1128179025&fvid=1198810126)
 
-* Filter 3: This sheet includes awakened gems only with 50%-ish profit for leveling them with 10 or more listings [click here](https://docs.google.com/spreadsheets/d/1qcYu22DIwEORUYuTJNnYnxS5ceQx8y6XJhVjBai_0lI/edit#gid=1128179025&fvid=1744942205)
+* Filter 3: Filter for awakened gems only with 50%-ish profit for leveling them with 10 or more listings [click here](https://docs.google.com/spreadsheets/d/1qcYu22DIwEORUYuTJNnYnxS5ceQx8y6XJhVjBai_0lI/edit#gid=1128179025&fvid=1744942205)
 
 
 **For Corrupting:**
