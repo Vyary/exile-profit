@@ -9,13 +9,13 @@ def main():
     sheets_client = gspread.service_account(Path("output/service_account.json"))
 
     # Open the workbook
-    workbook = sheets_client.open("Poe gem prices")
+    workbook = sheets_client.open("Exile-Profit")
 
     df1 = pd.read_csv("output/gems_to_corrupt.csv")
-    set_with_dataframe(workbook.worksheet("Gems to corrupt"), df1)
+    set_with_dataframe(workbook.worksheet("Gems to Corrupt"), df1)
 
     df2 = pd.read_csv("output/gems_to_level.csv")
-    set_with_dataframe(workbook.worksheet("Gems to level"), df2)
+    set_with_dataframe(workbook.worksheet("Gems to Level"), df2)
 
     df3 = pd.read_csv("output/currency_exchange.csv")
     set_with_dataframe(workbook.worksheet("Currency Flipping"), df3)
