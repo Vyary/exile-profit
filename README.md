@@ -56,6 +56,11 @@ For ease of use, users can access an auto-updating Google Sheet with the latest 
 **For Leveling:**
 * Filter 1: This sheet includes gems with 50%-ish profit just for leveling them, they are not for corruping [click here](https://docs.google.com/spreadsheets/d/1qcYu22DIwEORUYuTJNnYnxS5ceQx8y6XJhVjBai_0lI/edit#gid=1128179025&fvid=2016462890)
 
+* Filter 2: This sheet includes non-awakened gems with 50%-ish profit for leveling them with 10 or more listings [click here](https://docs.google.com/spreadsheets/d/1qcYu22DIwEORUYuTJNnYnxS5ceQx8y6XJhVjBai_0lI/edit#gid=1128179025&fvid=1198810126)
+
+* Filter 3: This sheet includes awakened gems only with 50%-ish profit for leveling them with 10 or more listings [click here](https://docs.google.com/spreadsheets/d/1qcYu22DIwEORUYuTJNnYnxS5ceQx8y6XJhVjBai_0lI/edit#gid=1128179025&fvid=1744942205)
+
+
 **For Corrupting:**
 * Filter 1: Good for league start with buy price under 20, 50%-ish profit if it fails, sell price for success is set to be more than 100 and only show gems with 10 or more listings [click here](https://docs.google.com/spreadsheets/d/1qcYu22DIwEORUYuTJNnYnxS5ceQx8y6XJhVjBai_0lI/edit#gid=520131547&fvid=434671070)
 
