@@ -1,0 +1,1830 @@
+{
+    "The Maven's Writ": {
+        "drop_chance": "",
+        "query": {
+            "query": {
+                "status": {
+                    "option": "online"
+                },
+                "type": "The Maven's Writ",
+                "stats": [
+                    {
+                        "type": "and",
+                        "filters": []
+                    }
+                ],
+                "filters": {
+                    "trade_filters": {
+                        "filters": {
+                            "indexed": {
+                                "option": "3days"
+                            }
+                        }
+                    }
+                }
+            },
+            "sort": {
+                "price": "asc"
+            }
+        }
+    },
+    "Arn's Anguish": {
+        "drop_chance": 0.12,
+        "query": {
+            "query": {
+                "status": {
+                    "option": "any"
+                },
+                "name": "Arn's Anguish",
+                "type": "Cloth Belt",
+                "stats": [
+                    {
+                        "type": "and",
+                        "filters": []
+                    }
+                ],
+                "filters": {
+                    "misc_filters": {
+                        "filters": {
+                            "corrupted": {
+                                "option": "false"
+                            }
+                        }
+                    },
+                    "trade_filters": {
+                        "filters": {
+                            "collapse": {
+                                "option": "true"
+                            },
+                            "indexed": {
+                                "option": "3days"
+                            }
+                        }
+                    }
+                }
+            },
+            "sort": {
+                "price": "asc"
+            }
+        }
+    },
+    "Graven's Secret": {
+        "drop_chance": 0.13,
+        "query": {
+            "query": {
+                "status": {
+                    "option": "any"
+                },
+                "name": "Graven's Secret",
+                "type": "Cloth Belt",
+                "stats": [
+                    {
+                        "type": "and",
+                        "filters": []
+                    }
+                ],
+                "filters": {
+                    "misc_filters": {
+                        "filters": {
+                            "corrupted": {
+                                "option": "false"
+                            }
+                        }
+                    },
+                    "trade_filters": {
+                        "filters": {
+                            "collapse": {
+                                "option": "true"
+                            },
+                            "indexed": {
+                                "option": "3days"
+                            }
+                        }
+                    }
+                }
+            },
+            "sort": {
+                "price": "asc"
+            }
+        }
+    },
+    "Olesya's Delight": {
+        "drop_chance": 0.12,
+        "query": {
+            "query": {
+                "status": {
+                    "option": "any"
+                },
+                "name": "Olesya's Delight",
+                "type": "Cloth Belt",
+                "stats": [
+                    {
+                        "type": "and",
+                        "filters": []
+                    }
+                ],
+                "filters": {
+                    "misc_filters": {
+                        "filters": {
+                            "corrupted": {
+                                "option": "false"
+                            }
+                        }
+                    },
+                    "trade_filters": {
+                        "filters": {
+                            "collapse": {
+                                "option": "true"
+                            },
+                            "indexed": {
+                                "option": "3days"
+                            }
+                        }
+                    }
+                }
+            },
+            "sort": {
+                "price": "asc"
+            }
+        }
+    },
+    "Viridi's Veil": {
+        "drop_chance": 0.18,
+        "query": {
+            "query": {
+                "status": {
+                    "option": "any"
+                },
+                "name": "Viridi's Veil",
+                "type": "Praetor Crown",
+                "stats": [
+                    {
+                        "type": "and",
+                        "filters": []
+                    }
+                ],
+                "filters": {
+                    "misc_filters": {
+                        "filters": {
+                            "corrupted": {
+                                "option": "false"
+                            }
+                        }
+                    },
+                    "trade_filters": {
+                        "filters": {
+                            "collapse": {
+                                "option": "true"
+                            },
+                            "indexed": {
+                                "option": "3days"
+                            }
+                        }
+                    }
+                }
+            },
+            "sort": {
+                "price": "asc"
+            }
+        }
+    },
+    "Legacy of Fury": {
+        "drop_chance": 0.32,
+        "query": {
+            "query": {
+                "status": {
+                    "option": "any"
+                },
+                "name": "Legacy of Fury",
+                "type": "Wyrmscale Boots",
+                "stats": [
+                    {
+                        "type": "and",
+                        "filters": []
+                    }
+                ],
+                "filters": {
+                    "misc_filters": {
+                        "filters": {
+                            "corrupted": {
+                                "option": "false"
+                            }
+                        }
+                    },
+                    "trade_filters": {
+                        "filters": {
+                            "collapse": {
+                                "option": "true"
+                            },
+                            "indexed": {
+                                "option": "3days"
+                            }
+                        }
+                    }
+                }
+            },
+            "sort": {
+                "price": "asc"
+            }
+        }
+    },
+    "The Doppelganger": {
+        "drop_chance": 0.02,
+        "query": {
+            "query": {
+                "status": {
+                    "option": "any"
+                },
+                "type": "The Doppelganger",
+                "stats": [
+                    {
+                        "type": "and",
+                        "filters": []
+                    }
+                ],
+                "filters": {
+                    "misc_filters": {
+                        "filters": {
+                            "corrupted": {
+                                "option": "false"
+                            }
+                        }
+                    },
+                    "trade_filters": {
+                        "filters": {
+                            "collapse": {
+                                "option": "true"
+                            },
+                            "indexed": {
+                                "option": "3days"
+                            }
+                        }
+                    }
+                }
+            },
+            "sort": {
+                "price": "asc"
+            }
+        }
+    },
+    "Elevated Sextant": {
+        "drop_chance": 1.00,
+        "query": {
+            "query": {
+                "status": {
+                    "option": "any"
+                },
+                "type": "Elevated Sextant",
+                "stats": [
+                    {
+                        "type": "and",
+                        "filters": []
+                    }
+                ],
+                "filters": {
+                    "misc_filters": {
+                        "filters": {
+                            "corrupted": {
+                                "option": "false"
+                            }
+                        }
+                    },
+                    "trade_filters": {
+                        "filters": {
+                            "collapse": {
+                                "option": "true"
+                            },
+                            "indexed": {
+                                "option": "3days"
+                            }
+                        }
+                    }
+                }
+            },
+            "sort": {
+                "price": "asc"
+            }
+        }
+    },
+    "Orb of Conflict": {
+        "drop_chance": 0.42,
+        "query": {
+            "query": {
+                "status": {
+                    "option": "any"
+                },
+                "type": "Orb of Conflict",
+                "stats": [
+                    {
+                        "type": "and",
+                        "filters": []
+                    }
+                ],
+                "filters": {
+                    "misc_filters": {
+                        "filters": {
+                            "corrupted": {
+                                "option": "false"
+                            }
+                        }
+                    },
+                    "trade_filters": {
+                        "filters": {
+                            "collapse": {
+                                "option": "true"
+                            },
+                            "indexed": {
+                                "option": "3days"
+                            }
+                        }
+                    }
+                }
+            },
+            "sort": {
+                "price": "asc"
+            }
+        }
+    },
+    "Awakened Empower Support": {
+        "drop_chance": 0.0058,
+        "query": {
+            "query": {
+                "status": {
+                    "option": "any"
+                },
+                "type": "Awakened Empower Support",
+                "stats": [
+                    {
+                        "type": "and",
+                        "filters": []
+                    }
+                ],
+                "filters": {
+                    "misc_filters": {
+                        "filters": {
+                            "corrupted": {
+                                "option": "false"
+                            }
+                        }
+                    },
+                    "trade_filters": {
+                        "filters": {
+                            "collapse": {
+                                "option": "true"
+                            },
+                            "indexed": {
+                                "option": "3days"
+                            }
+                        }
+                    }
+                }
+            },
+            "sort": {
+                "price": "asc"
+            }
+        }
+    },
+    "Awakened Enhance Support": {
+        "drop_chance": 0.0058,
+        "query": {
+            "query": {
+                "status": {
+                    "option": "any"
+                },
+                "type": "Awakened Enhance Support",
+                "stats": [
+                    {
+                        "type": "and",
+                        "filters": []
+                    }
+                ],
+                "filters": {
+                    "misc_filters": {
+                        "filters": {
+                            "corrupted": {
+                                "option": "false"
+                            }
+                        }
+                    },
+                    "trade_filters": {
+                        "filters": {
+                            "collapse": {
+                                "option": "true"
+                            },
+                            "indexed": {
+                                "option": "3days"
+                            }
+                        }
+                    }
+                }
+            },
+            "sort": {
+                "price": "asc"
+            }
+        }
+    },
+    "Awakened Enlighten Support": {
+        "drop_chance": 0.0039,
+        "query": {
+            "query": {
+                "status": {
+                    "option": "any"
+                },
+                "type": "Awakened Enlighten Support",
+                "stats": [
+                    {
+                        "type": "and",
+                        "filters": []
+                    }
+                ],
+                "filters": {
+                    "misc_filters": {
+                        "filters": {
+                            "corrupted": {
+                                "option": "false"
+                            }
+                        }
+                    },
+                    "trade_filters": {
+                        "filters": {
+                            "collapse": {
+                                "option": "true"
+                            },
+                            "indexed": {
+                                "option": "3days"
+                            }
+                        }
+                    }
+                }
+            },
+            "sort": {
+                "price": "asc"
+            }
+        }
+    },
+    "Awakened Added Chaos Damage Support": {
+        "drop_chance": 0.0257,
+        "query": {
+            "query": {
+                "status": {
+                    "option": "any"
+                },
+                "type": "Awakened Added Chaos Damage Support",
+                "stats": [
+                    {
+                        "type": "and",
+                        "filters": []
+                    }
+                ],
+                "filters": {
+                    "misc_filters": {
+                        "filters": {
+                            "corrupted": {
+                                "option": "false"
+                            }
+                        }
+                    },
+                    "trade_filters": {
+                        "filters": {
+                            "collapse": {
+                                "option": "true"
+                            },
+                            "indexed": {
+                                "option": "3days"
+                            }
+                        }
+                    }
+                }
+            },
+            "sort": {
+                "price": "asc"
+            }
+        }
+    },
+    "Awakened Added Cold Damage Support": {
+        "drop_chance": 0.0283,
+        "query": {
+            "query": {
+                "status": {
+                    "option": "any"
+                },
+                "type": "Awakened Added Cold Damage Support",
+                "stats": [
+                    {
+                        "type": "and",
+                        "filters": []
+                    }
+                ],
+                "filters": {
+                    "misc_filters": {
+                        "filters": {
+                            "corrupted": {
+                                "option": "false"
+                            }
+                        }
+                    },
+                    "trade_filters": {
+                        "filters": {
+                            "collapse": {
+                                "option": "true"
+                            },
+                            "indexed": {
+                                "option": "3days"
+                            }
+                        }
+                    }
+                }
+            },
+            "sort": {
+                "price": "asc"
+            }
+        }
+    },
+    "Awakened Added Fire Damage Support": {
+        "drop_chance": 0.0206,
+        "query": {
+            "query": {
+                "status": {
+                    "option": "any"
+                },
+                "type": "Awakened Added Fire Damage Support",
+                "stats": [
+                    {
+                        "type": "and",
+                        "filters": []
+                    }
+                ],
+                "filters": {
+                    "misc_filters": {
+                        "filters": {
+                            "corrupted": {
+                                "option": "false"
+                            }
+                        }
+                    },
+                    "trade_filters": {
+                        "filters": {
+                            "collapse": {
+                                "option": "true"
+                            },
+                            "indexed": {
+                                "option": "3days"
+                            }
+                        }
+                    }
+                }
+            },
+            "sort": {
+                "price": "asc"
+            }
+        }
+    },
+    "Awakened Added Lightning Damage Support": {
+        "drop_chance": 0.0263,
+        "query": {
+            "query": {
+                "status": {
+                    "option": "any"
+                },
+                "type": "Awakened Added Lightning Damage Support",
+                "stats": [
+                    {
+                        "type": "and",
+                        "filters": []
+                    }
+                ],
+                "filters": {
+                    "misc_filters": {
+                        "filters": {
+                            "corrupted": {
+                                "option": "false"
+                            }
+                        }
+                    },
+                    "trade_filters": {
+                        "filters": {
+                            "collapse": {
+                                "option": "true"
+                            },
+                            "indexed": {
+                                "option": "3days"
+                            }
+                        }
+                    }
+                }
+            },
+            "sort": {
+                "price": "asc"
+            }
+        }
+    },
+    "Awakened Ancestral Call Support": {
+        "drop_chance": 0.0090,
+        "query": {
+            "query": {
+                "status": {
+                    "option": "any"
+                },
+                "type": "Awakened Ancestral Call Support",
+                "stats": [
+                    {
+                        "type": "and",
+                        "filters": []
+                    }
+                ],
+                "filters": {
+                    "misc_filters": {
+                        "filters": {
+                            "corrupted": {
+                                "option": "false"
+                            }
+                        }
+                    },
+                    "trade_filters": {
+                        "filters": {
+                            "collapse": {
+                                "option": "true"
+                            },
+                            "indexed": {
+                                "option": "3days"
+                            }
+                        }
+                    }
+                }
+            },
+            "sort": {
+                "price": "asc"
+            }
+        }
+    },
+    "Awakened Arrow Nova Support": {
+        "drop_chance": 0.0103,
+        "query": {
+            "query": {
+                "status": {
+                    "option": "any"
+                },
+                "type": "Awakened Arrow Nova Support",
+                "stats": [
+                    {
+                        "type": "and",
+                        "filters": []
+                    }
+                ],
+                "filters": {
+                    "misc_filters": {
+                        "filters": {
+                            "corrupted": {
+                                "option": "false"
+                            }
+                        }
+                    },
+                    "trade_filters": {
+                        "filters": {
+                            "collapse": {
+                                "option": "true"
+                            },
+                            "indexed": {
+                                "option": "3days"
+                            }
+                        }
+                    }
+                }
+            },
+            "sort": {
+                "price": "asc"
+            }
+        }
+    },
+    "Awakened Blasphemy Support": {
+        "drop_chance": 0.0122,
+        "query": {
+            "query": {
+                "status": {
+                    "option": "any"
+                },
+                "type": "Awakened Blasphemy Support",
+                "stats": [
+                    {
+                        "type": "and",
+                        "filters": []
+                    }
+                ],
+                "filters": {
+                    "misc_filters": {
+                        "filters": {
+                            "corrupted": {
+                                "option": "false"
+                            }
+                        }
+                    },
+                    "trade_filters": {
+                        "filters": {
+                            "collapse": {
+                                "option": "true"
+                            },
+                            "indexed": {
+                                "option": "3days"
+                            }
+                        }
+                    }
+                }
+            },
+            "sort": {
+                "price": "asc"
+            }
+        }
+    },
+    "Awakened Brutality Support": {
+        "drop_chance": 0.0244,
+        "query": {
+            "query": {
+                "status": {
+                    "option": "any"
+                },
+                "type": "Awakened Brutality Support",
+                "stats": [
+                    {
+                        "type": "and",
+                        "filters": []
+                    }
+                ],
+                "filters": {
+                    "misc_filters": {
+                        "filters": {
+                            "corrupted": {
+                                "option": "false"
+                            }
+                        }
+                    },
+                    "trade_filters": {
+                        "filters": {
+                            "collapse": {
+                                "option": "true"
+                            },
+                            "indexed": {
+                                "option": "3days"
+                            }
+                        }
+                    }
+                }
+            },
+            "sort": {
+                "price": "asc"
+            }
+        }
+    },
+    "Awakened Burning Damage Support": {
+        "drop_chance": 0.0218,
+        "query": {
+            "query": {
+                "status": {
+                    "option": "any"
+                },
+                "type": "Awakened Burning Damage Support",
+                "stats": [
+                    {
+                        "type": "and",
+                        "filters": []
+                    }
+                ],
+                "filters": {
+                    "misc_filters": {
+                        "filters": {
+                            "corrupted": {
+                                "option": "false"
+                            }
+                        }
+                    },
+                    "trade_filters": {
+                        "filters": {
+                            "collapse": {
+                                "option": "true"
+                            },
+                            "indexed": {
+                                "option": "3days"
+                            }
+                        }
+                    }
+                }
+            },
+            "sort": {
+                "price": "asc"
+            }
+        }
+    },
+    "Awakened Cast On Critical Strike Support": {
+        "drop_chance": 0.0116,
+        "query": {
+            "query": {
+                "status": {
+                    "option": "any"
+                },
+                "type": "Awakened Cast On Critical Strike Support",
+                "stats": [
+                    {
+                        "type": "and",
+                        "filters": []
+                    }
+                ],
+                "filters": {
+                    "misc_filters": {
+                        "filters": {
+                            "corrupted": {
+                                "option": "false"
+                            }
+                        }
+                    },
+                    "trade_filters": {
+                        "filters": {
+                            "collapse": {
+                                "option": "true"
+                            },
+                            "indexed": {
+                                "option": "3days"
+                            }
+                        }
+                    }
+                }
+            },
+            "sort": {
+                "price": "asc"
+            }
+        }
+    },
+    "Awakened Cast While Channelling Support": {
+        "drop_chance": 0.0116,
+        "query": {
+            "query": {
+                "status": {
+                    "option": "any"
+                },
+                "type": "Awakened Cast While Channelling Support",
+                "stats": [
+                    {
+                        "type": "and",
+                        "filters": []
+                    }
+                ],
+                "filters": {
+                    "misc_filters": {
+                        "filters": {
+                            "corrupted": {
+                                "option": "false"
+                            }
+                        }
+                    },
+                    "trade_filters": {
+                        "filters": {
+                            "collapse": {
+                                "option": "true"
+                            },
+                            "indexed": {
+                                "option": "3days"
+                            }
+                        }
+                    }
+                }
+            },
+            "sort": {
+                "price": "asc"
+            }
+        }
+    },
+    "Awakened Chain Support": {
+        "drop_chance": 0.0122,
+        "query": {
+            "query": {
+                "status": {
+                    "option": "any"
+                },
+                "type": "Awakened Chain Support",
+                "stats": [
+                    {
+                        "type": "and",
+                        "filters": []
+                    }
+                ],
+                "filters": {
+                    "misc_filters": {
+                        "filters": {
+                            "corrupted": {
+                                "option": "false"
+                            }
+                        }
+                    },
+                    "trade_filters": {
+                        "filters": {
+                            "collapse": {
+                                "option": "true"
+                            },
+                            "indexed": {
+                                "option": "3days"
+                            }
+                        }
+                    }
+                }
+            },
+            "sort": {
+                "price": "asc"
+            }
+        }
+    },
+    "Awakened Cold Penetration Support": {
+        "drop_chance": 0.0263,
+        "query": {
+            "query": {
+                "status": {
+                    "option": "any"
+                },
+                "type": "Awakened Cold Penetration Support",
+                "stats": [
+                    {
+                        "type": "and",
+                        "filters": []
+                    }
+                ],
+                "filters": {
+                    "misc_filters": {
+                        "filters": {
+                            "corrupted": {
+                                "option": "false"
+                            }
+                        }
+                    },
+                    "trade_filters": {
+                        "filters": {
+                            "collapse": {
+                                "option": "true"
+                            },
+                            "indexed": {
+                                "option": "3days"
+                            }
+                        }
+                    }
+                }
+            },
+            "sort": {
+                "price": "asc"
+            }
+        }
+    },
+    "Awakened Controlled Destruction Support": {
+        "drop_chance": 0.0257,
+        "query": {
+            "query": {
+                "status": {
+                    "option": "any"
+                },
+                "type": "Awakened Controlled Destruction Support",
+                "stats": [
+                    {
+                        "type": "and",
+                        "filters": []
+                    }
+                ],
+                "filters": {
+                    "misc_filters": {
+                        "filters": {
+                            "corrupted": {
+                                "option": "false"
+                            }
+                        }
+                    },
+                    "trade_filters": {
+                        "filters": {
+                            "collapse": {
+                                "option": "true"
+                            },
+                            "indexed": {
+                                "option": "3days"
+                            }
+                        }
+                    }
+                }
+            },
+            "sort": {
+                "price": "asc"
+            }
+        }
+    },
+    "Awakened Deadly Ailments Support": {
+        "drop_chance": 0.0257,
+        "query": {
+            "query": {
+                "status": {
+                    "option": "any"
+                },
+                "type": "Awakened Deadly Ailments Support",
+                "stats": [
+                    {
+                        "type": "and",
+                        "filters": []
+                    }
+                ],
+                "filters": {
+                    "misc_filters": {
+                        "filters": {
+                            "corrupted": {
+                                "option": "false"
+                            }
+                        }
+                    },
+                    "trade_filters": {
+                        "filters": {
+                            "collapse": {
+                                "option": "true"
+                            },
+                            "indexed": {
+                                "option": "3days"
+                            }
+                        }
+                    }
+                }
+            },
+            "sort": {
+                "price": "asc"
+            }
+        }
+    },
+    "Awakened Elemental Damage with Attacks Support": {
+        "drop_chance": 0.0315,
+        "query": {
+            "query": {
+                "status": {
+                    "option": "any"
+                },
+                "type": "Awakened Elemental Damage with Attacks Support",
+                "stats": [
+                    {
+                        "type": "and",
+                        "filters": []
+                    }
+                ],
+                "filters": {
+                    "misc_filters": {
+                        "filters": {
+                            "corrupted": {
+                                "option": "false"
+                            }
+                        }
+                    },
+                    "trade_filters": {
+                        "filters": {
+                            "collapse": {
+                                "option": "true"
+                            },
+                            "indexed": {
+                                "option": "3days"
+                            }
+                        }
+                    }
+                }
+            },
+            "sort": {
+                "price": "asc"
+            }
+        }
+    },
+    "Awakened Elemental Focus Support": {
+        "drop_chance": 0.0212,
+        "query": {
+            "query": {
+                "status": {
+                    "option": "any"
+                },
+                "type": "Awakened Elemental Focus Support",
+                "stats": [
+                    {
+                        "type": "and",
+                        "filters": []
+                    }
+                ],
+                "filters": {
+                    "misc_filters": {
+                        "filters": {
+                            "corrupted": {
+                                "option": "false"
+                            }
+                        }
+                    },
+                    "trade_filters": {
+                        "filters": {
+                            "collapse": {
+                                "option": "true"
+                            },
+                            "indexed": {
+                                "option": "3days"
+                            }
+                        }
+                    }
+                }
+            },
+            "sort": {
+                "price": "asc"
+            }
+        }
+    },
+    "Awakened Fire Penetration Support": {
+        "drop_chance": 0.0276,
+        "query": {
+            "query": {
+                "status": {
+                    "option": "any"
+                },
+                "type": "Awakened Fire Penetration Support",
+                "stats": [
+                    {
+                        "type": "and",
+                        "filters": []
+                    }
+                ],
+                "filters": {
+                    "misc_filters": {
+                        "filters": {
+                            "corrupted": {
+                                "option": "false"
+                            }
+                        }
+                    },
+                    "trade_filters": {
+                        "filters": {
+                            "collapse": {
+                                "option": "true"
+                            },
+                            "indexed": {
+                                "option": "3days"
+                            }
+                        }
+                    }
+                }
+            },
+            "sort": {
+                "price": "asc"
+            }
+        }
+    },
+    "Awakened Fork Support": {
+        "drop_chance": 0.0109,
+        "query": {
+            "query": {
+                "status": {
+                    "option": "any"
+                },
+                "type": "Awakened Fork Support",
+                "stats": [
+                    {
+                        "type": "and",
+                        "filters": []
+                    }
+                ],
+                "filters": {
+                    "misc_filters": {
+                        "filters": {
+                            "corrupted": {
+                                "option": "false"
+                            }
+                        }
+                    },
+                    "trade_filters": {
+                        "filters": {
+                            "collapse": {
+                                "option": "true"
+                            },
+                            "indexed": {
+                                "option": "3days"
+                            }
+                        }
+                    }
+                }
+            },
+            "sort": {
+                "price": "asc"
+            }
+        }
+    },
+    "Awakened Generosity Support": {
+        "drop_chance": 0.0141,
+        "query": {
+            "query": {
+                "status": {
+                    "option": "any"
+                },
+                "type": "Awakened Generosity Support",
+                "stats": [
+                    {
+                        "type": "and",
+                        "filters": []
+                    }
+                ],
+                "filters": {
+                    "misc_filters": {
+                        "filters": {
+                            "corrupted": {
+                                "option": "false"
+                            }
+                        }
+                    },
+                    "trade_filters": {
+                        "filters": {
+                            "collapse": {
+                                "option": "true"
+                            },
+                            "indexed": {
+                                "option": "3days"
+                            }
+                        }
+                    }
+                }
+            },
+            "sort": {
+                "price": "asc"
+            }
+        }
+    },
+    "Awakened Greater Multiple Projectiles Support": {
+        "drop_chance": 0.0071,
+        "query": {
+            "query": {
+                "status": {
+                    "option": "any"
+                },
+                "type": "Awakened Greater Multiple Projectiles Support",
+                "stats": [
+                    {
+                        "type": "and",
+                        "filters": []
+                    }
+                ],
+                "filters": {
+                    "misc_filters": {
+                        "filters": {
+                            "corrupted": {
+                                "option": "false"
+                            }
+                        }
+                    },
+                    "trade_filters": {
+                        "filters": {
+                            "collapse": {
+                                "option": "true"
+                            },
+                            "indexed": {
+                                "option": "3days"
+                            }
+                        }
+                    }
+                }
+            },
+            "sort": {
+                "price": "asc"
+            }
+        }
+    },
+    "Awakened Hextouch Support": {
+        "drop_chance": 0.0180,
+        "query": {
+            "query": {
+                "status": {
+                    "option": "any"
+                },
+                "type": "Awakened Hextouch Support",
+                "stats": [
+                    {
+                        "type": "and",
+                        "filters": []
+                    }
+                ],
+                "filters": {
+                    "misc_filters": {
+                        "filters": {
+                            "corrupted": {
+                                "option": "false"
+                            }
+                        }
+                    },
+                    "trade_filters": {
+                        "filters": {
+                            "collapse": {
+                                "option": "true"
+                            },
+                            "indexed": {
+                                "option": "3days"
+                            }
+                        }
+                    }
+                }
+            },
+            "sort": {
+                "price": "asc"
+            }
+        }
+    },
+    "Awakened Increased Area of Effect Support": {
+        "drop_chance": 0.0180,
+        "query": {
+            "query": {
+                "status": {
+                    "option": "any"
+                },
+                "type": "Awakened Increased Area of Effect Support",
+                "stats": [
+                    {
+                        "type": "and",
+                        "filters": []
+                    }
+                ],
+                "filters": {
+                    "misc_filters": {
+                        "filters": {
+                            "corrupted": {
+                                "option": "false"
+                            }
+                        }
+                    },
+                    "trade_filters": {
+                        "filters": {
+                            "collapse": {
+                                "option": "true"
+                            },
+                            "indexed": {
+                                "option": "3days"
+                            }
+                        }
+                    }
+                }
+            },
+            "sort": {
+                "price": "asc"
+            }
+        }
+    },
+    "Awakened Lightning Penetration Support": {
+        "drop_chance": 0.0295,
+        "query": {
+            "query": {
+                "status": {
+                    "option": "any"
+                },
+                "type": "Awakened Lightning Penetration Support",
+                "stats": [
+                    {
+                        "type": "and",
+                        "filters": []
+                    }
+                ],
+                "filters": {
+                    "misc_filters": {
+                        "filters": {
+                            "corrupted": {
+                                "option": "false"
+                            }
+                        }
+                    },
+                    "trade_filters": {
+                        "filters": {
+                            "collapse": {
+                                "option": "true"
+                            },
+                            "indexed": {
+                                "option": "3days"
+                            }
+                        }
+                    }
+                }
+            },
+            "sort": {
+                "price": "asc"
+            }
+        }
+    },
+    "Awakened Melee Physical Damage Support": {
+        "drop_chance": 0.0270,
+        "query": {
+            "query": {
+                "status": {
+                    "option": "any"
+                },
+                "type": "Awakened Melee Physical Damage Support",
+                "stats": [
+                    {
+                        "type": "and",
+                        "filters": []
+                    }
+                ],
+                "filters": {
+                    "misc_filters": {
+                        "filters": {
+                            "corrupted": {
+                                "option": "false"
+                            }
+                        }
+                    },
+                    "trade_filters": {
+                        "filters": {
+                            "collapse": {
+                                "option": "true"
+                            },
+                            "indexed": {
+                                "option": "3days"
+                            }
+                        }
+                    }
+                }
+            },
+            "sort": {
+                "price": "asc"
+            }
+        }
+    },
+    "Awakened Melee Splash Support": {
+        "drop_chance": 0.0250,
+        "query": {
+            "query": {
+                "status": {
+                    "option": "any"
+                },
+                "type": "Awakened Melee Splash Support",
+                "stats": [
+                    {
+                        "type": "and",
+                        "filters": []
+                    }
+                ],
+                "filters": {
+                    "misc_filters": {
+                        "filters": {
+                            "corrupted": {
+                                "option": "false"
+                            }
+                        }
+                    },
+                    "trade_filters": {
+                        "filters": {
+                            "collapse": {
+                                "option": "true"
+                            },
+                            "indexed": {
+                                "option": "3days"
+                            }
+                        }
+                    }
+                }
+            },
+            "sort": {
+                "price": "asc"
+            }
+        }
+    },
+    "Awakened Minion Damage Support": {
+        "drop_chance": 0.0238,
+        "query": {
+            "query": {
+                "status": {
+                    "option": "any"
+                },
+                "type": "Awakened Minion Damage Support",
+                "stats": [
+                    {
+                        "type": "and",
+                        "filters": []
+                    }
+                ],
+                "filters": {
+                    "misc_filters": {
+                        "filters": {
+                            "corrupted": {
+                                "option": "false"
+                            }
+                        }
+                    },
+                    "trade_filters": {
+                        "filters": {
+                            "collapse": {
+                                "option": "true"
+                            },
+                            "indexed": {
+                                "option": "3days"
+                            }
+                        }
+                    }
+                }
+            },
+            "sort": {
+                "price": "asc"
+            }
+        }
+    },
+    "Awakened Multistrike Support": {
+        "drop_chance": 0.0116,
+        "query": {
+            "query": {
+                "status": {
+                    "option": "any"
+                },
+                "type": "Awakened Multistrike Support",
+                "stats": [
+                    {
+                        "type": "and",
+                        "filters": []
+                    }
+                ],
+                "filters": {
+                    "misc_filters": {
+                        "filters": {
+                            "corrupted": {
+                                "option": "false"
+                            }
+                        }
+                    },
+                    "trade_filters": {
+                        "filters": {
+                            "collapse": {
+                                "option": "true"
+                            },
+                            "indexed": {
+                                "option": "3days"
+                            }
+                        }
+                    }
+                }
+            },
+            "sort": {
+                "price": "asc"
+            }
+        }
+    },
+    "Awakened Spell Cascade Support": {
+        "drop_chance": 0.0109,
+        "query": {
+            "query": {
+                "status": {
+                    "option": "any"
+                },
+                "type": "Awakened Spell Cascade Support",
+                "stats": [
+                    {
+                        "type": "and",
+                        "filters": []
+                    }
+                ],
+                "filters": {
+                    "misc_filters": {
+                        "filters": {
+                            "corrupted": {
+                                "option": "false"
+                            }
+                        }
+                    },
+                    "trade_filters": {
+                        "filters": {
+                            "collapse": {
+                                "option": "true"
+                            },
+                            "indexed": {
+                                "option": "3days"
+                            }
+                        }
+                    }
+                }
+            },
+            "sort": {
+                "price": "asc"
+            }
+        }
+    },
+    "Awakened Spell Echo Support": {
+        "drop_chance": 0.0019,
+        "query": {
+            "query": {
+                "status": {
+                    "option": "any"
+                },
+                "type": "Awakened Spell Echo Support",
+                "stats": [
+                    {
+                        "type": "and",
+                        "filters": []
+                    }
+                ],
+                "filters": {
+                    "misc_filters": {
+                        "filters": {
+                            "corrupted": {
+                                "option": "false"
+                            }
+                        }
+                    },
+                    "trade_filters": {
+                        "filters": {
+                            "collapse": {
+                                "option": "true"
+                            },
+                            "indexed": {
+                                "option": "3days"
+                            }
+                        }
+                    }
+                }
+            },
+            "sort": {
+                "price": "asc"
+            }
+        }
+    },
+    "Awakened Swift Affliction Support": {
+        "drop_chance": 0.00225,
+        "query": {
+            "query": {
+                "status": {
+                    "option": "any"
+                },
+                "type": "Awakened Swift Affliction Support",
+                "stats": [
+                    {
+                        "type": "and",
+                        "filters": []
+                    }
+                ],
+                "filters": {
+                    "misc_filters": {
+                        "filters": {
+                            "corrupted": {
+                                "option": "false"
+                            }
+                        }
+                    },
+                    "trade_filters": {
+                        "filters": {
+                            "collapse": {
+                                "option": "true"
+                            },
+                            "indexed": {
+                                "option": "3days"
+                            }
+                        }
+                    }
+                }
+            },
+            "sort": {
+                "price": "asc"
+            }
+        }
+    },
+    "Awakened Unbound Ailments Support": {
+        "drop_chance": 0.0315,
+        "query": {
+            "query": {
+                "status": {
+                    "option": "any"
+                },
+                "type": "Awakened Unbound Ailments Support",
+                "stats": [
+                    {
+                        "type": "and",
+                        "filters": []
+                    }
+                ],
+                "filters": {
+                    "misc_filters": {
+                        "filters": {
+                            "corrupted": {
+                                "option": "false"
+                            }
+                        }
+                    },
+                    "trade_filters": {
+                        "filters": {
+                            "collapse": {
+                                "option": "true"
+                            },
+                            "indexed": {
+                                "option": "3days"
+                            }
+                        }
+                    }
+                }
+            },
+            "sort": {
+                "price": "asc"
+            }
+        }
+    },
+    "Awakened Unleash Support": {
+        "drop_chance": 0.0077,
+        "query": {
+            "query": {
+                "status": {
+                    "option": "any"
+                },
+                "type": "Awakened Unleash Support",
+                "stats": [
+                    {
+                        "type": "and",
+                        "filters": []
+                    }
+                ],
+                "filters": {
+                    "misc_filters": {
+                        "filters": {
+                            "corrupted": {
+                                "option": "false"
+                            }
+                        }
+                    },
+                    "trade_filters": {
+                        "filters": {
+                            "collapse": {
+                                "option": "true"
+                            },
+                            "indexed": {
+                                "option": "3days"
+                            }
+                        }
+                    }
+                }
+            },
+            "sort": {
+                "price": "asc"
+            }
+        }
+    },
+    "Awakened Vicious Projectiles Support": {
+        "drop_chance": 0.0238,
+        "query": {
+            "query": {
+                "status": {
+                    "option": "any"
+                },
+                "type": "Awakened Vicious Projectiles Support",
+                "stats": [
+                    {
+                        "type": "and",
+                        "filters": []
+                    }
+                ],
+                "filters": {
+                    "misc_filters": {
+                        "filters": {
+                            "corrupted": {
+                                "option": "false"
+                            }
+                        }
+                    },
+                    "trade_filters": {
+                        "filters": {
+                            "collapse": {
+                                "option": "true"
+                            },
+                            "indexed": {
+                                "option": "3days"
+                            }
+                        }
+                    }
+                }
+            },
+            "sort": {
+                "price": "asc"
+            }
+        }
+    },
+    "Awakened Void Manipulation Support": {
+        "drop_chance": 0.0225,
+        "query": {
+            "query": {
+                "status": {
+                    "option": "any"
+                },
+                "type": "Awakened Void Manipulation Support",
+                "stats": [
+                    {
+                        "type": "and",
+                        "filters": []
+                    }
+                ],
+                "filters": {
+                    "misc_filters": {
+                        "filters": {
+                            "corrupted": {
+                                "option": "false"
+                            }
+                        }
+                    },
+                    "trade_filters": {
+                        "filters": {
+                            "collapse": {
+                                "option": "true"
+                            },
+                            "indexed": {
+                                "option": "3days"
+                            }
+                        }
+                    }
+                }
+            },
+            "sort": {
+                "price": "asc"
+            }
+        }
+    }
+}

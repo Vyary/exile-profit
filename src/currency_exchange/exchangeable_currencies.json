@@ -1,0 +1,114 @@
+{
+    "Orb of Alchemy": {
+        "name": "Orb of Alchemy",
+        "currency_value": 0,
+        "component": "Orb of Regret",
+        "component_count": 1,
+        "component_price": 0
+    },
+    "Orb of Regret": {
+        "name": "Orb of Regret",
+        "currency_value": 0,
+        "component": "Orb of Scouring",
+        "component_count": 2,
+        "component_price": 0
+    },
+    "Orb of Scouring": {
+        "name": "Orb of Scouring",
+        "currency_value": 0,
+        "component": "Orb of Chance",
+        "component_count": 4,
+        "component_price": 0
+    },
+    "Orb of Chance": {
+        "name": "Orb of Chance",
+        "currency_value": 0,
+        "component": "Orb of Fusing",
+        "component_count": 1,
+        "component_price": 0
+    },
+    "Orb of Fusing": {
+        "name": "Orb of Fusing",
+        "currency_value": 0,
+        "component": "Jeweller's Orb",
+        "component_count": 4,
+        "component_price": 0
+    },
+    "Chromatic Orb": {
+        "name": "Chromatic Orb",
+        "currency_value": 0,
+        "component": "Jeweller's Orb",
+        "component_count": 3,
+        "component_price": 0
+    },
+    "Jeweller's Orb": {
+        "name": "Jeweller's Orb",
+        "currency_value": 0,
+        "component": "Orb of Alteration",
+        "component_count": 2,
+        "component_price": 0
+    },
+    "Orb of Alteration": {
+        "name": "Orb of Alteration",
+        "currency_value": 0,
+        "component": "Orb of Augmentation",
+        "component_count": 4,
+        "component_price": 0
+    },
+    "Orb of Augmentation": {
+        "name": "Orb of Augmentation",
+        "currency_value": 0,
+        "component": "Orb of Transmutation",
+        "component_count": 4,
+        "component_price": 0
+    },
+    "Orb of Transmutation": {
+        "name": "Orb of Transmutation",
+        "currency_value": 0,
+        "component": "Portal Scroll",
+        "component_count": 7,
+        "component_price": 0
+    },
+    "Portal Scroll": {
+        "name": "Portal Scroll",
+        "currency_value": 0,
+        "component": "Scroll of Wisdom",
+        "component_count": 3,
+        "component_price": 0
+    },
+    "Glassblower's Bauble": {
+        "name": "Glassblower",
+        "currency_value": 0,
+        "component": "Blacksmith's Whetstone",
+        "component_count": 8,
+        "component_price": 0
+    },
+    "Blacksmith's Whetstone": {
+        "name": "Blacksmith's Whetstone",
+        "currency_value": 0,
+        "component": "Armourer's Scrap",
+        "component_count": 3,
+        "component_price": 0
+    },
+    "Armourer's Scrap": {
+        "name": "Armourer's Scrap",
+        "currency_value": 0,
+        "component": "Blacksmith's Whetstone",
+        "component_count": 1,
+        "component_price": 0
+    },
+    "Orb of Unmaking": {
+        "name": "Orb of Unmaking",
+        "currency_value": 0,
+        "component": "Orb of Regret",
+        "component_count": 2,
+        "component_price": 0
+    },
+    "Scroll of Wisdom": {
+        "name": "Scroll of Wisdom",
+        "currency_value": 0,
+        "component": "Scroll of Wisdom",
+        "component_count": 1,
+        "component_price": 0
+    }
+}

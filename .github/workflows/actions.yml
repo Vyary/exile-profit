@@ -20,12 +20,6 @@ jobs:
       - name: install python packages
         run: |
           pip install -r requirements.txt
-          
-      - name: execute main.py
-        run: python src/gem_profit_calculator.py
-
-      - name: execute main.py
-        run: python src/currency_flipping.py
 
       - name: create json
         id: create-json-1
@@ -35,15 +29,15 @@ jobs:
           json: ${{ secrets.SERVICE }}
           dir: 'output/'
 
-      - name: execute sheet_update.py
-        run: python src/sheet_updater.py
+      - name: execute controller run
+        run: python src/controller.py
           
       - name: commit files
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add -A
-          git diff-index --quiet HEAD || (git commit -a -m "Updated gems.csv" --allow-empty)
+          git diff-index --quiet HEAD || (git commit -a -m "Data updated" --allow-empty)
           
       - name: push changes
         uses: ad-m/github-push-action@master

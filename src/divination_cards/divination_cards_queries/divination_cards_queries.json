@@ -1,0 +1,161 @@
+{
+    "The Enlightened": {
+        "Level 3 Enlighten": {
+            "query": {
+                "status": {
+                    "option": "online"
+                },
+                "type": "Enlighten Support",
+                "stats": [
+                    {
+                        "type": "and",
+                        "filters": []
+                    }
+                ],
+                "filters": {
+                    "misc_filters": {
+                        "filters": {
+                            "gem_level": {
+                                "min": 3
+                            },
+                            "corrupted": {
+                                "option": "false"
+                            }
+                        }
+                    },
+                    "trade_filters": {
+                        "filters": {
+                            "indexed": {
+                                "option": "3days"
+                            },
+                            "collapse": {
+                                "option": "true"
+                            }
+                        }
+                    }
+                }
+            },
+            "sort": {
+                "price": "asc"
+            }
+        }
+    },
+    "The Long Con": {
+        "Warlord's Exalted Orb": {
+            "query": {
+                "status": {
+                    "option": "online"
+                },
+                "type": "Warlord's Exalted Orb",
+                "stats": [
+                    {
+                        "type": "and",
+                        "filters": []
+                    }
+                ],
+                "filters": {
+                    "trade_filters": {
+                        "filters": {
+                            "indexed": {
+                                "option": "3days"
+                            },
+                            "collapse": {
+                                "option": "true"
+                            }
+                        }
+                    }
+                }
+            },
+            "sort": {
+                "price": "asc"
+            }
+        },
+        "Redeemer's Exalted Orb": {
+            "query": {
+                "status": {
+                    "option": "online"
+                },
+                "type": "Redeemer's Exalted Orb",
+                "stats": [
+                    {
+                        "type": "and",
+                        "filters": []
+                    }
+                ],
+                "filters": {
+                    "trade_filters": {
+                        "filters": {
+                            "indexed": {
+                                "option": "3days"
+                            },
+                            "collapse": {
+                                "option": "true"
+                            }
+                        }
+                    }
+                }
+            },
+            "sort": {
+                "price": "asc"
+            }
+        },
+        "Hunter's Exalted Orb": {
+            "query": {
+                "status": {
+                    "option": "online"
+                },
+                "type": "Hunter's Exalted Orb",
+                "stats": [
+                    {
+                        "type": "and",
+                        "filters": []
+                    }
+                ],
+                "filters": {
+                    "trade_filters": {
+                        "filters": {
+                            "indexed": {
+                                "option": "3days"
+                            },
+                            "collapse": {
+                                "option": "true"
+                            }
+                        }
+                    }
+                }
+            },
+            "sort": {
+                "price": "asc"
+            }
+        },
+        "Crusader's Exalted Orb": {
+            "query": {
+                "status": {
+                    "option": "online"
+                },
+                "type": "Crusader's Exalted Orb",
+                "stats": [
+                    {
+                        "type": "and",
+                        "filters": []
+                    }
+                ],
+                "filters": {
+                    "trade_filters": {
+                        "filters": {
+                            "indexed": {
+                                "option": "3days"
+                            },
+                            "collapse": {
+                                "option": "true"
+                            }
+                        }
+                    }
+                }
+            },
+            "sort": {
+                "price": "asc"
+            }
+        }
+    }
+}
