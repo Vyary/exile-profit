@@ -116,14 +116,14 @@ class Controller:
         gems_data = poe_ninja_api.get_gems_data()
         corrupted_gems, leveled_gem_repository = self.create_gem_repository(gems_data)
         save_manager.save_dict_to_csv(
-            "corrupted_gems.csv", corrupted_gems, "success_price"
+            "gems_to_corrupt.csv", corrupted_gems, "success_price"
         )
-        sheet.update("Gems to Corrupt", "output\\corrupted_gems.csv")
+        sheet.update("Gems to Corrupt", "output\\gems_to_corrupt.csv")
 
         save_manager.save_dict_to_csv(
-            "leveled_gem.csv", leveled_gem_repository, "leveled_price"
+            "gems_to_level.csv", leveled_gem_repository, "leveled_price"
         )
-        sheet.update("Gems to Level", "output\\leveled_gem.csv")
+        sheet.update("Gems to Level", "output\\gems_to_level.csv")
 
         # Currency Flipping
         with open("src\\currency_exchange\\exchangeable_currencies.json") as f:
