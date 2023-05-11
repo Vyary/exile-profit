@@ -106,7 +106,7 @@ class Controller:
         save_manager = SaveData()
         currency_prices = CurrencyPrices(current_league).get_currency_prices()
         price_check_method = PoeTrade(current_league, currency_prices, limiter)
-        sheet = SheetUpdater("output\\service_account.json", "Exile-Profit")
+        sheet = SheetUpdater("output/service_account.json", "Exile-Profit")
         untyped_data_dict = poe_ninja_api.get_massive_data()
         item_maker = Item()
         boss_checker = BossDropInfo(price_check_method, item_maker, untyped_data_dict)
