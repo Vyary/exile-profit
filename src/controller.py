@@ -45,7 +45,7 @@ class Controller:
         boss_checker: BossDropInfo,
         cached_storage: Dict[str, Item] = None,
     ) -> Dict[str, Item]:
-        with open("src\\boss_drop_info\\boss_queries\\uber_sirus_queries.json") as f:
+        with open("src/boss_drop_info/boss_queries/uber_sirus_queries.json") as f:
             # Load the JSON data into a dictionary
             uber_sirus_queries = json.load(f)
 
@@ -61,7 +61,7 @@ class Controller:
         boss_checker: BossDropInfo,
         cached_storage: Dict[str, Item] = None,
     ) -> Dict[str, Item]:
-        with open("src\\boss_drop_info\\boss_queries\\uber_maven_queries.json") as f:
+        with open("src/boss_drop_info/boss_queries/uber_maven_queries.json") as f:
             # Load the JSON data into a dictionary
             uber_maven_queries = json.load(f)
 
@@ -83,7 +83,7 @@ class Controller:
         divination_card_storage = Storage()
 
         with open(
-            "src\\divination_cards\\divination_cards_queries\\divination_cards_queries.json"
+            "src/divination_cards/divination_cards_queries/divination_cards_queries.json"
         ) as f:
             # Load the JSON data into a dictionary
             divination_cards_queries = json.load(f)
@@ -118,15 +118,15 @@ class Controller:
         save_manager.save_dict_to_csv(
             "gems_to_corrupt.csv", corrupted_gems, "success_price"
         )
-        sheet.update("Gems to Corrupt", "output\\gems_to_corrupt.csv")
+        sheet.update("Gems to Corrupt", "output/gems_to_corrupt.csv")
 
         save_manager.save_dict_to_csv(
             "gems_to_level.csv", leveled_gem_repository, "leveled_price"
         )
-        sheet.update("Gems to Level", "output\\gems_to_level.csv")
+        sheet.update("Gems to Level", "output/gems_to_level.csv")
 
         # Currency Flipping
-        with open("src\\currency_exchange\\exchangeable_currencies.json") as f:
+        with open("src/currency_exchange/exchangeable_currencies.json") as f:
             # Load the JSON data into a dictionary
             exchangeable_currencies = json.load(f)
 
@@ -136,24 +136,24 @@ class Controller:
         save_manager.save_dict_to_csv(
             "currency_exchange.csv", currency_exchange_data, "profit_per_100"
         )
-        sheet.update("Currency Flipping", "output\\currency_exchange.csv")
+        sheet.update("Currency Flipping", "output/currency_exchange.csv")
 
         # Div Cards
         div_cards_info = self.divination_cards_data(
             poe_ninja_api, price_check_method, untyped_data_dict
         )
         save_manager.save_dict_to_csv("div_cards.csv", div_cards_info, "profit")
-        sheet.update("Divination Cards", "output\\div_cards.csv")
+        sheet.update("Divination Cards", "output/div_cards.csv")
 
         # Uber Sirus
         uber_sirus_info = self.uber_sirus_info(boss_checker)
         save_manager.save_dict_to_csv("uber_sirus_info.csv", uber_sirus_info)
-        sheet.update("Uber Sirus", "output\\uber_sirus_info.csv")
+        sheet.update("Uber Sirus", "output/uber_sirus_info.csv")
 
         # Uber Maven
         uber_maven_info = self.uber_maven_info(boss_checker)
         save_manager.save_dict_to_csv("uber_maven_info.csv", uber_maven_info)
-        sheet.update("Uber Maven", "output\\uber_maven_info.csv")
+        sheet.update("Uber Maven", "output/uber_maven_info.csv")
 
 
 def main():

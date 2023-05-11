@@ -20,7 +20,7 @@ class SaveData:
 
         keys = new_data[0].keys()
 
-        with open(f"output\\{file_name}", "w", newline="") as file:
+        with open(f"output/{file_name}", "w", newline="") as file:
             writer = csv.DictWriter(file, fieldnames=keys)
             writer.writeheader()
             writer.writerows(new_data)
