@@ -1,4 +1,4 @@
-name: pgp run
+name: exile-profit run
 
 on:
   schedule:
