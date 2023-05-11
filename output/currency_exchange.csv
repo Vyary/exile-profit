@@ -1,17 +1,17 @@
-Currency,Price,Component,Count,Component Price,Profit per 100
-Orb of Scouring,0.85855,Orb of Chance,4,0.18286,12.71
-Orb of Unmaking,1.0,Orb of Regret,2,0.49016,1.97
-Portal Scroll,0.025,Scroll of Wisdom,3,0.00833,0.0
-Scroll of Wisdom,0.00833,Scroll of Wisdom,1,0.00833,0.0
-Orb of Augmentation,0.045426,Orb of Transmutation,4,0.013664,-0.92
-Blacksmith's Whetstone,0.03333,Armourer's Scrap,3,0.01538,-1.28
-Armourer's Scrap,0.01538,Blacksmith's Whetstone,1,0.03333,-1.8
-Orb of Chance,0.18286,Orb of Fusing,1,0.20293,-2.01
-Glassblower's Bauble,0.243768,Blacksmith's Whetstone,8,0.03333,-2.29
-Orb of Fusing,0.20293,Jeweller's Orb,4,0.06667,-6.37
-Jeweller's Orb,0.06667,Orb of Alteration,2,0.06897,-7.13
-Chromatic Orb,0.11667,Jeweller's Orb,3,0.06667,-8.33
-Orb of Alteration,0.06897,Orb of Augmentation,4,0.045426,-11.27
-Orb of Transmutation,0.013664,Portal Scroll,7,0.025,-16.13
-Orb of Alchemy,0.052538,Orb of Regret,1,0.49016,-43.76
-Orb of Regret,0.49016,Orb of Scouring,2,0.85855,-122.69
+Name,Currency Value,Component,Component Count,Component Price,Profit Per 100
+Orb of Scouring,0.81,Orb of Chance,4,0.18,9.000000000000007
+Orb of Unmaking,0.97,Orb of Regret,2,0.48,1.0000000000000009
+Orb of Augmentation,0.05,Orb of Transmutation,4,0.01,1.0000000000000002
+Glassblower,0.24,Blacksmith's Whetstone,8,0.03,0.0
+Scroll of Wisdom,0.01,Scroll of Wisdom,1,0.01,0.0
+Portal Scroll,0.02,Scroll of Wisdom,3,0.01,-0.9999999999999999
+Armourer's Scrap,0.02,Blacksmith's Whetstone,1,0.03,-0.9999999999999999
+Orb of Chance,0.18,Orb of Fusing,1,0.19,-1.0000000000000009
+Blacksmith's Whetstone,0.03,Armourer's Scrap,3,0.02,-3.0
+Orb of Fusing,0.19,Jeweller's Orb,4,0.06,-4.999999999999999
+Chromatic Orb,0.11,Jeweller's Orb,3,0.06,-6.999999999999999
+Jeweller's Orb,0.06,Orb of Alteration,2,0.07,-8.000000000000002
+Orb of Alteration,0.07,Orb of Augmentation,4,0.05,-13.0
+Orb of Transmutation,0.01,Portal Scroll,7,0.02,-13.0
+Orb of Alchemy,0.05,Orb of Regret,1,0.48,-43.0
+Orb of Regret,0.48,Orb of Scouring,2,0.81,-114.00000000000001
