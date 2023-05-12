@@ -41,9 +41,7 @@ In Path of Exile, there are multiple ways to earn currency or make a profit, inc
 Using APIs, this script gathers information and performs basic calculations to determine the most effective method for generating in-game profits.
 
 ## Auto-Updating Google Sheets
-For ease of use, users can access an auto-updating Google Sheet with the latest data from the script.
-
-For the sheet [click here](https://docs.google.com/spreadsheets/d/1qcYu22DIwEORUYuTJNnYnxS5ceQx8y6XJhVjBai_0lI/edit#gid=853621891)
+For ease of use, users can access an auto-updating Google Sheet with the latest data from the script. [click here](https://docs.google.com/spreadsheets/d/1qcYu22DIwEORUYuTJNnYnxS5ceQx8y6XJhVjBai_0lI/edit#gid=853621891)
 
 * Some filter options for skill gems that you might find useful:
 
