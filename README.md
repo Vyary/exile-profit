@@ -11,7 +11,7 @@
 - [Currency](#currency)
 - [Skill Gems](#skill-gems)
 - [Divination cards](#divination-cards)
-- [Bosses / Pinnacle bosses](#bosses-/-pinnacle-bosses)
+- [Bosses / Pinnacle bosses](#bosses--pinnacle-bosses)
 - [In-Game Profit](#in-game-profit)
 - [Script Functionality](#script-functionality)
 - [Auto-Updating Google Sheets](#auto-updating-google-sheets)
