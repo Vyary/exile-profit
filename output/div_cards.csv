@@ -1,106 +1,108 @@
 Name,Stack Size,Card Price,Reward Count,Reward,Reward Price,Total Investment,Profit
-The Insane Cat,9,3486.37,1,Mageblood,48183.65,31377.33,16806.32
-The Price of Devotion,7,5601.5,1,Mageblood,48183.65,39210.5,8973.15
-The Apothecary,5,9410.52,1,Mageblood,48183.65,47052.6,1131.05
-Seven Years Bad Luck,13,237.2,1,Mirror Shard,3991.7,3083.6,908.1
-The Fiend,11,2576.69,1,Headhunter,29134.3,28343.59,790.71
-The Shieldbearer,8,403.31,1,The Squire,3809.87,3226.48,583.39
-The Nurse,8,426.96,1,The Doctor,3809.87,3415.68,394.19
-The Endless Darkness,9,60.0,1,Voidforge,896.44,540.0,356.44
-The Soul,9,100.0,1,Soul Taker,1187.78,900.0,287.78
-The Greatest Intentions,10,18.0,1,The Saviour,448.22,180.0,268.22
-The Last One Standing,10,19.0,1,Atziri's Disfavour,448.22,190.0,258.22
-Choking Guilt,6,358.5,1,Stranglegasp,2353.16,2151.0,202.16
-The Prince of Darkness,6,5.0,1,Elegant Hubris,224.11,30.0,194.11
-The Eye of Terror,8,20.0,1,Chayula's Flawless Breachstone,312.2,160.0,152.2
-Azyran's Reward,9,6.0,1,Prismatic Jewel,180.0,54.0,126.0
-Silence and Frost,7,6.0,1,The Pandemonius,140.8,42.0,98.8
-The Damned,6,11.86,1,Soul Ripper,154.0,71.16,82.84
-Beauty Through Death,5,20.0,1,Atziri's Reflection,179.29,100.0,79.29
-Succor of the Sinless,6,25.0,1,Bottled Faith,224.11,150.0,74.11
-The Enlightened,6,47.44,1,Level 3 Enlighten,355.8,284.64,71.16
-The World Eater,8,10.0,1,Starforge,150.0,80.0,70.0
+The Insane Cat,9,3541.1,1,Mageblood,48634.04,31869.9,16764.14
+The Price of Devotion,7,5603.0,1,Mageblood,48634.04,39221.0,9413.04
+The Fiend,11,2465.32,1,Headhunter,29583.84,27118.52,2465.32
+The Apothecary,5,9413.04,1,Mageblood,48634.04,47065.2,1568.84
+The Shieldbearer,8,381.0,1,The Squire,3810.04,3048.0,762.04
+Seven Years Bad Luck,13,265.37,1,Mirror Shard,3862.8,3449.81,412.99
+The Endless Darkness,9,60.0,1,Voidforge,896.48,540.0,356.48
+The Nurse,8,432.0,1,The Doctor,3810.04,3456.0,354.04
+The Soul,9,99.0,1,Soul Taker,1187.84,891.0,296.84
+The Greatest Intentions,10,17.0,1,The Saviour,448.24,170.0,278.24
+The Last One Standing,10,19.0,1,Atziri's Disfavour,448.24,190.0,258.24
+The Eye of Terror,8,20.0,1,Chayula's Flawless Breachstone,310.8,160.0,150.8
+Azyran's Reward,9,5.4,1,Prismatic Jewel,180.0,48.6,131.4
+Beauty Through Death,5,19.0,1,Atziri's Reflection,194.0,95.0,99.0
+Choking Guilt,6,358.59,1,Stranglegasp,2241.2,2151.54,89.66
+Silence and Frost,7,6.0,1,The Pandemonius,130.0,42.0,88.0
+The Enlightened,6,45.8,1,Level 3 Enlighten,354.02,274.8,79.22
+A Modest Request,3,6.87,1,Megalomaniac,99.0,20.61,78.39
+The World Eater,8,10.0,1,Starforge,154.13,80.0,74.13
+Succor of the Sinless,6,25.0,1,Bottled Faith,224.12,150.0,74.12
+The Damned,6,11.0,1,Soul Ripper,140.0,66.0,74.0
 Burning Blood,6,5.0,1,Xoph's Blood,100.0,30.0,70.0
-Eternal Bonds,4,45.0,1,Replica Cortex,246.52,180.0,66.52
-A Fate Worse Than Death,4,59.3,1,Cortex,291.34,237.2,54.14
-Anarchy's Price,13,4.0,1,Voltaxic Rift,99.0,52.0,47.0
-The Long Con,4,10.0,1,Elderslayer's Exalted Orb,80.25,40.0,40.25
-Tranquillity,7,8.6,1,Voltaxic Rift,99.0,60.2,38.8
-The Patient,8,50.0,1,The Nurse,431.28,400.0,31.28
-A Modest Request,3,7.0,1,Megalomaniac,50.0,21.0,29.0
-The One That Got Away,7,5.37,1,Replica Bated Breath,58.0,37.59,20.41
-"Brush, Paint and Palette",5,5.0,1,The Artist,42.0,25.0,17.0
-The Wedding Gift,2,7.0,1,Arakaali's Fang,28.8,14.0,14.8
-The Academic,8,7.0,1,Inspired Learning,70.0,56.0,14.0
-The Life Thief,6,4.6,1,Zerphi's Heart,40.0,27.6,12.4
+Eternal Bonds,4,45.0,1,Replica Cortex,246.53,180.0,66.53
+A Fate Worse Than Death,4,59.0,1,Cortex,291.36,236.0,55.36
+Anarchy's Price,13,4.0,1,Voltaxic Rift,100.0,52.0,48.0
+Peaceful Moments,5,6.0,1,Timeless Jewel,74.82,30.0,44.82
+Tranquillity,7,8.0,1,Voltaxic Rift,100.0,56.0,44.0
+The Long Con,4,10.0,1,Elderslayer's Exalted Orb,80.2,40.0,40.2
+The Eternal War,4,10.0,1,Timeless Jewel,74.82,40.0,34.82
+The Prince of Darkness,6,4.0,1,Elegant Hubris,58.0,24.0,34.0
+The One That Got Away,7,5.0,1,Replica Bated Breath,64.0,35.0,29.0
+The Patient,8,50.0,1,The Nurse,425.83,400.0,25.83
+The Academic,8,6.0,1,Inspired Learning,70.0,48.0,22.0
+"Brush, Paint and Palette",5,5.0,1,The Artist,42.8,25.0,17.8
+The Wedding Gift,2,7.0,1,Arakaali's Fang,25.0,14.0,11.0
+The Life Thief,6,4.0,1,Zerphi's Heart,35.0,24.0,11.0
 The Strategist,6,10.0,1,Inspired Learning,70.0,60.0,10.0
-The Polymath,3,5.0,1,Astramentis,25.0,15.0,10.0
+Ambitious Obsession,4,4.0,1,Skittering Delirium Orb,24.9,16.0,8.9
 Desperate Crusade,3,4.0,1,Prism Guardian,20.0,12.0,8.0
-Ambitious Obsession,4,4.36,1,Skittering Delirium Orb,24.9,17.44,7.46
 Altered Perception,3,6.0,1,Simulacrum,25.0,18.0,7.0
-The Risk,3,4.98,1,Ventor's Gamble,20.0,14.94,5.06
-Judging Voices,9,7.0,1,Forbidden Shako,66.0,63.0,3.0
+The Polymath,3,5.0,1,Astramentis,20.0,15.0,5.0
 Hunter's Reward,3,4.0,1,The Taming,15.0,12.0,3.0
-Brotherhood in Exile,5,4.0,1,One With Nothing,22.0,20.0,2.0
-A Note in the Wind,4,4.0,1,Asenath's Mark,17.6,16.0,1.6
-Peaceful Moments,5,5.96,1,Timeless Jewel,30.0,29.8,0.2
+A Note in the Wind,4,4.0,1,Asenath's Mark,17.86,16.0,1.86
+The Progeny of Lunaris,2,7.0,1,Dying Sun,15.0,14.0,1.0
 The Professor,4,5.0,1,The Putrid Cloister,20.0,20.0,0.0
 The Escape,5,5.0,1,Seven-League Step,25.0,25.0,0.0
-The Progeny of Lunaris,2,7.0,1,Dying Sun,12.0,14.0,-2.0
-The Transformation,5,4.0,1,Tainted Mythic Orb,18.0,20.0,-2.0
-The Lover,2,1.12,1,Jewellery,0.0,2.24,-2.24
-The Void,1,3.74,1,"'text': '', 'optional': False",0.0,3.74,-3.74
-Divine Justice,1,4.2,1,Helmet,0.0,4.2,-4.2
-Pride of the First Ones,7,5.0,1,Farrul's Fur,30.6,35.0,-4.4
-The Heroic Shot,1,5.0,17,Chromatic Orb,0.11667,5.0,-4.88
-Heterochromia,2,5.0,1,Two-Stone Ring,5.0,10.0,-5.0
+Brotherhood in Exile,5,4.0,1,One With Nothing,20.0,20.0,0.0
+The Lover,2,1.05,1,Jewellery,0.0,2.1,-2.1
+The Risk,3,5.0,1,Ventor's Gamble,12.2,15.0,-2.8
+Pride of the First Ones,7,5.0,1,Farrul's Fur,31.8,35.0,-3.2
+The Void,1,3.67,1,"'text': '', 'optional': False",0.0,3.67,-3.67
+Divine Justice,1,4.0,1,Helmet,0.0,4.0,-4.0
+The Blazing Fire,6,1.13,1,Chin Sol,2.6,6.78,-4.18
+The Cartographer,1,5.0,10,Cartographer's Chisel,0.22727,5.0,-4.77
+The Heroic Shot,1,5.0,17,Chromatic Orb,0.11614,5.0,-4.88
+Society's Remorse,1,5.0,10,Orb of Alteration,0.06667,5.0,-4.93
 The Spark and the Flame,2,5.0,1,Berek's Respite,5.0,10.0,-5.0
-Society's Remorse,1,5.37,10,Orb of Alteration,0.06667,5.37,-5.3
-The Blazing Fire,6,1.43,1,Chin Sol,3.0,8.58,-5.58
-Light and Truth,2,5.0,1,Crystal Sceptre,4.4,10.0,-5.6
+Heterochromia,2,5.2,1,Two-Stone Ring,5.0,10.4,-5.4
 The Finishing Touch,2,5.0,1,Fertile Catalyst,4.0,10.0,-6.0
-The Throne,2,5.0,1,Kaom's Roots,3.0,10.0,-7.0
-The Doppelganger,2,4.0,1,Mirror Arrow,1.0,8.0,-7.0
-The Cartographer,1,8.4,10,Cartographer's Chisel,0.22727,8.4,-8.17
-Emperor's Luck,5,1.67,5,Currency,0.0,8.35,-8.35
+Light and Truth,2,5.0,1,Crystal Sceptre,3.8,10.0,-6.2
+The Standoff,3,3.13,1,Rustic Sash,3.0,9.39,-6.39
+Judging Voices,9,7.0,1,Forbidden Shako,56.0,63.0,-7.0
+The Transformation,5,5.0,1,Tainted Mythic Orb,18.0,25.0,-7.0
+Emperor's Luck,5,1.58,5,Currency,0.0,7.9,-7.9
+The Throne,2,5.0,1,Kaom's Roots,2.0,10.0,-8.0
+Three Voices,3,2.7,3,Essence,0.0,8.1,-8.1
+Lethean Temptation,6,4.6,1,Nebulis,19.2,27.6,-8.4
 The Scholar,3,3.0,40,Scroll of Wisdom,0.00833,9.0,-8.99
-Audacity,5,3.0,1,Doryani's Fist,6.0,15.0,-9.0
-Gemcutter's Promise,3,3.0,1,Gem,0.0,9.0,-9.0
-Three Voices,3,3.0,3,Essence,0.0,9.0,-9.0
-The Easy Stroll,2,4.8,1,Map,0.0,9.6,-9.6
+The Doppelganger,2,5.0,1,Mirror Arrow,1.0,10.0,-9.0
+The Shortcut,1,9.8,1,Quicksilver Flask of the Cheetah,0.0,9.8,-9.8
 Acclimatisation,2,5.0,20,Orb of Alteration,0.06667,10.0,-9.93
 Chaotic Disposition,1,10.0,5,Chaos Orb,0.0,10.0,-10.0
-The Shortcut,1,10.0,1,Quicksilver Flask of the Cheetah,0.0,10.0,-10.0
-The Eternal War,4,10.0,1,Timeless Jewel,30.0,40.0,-10.0
+Cameria's Cut,2,5.0,1,Scarab,0.0,10.0,-10.0
 The Craving,4,5.0,1,Unending Hunger,10.0,20.0,-10.0
+The Easy Stroll,2,5.0,1,Map,0.0,10.0,-10.0
 The Whiteout,8,5.0,1,Cospri's Malice,30.0,40.0,-10.0
-The Wolf's Shadow,3,4.0,1,Hyaon's Fury,2.0,12.0,-10.0
-Echoes of Love,3,4.0,1,Fidelitas' Spike,1.0,12.0,-11.0
-Ever-Changing,3,4.0,10,Orb of Unmaking,0.990456,12.0,-11.01
-Poisoned Faith,8,5.0,1,Arakaali's Fang,28.8,40.0,-11.2
-The Gemcutter,3,4.0,1,Gemcutter's Prism,0.65,12.0,-11.35
-The Standoff,3,5.0,1,Rustic Sash,3.6,15.0,-11.4
-The Enthusiasts,3,5.0,1,Victario's Influence,3.2,15.0,-11.8
-Cameria's Cut,2,6.0,1,Scarab,0.0,12.0,-12.0
+The Chains that Bind,11,1.0,1,Six-Link Body Armour,0.0,11.0,-11.0
+Assassin's Favour,9,1.24,1,Dagger,0.0,11.16,-11.16
+The Return of the Rat,3,5.0,1,Tavukai,3.4,15.0,-11.6
 Last Hope,3,5.0,1,Mortal Hope,3.0,15.0,-12.0
-Struck by Lightning,3,4.0,1,Electrocuting Jewellery,0.0,12.0,-12.0
-Sambodhi's Vow,3,4.0,1,Mortal Fragment,0.0,12.0,-12.0
-The Pact,9,4.0,1,Pledge of Hands,23.6,36.0,-12.4
-The Return of the Rat,3,5.0,1,Tavukai,2.0,15.0,-13.0
-The Dragon,4,4.0,1,Coruscating Elixir,3.0,16.0,-13.0
-The Wolf's Legacy,4,4.0,1,Vaults of Atziri,3.0,16.0,-13.0
+The Enthusiasts,3,5.0,1,Victario's Influence,3.0,15.0,-12.0
+Gemcutter's Promise,3,4.0,1,Gem,0.0,12.0,-12.0
+Ever-Changing,3,4.6,10,Orb of Unmaking,1.0,13.8,-12.8
 Humility,9,2.0,1,Tabula Rasa,5.0,18.0,-13.0
 The Tumbleweed,2,7.0,1,Diamond Ring of Redemption,0.0,14.0,-14.0
+The Wolf's Shadow,3,5.0,1,Hyaon's Fury,1.0,15.0,-14.0
 The Insatiable,3,5.0,1,The Harvest,1.0,15.0,-14.0
+The Master,4,5.0,1,Bisco's Collar,6.0,20.0,-14.0
 The Journey,3,5.0,1,Harbinger's Orb,1.0,15.0,-14.0
-Lethean Temptation,6,4.0,1,Nebulis,10.0,24.0,-14.0
-Alivia's Grace,6,4.0,1,Queen of the Forest,9.8,24.0,-14.2
-The Catalyst,3,5.0,1,Vaal Orb,0.58426,15.0,-14.42
+Echoes of Love,3,5.0,1,Fidelitas' Spike,1.0,15.0,-14.0
+Alivia's Grace,6,4.0,1,Queen of the Forest,10.0,24.0,-14.0
+The Gambler,5,2.85,1,Divination Card,0.0,14.25,-14.25
+Audacity,5,4.0,1,Doryani's Fist,5.74,20.0,-14.26
+The Gemcutter,3,5.0,1,Gemcutter's Prism,0.64432,15.0,-14.36
+The Catalyst,3,5.0,1,Vaal Orb,0.58386,15.0,-14.42
+The Pact,9,4.4,1,Pledge of Hands,25.0,39.6,-14.6
+The Wolf's Legacy,4,4.4,1,Vaults of Atziri,3.0,17.6,-14.6
 A Sea of Blue,3,5.0,13,Orb of Alteration,0.06667,15.0,-14.93
-The Survivalist,3,5.0,7,Orb of Alchemy,0.05263,15.0,-14.95
+The Survivalist,3,5.0,7,Orb of Alchemy,0.048422,15.0,-14.95
 Cartographer's Delight,3,5.0,1,Map,0.0,15.0,-15.0
 The Sigil,3,5.0,1,Unassailable Amulet,0.0,15.0,-15.0
-The Master,4,5.0,1,Bisco's Collar,5.0,20.0,-15.0
+Struck by Lightning,3,5.0,1,Electrocuting Jewellery,0.0,15.0,-15.0
+Sambodhi's Vow,3,5.0,1,Mortal Fragment,0.0,15.0,-15.0
+The Landing,5,5.0,1,The Beachhead,10.0,25.0,-15.0
 Buried Treasure,3,5.0,1,Sulphite Scarab,0.0,15.0,-15.0
 Sambodhi's Wisdom,3,5.0,1,Armour,0.0,15.0,-15.0
 Lachrymal Necrosis,3,5.0,1,Jewel,0.0,15.0,-15.0
@@ -108,59 +110,45 @@ Misery in Darkness,6,5.0,1,Shroud of the Lightless,15.0,30.0,-15.0
 Bijoux,3,5.0,1,Cluster Jewel,0.0,15.0,-15.0
 The Shepherd's Sandals,3,5.0,1,Boots,0.0,15.0,-15.0
 Man With Bear,3,5.0,1,Bestiary Scarab,0.0,15.0,-15.0
-Hope,5,4.0,1,Prismatic Ring,5.0,20.0,-15.0
-Broken Truce,5,4.0,1,Cold Iron Point,5.0,20.0,-15.0
-The Opulent,5,3.0,1,Ring,0.0,15.0,-15.0
-Abandoned Wealth,5,6.0,3,Exalted Orb,14.86741,30.0,-15.13
-The Landing,5,5.0,1,The Beachhead,9.6,25.0,-15.4
-The Chains that Bind,11,1.44,1,Six-Link Body Armour,0.0,15.84,-15.84
+Poisoned Faith,8,5.0,1,Arakaali's Fang,25.0,40.0,-15.0
+Abandoned Wealth,5,6.0,3,Exalted Orb,14.80074,30.0,-15.2
+Winter's Embrace,2,18.0,1,Circle of Fear,20.0,36.0,-16.0
 The Unexpected Prize,2,8.0,1,Attribute Transforming Jewel,0.0,16.0,-16.0
 Boundless Realms,4,4.0,1,Map,0.0,16.0,-16.0
-Jack in the Box,4,4.0,1,Item,0.0,16.0,-16.0
-The Body,4,4.0,1,Body Armour,0.0,16.0,-16.0
-The Carrion Crow,4,4.0,1,Life Armour,0.0,16.0,-16.0
+Shard of Fate,4,4.0,1,Vivid Jewel,0.0,16.0,-16.0
 Atziri's Arsenal,4,4.0,1,Weapon,0.0,16.0,-16.0
-The Breach,4,4.0,1,Breach Item,0.0,16.0,-16.0
-The Lord of Celebration,4,4.0,1,Sceptre of Celebration,0.0,16.0,-16.0
 The Messenger,4,4.0,1,Harbinger Piece,0.0,16.0,-16.0
 Council of Cats,4,4.0,1,Farrul Item,0.0,16.0,-16.0
-Lingering Remnants,16,1.34,1,Vaal Temple Map,4.49,21.44,-16.95
+Guardian's Challenge,4,4.0,1,Shaper Guardian Map,0.0,16.0,-16.0
+Void of the Elements,3,5.6,1,Overpowering Opal Ring,0.0,16.8,-16.8
+The Dragon,4,5.0,1,Coruscating Elixir,3.0,20.0,-17.0
 The Incantation,4,5.0,1,The Whispering Ice,3.0,20.0,-17.0
-The Realm,5,4.0,1,Portal,3.0,20.0,-17.0
-The Gambler,5,3.4,1,Divination Card,0.0,17.0,-17.0
-The Twilight Moon,6,4.6,1,The Twilight Temple,10.0,27.6,-17.6
-Void of the Elements,3,5.97,1,Overpowering Opal Ring,0.0,17.91,-17.91
-The Hunger,9,7.0,1,Taste of Hate,45.0,63.0,-18.0
-Akil's Prophecy,3,7.0,1,Elegant Round Shield,3.0,21.0,-18.0
+Her Mask,4,4.4,1,Sacrifice Fragment,0.0,17.6,-17.6
+The Breach,4,4.4,1,Breach Item,0.0,17.6,-17.6
+The Explorer,6,2.94,1,Map,0.0,17.64,-17.64
 Death,4,5.0,1,Mon'tregul's Grasp,2.0,20.0,-18.0
 Dark Dreams,4,5.0,1,Bone Helmet,2.0,20.0,-18.0
-Soul Quenched,5,3.6,1,,0.0,18.0,-18.0
-The Dapper Prodigy,6,3.0,1,Six-Link Body Armour,0.0,18.0,-18.0
-Assassin's Favour,9,2.0,1,Dagger,0.0,18.0,-18.0
-The Penitent,5,4.6,1,Unset Ring,4.6,23.0,-18.4
-Chasing Risk,4,4.6,1,Synthesis Item,0.0,18.4,-18.4
+The Last Supper,6,5.0,1,Bino's Kitchen Knife,12.0,30.0,-18.0
+The Realm,5,4.0,1,Portal,2.0,20.0,-18.0
+The Porcupine,6,3.0,1,Six-Link Short Bow,0.0,18.0,-18.0
+The Cache,6,3.0,1,Jewellery,0.0,18.0,-18.0
+Doedre's Madness,9,2.0,1,Doedre Item,0.0,18.0,-18.0
 The Deceiver,4,5.0,1,Belt of the Deceiver,1.0,20.0,-19.0
 Forbidden Power,4,5.0,1,Balefire,1.0,20.0,-19.0
 Unchained,4,5.0,1,Facebreaker,1.0,20.0,-19.0
-Lysah's Respite,6,4.0,1,Agate Amulet,5.0,24.0,-19.0
-The Demoness,5,4.0,1,Death's Hand,1.0,20.0,-19.0
-The Fletcher,5,4.0,1,Drillneck,1.0,20.0,-19.0
-The One With All,6,4.0,1,Le Heup of All,5.0,24.0,-19.0
-Endless Night,7,4.87,1,Maloney's Mechanism,15.0,34.09,-19.09
-The Gladiator,5,4.47,1,Nightmare Bascinet,3.2,22.35,-19.15
-Doedre's Madness,9,2.17,1,Doedre Item,0.0,19.53,-19.53
-The Fool,4,5.0,20,Orb of Chance,0.18509,20.0,-19.81
-The Porcupine,6,3.33,1,Six-Link Short Bow,0.0,19.98,-19.98
-Her Mask,4,5.0,1,Sacrifice Fragment,0.0,20.0,-20.0
+Lingering Remnants,16,1.51,1,Vaal Temple Map,5.0,24.16,-19.16
+Volatile Power,9,2.13,1,Vaal Gem,0.0,19.17,-19.17
+Akil's Prophecy,3,7.6,1,Elegant Round Shield,3.0,22.8,-19.8
+The Fool,4,5.0,20,Orb of Chance,0.17538,20.0,-19.82
+Hope,5,5.0,1,Prismatic Ring,5.0,25.0,-20.0
+Jack in the Box,4,5.0,1,Item,0.0,20.0,-20.0
 Merciless Armament,4,5.0,1,Merciless Two-Hand Weapon,0.0,20.0,-20.0
-Shard of Fate,4,5.0,1,Vivid Jewel,0.0,20.0,-20.0
+The Body,4,5.0,1,Body Armour,0.0,20.0,-20.0
+The Carrion Crow,4,5.0,1,Life Armour,0.0,20.0,-20.0
 The Endurance,4,5.0,1,Vivid Crimson Jewel,0.0,20.0,-20.0
 The Gentleman,4,5.0,1,Sword,0.0,20.0,-20.0
 The Inoculated,4,5.0,1,Seraphim's Armour,0.0,20.0,-20.0
-The Lunaris Priestess,5,5.0,1,Sire of Shards,5.0,25.0,-20.0
-The Oath,6,5.0,1,Death's Oath,10.0,30.0,-20.0
 The Rabid Rhoa,4,5.0,1,Malicious Gemini Claw,0.0,20.0,-20.0
-The Spoiled Prince,4,5.0,1,Dictator's Prophecy Wand,0.0,20.0,-20.0
 The Stormcaller,4,5.0,1,Agnerod Staff,0.0,20.0,-20.0
 The Surgeon,4,5.0,1,Surgeon's Flask,0.0,20.0,-20.0
 The Surveyor,4,5.0,1,Map,0.0,20.0,-20.0
@@ -169,107 +157,114 @@ The Warden,4,5.0,1,Amulet,0.0,20.0,-20.0
 The Wolverine,4,5.0,1,Claw,0.0,20.0,-20.0
 Left to Fate,4,5.0,1,Map,0.0,20.0,-20.0
 The Hale Heart,4,5.0,1,Item,0.0,20.0,-20.0
-Dark Temptation,5,5.0,1,Obliteration,5.0,25.0,-20.0
+The Twilight Moon,6,5.0,1,The Twilight Temple,10.0,30.0,-20.0
+The Lord of Celebration,4,5.0,1,Sceptre of Celebration,0.0,20.0,-20.0
+Thirst for Knowledge,5,5.0,1,Gluttony,5.0,25.0,-20.0
 The Deep Ones,5,5.0,1,Tidebreaker,5.0,25.0,-20.0
 The Fishmonger,4,5.0,1,Albino Rhoa Feather,0.0,20.0,-20.0
 Haunting Shadows,4,5.0,1,Metamorph Item,0.0,20.0,-20.0
 The Card Sharp,4,5.0,1,Divination Scarab,0.0,20.0,-20.0
-The Last Supper,6,5.0,1,Bino's Kitchen Knife,10.0,30.0,-20.0
 The Mind's Eyes,7,5.0,1,Astral Projector,15.0,35.0,-20.0
 The Blessing of Moosh,4,5.0,1,Item,0.0,20.0,-20.0
-Guardian's Challenge,4,5.0,1,Shaper Guardian Map,0.0,20.0,-20.0
+The Price of Prescience,5,5.0,1,Vaal Temple Map,5.0,25.0,-20.0
+Chasing Risk,4,5.0,1,Synthesis Item,0.0,20.0,-20.0
 Azure Rage,4,5.0,1,Punishing Map,0.0,20.0,-20.0
+Broken Truce,5,5.0,1,Cold Iron Point,5.0,25.0,-20.0
+Endless Night,7,5.0,1,Maloney's Mechanism,15.0,35.0,-20.0
 The Enforcer,4,5.0,1,Spiked Gloves of the Conquest (Culling Strike),0.0,20.0,-20.0
 A Chilling Wind,4,5.0,1,Level 21 Vaal Cold Snap,0.0,20.0,-20.0
-Destined to Crumble,5,4.0,1,Body Armour,0.0,20.0,-20.0
-Earth Drinker,5,4.0,1,Granite Flask,0.0,20.0,-20.0
 The Flora's Gift,5,4.0,1,Five-Link Staff,0.0,20.0,-20.0
 The King's Blade,5,4.0,1,Bloodthirsty Eternal Sword,0.0,20.0,-20.0
 The Lion,5,4.0,1,Lioneye Item,0.0,20.0,-20.0
 Mitts,5,4.0,1,Gloves,0.0,20.0,-20.0
-The Undaunted,5,4.0,1,Nemesis Item,0.0,20.0,-20.0
-The Price of Protection,5,4.0,1,Elder Guardian Occupied Map,0.0,20.0,-20.0
-Disdain,5,4.0,1,Delirium Orb,0.0,20.0,-20.0
-The Forward Gaze,6,3.4,1,Replica Item,0.0,20.4,-20.4
-The Price of Prescience,5,5.0,1,Vaal Temple Map,4.49,25.0,-20.51
-The Visionary,6,4.0,1,Lioneye's Vision,3.4,24.0,-20.6
-The Adventuring Spirit,6,4.0,1,Victario's Influence,3.2,24.0,-20.8
-Hubris,5,4.2,1,Ring,0.0,21.0,-21.0
+Alone in the Darkness,5,4.0,1,Delve Item,0.0,20.0,-20.0
+Soul Quenched,5,4.0,1,,0.0,20.0,-20.0
+The Gladiator,5,5.0,1,Nightmare Bascinet,4.0,25.0,-21.0
 A Dab of Ink,9,4.0,1,The Poet's Pen,15.0,36.0,-21.0
 The Wilted Rose,7,3.0,1,Level 21 Aura Gem,0.0,21.0,-21.0
-The Pack Leader,6,4.2,1,Alpha's Howl,4.0,25.2,-21.2
-The Offering,8,5.0,1,Shavronne's Wrappings,18.38,40.0,-21.62
-Thirst for Knowledge,5,5.0,1,Gluttony,3.0,25.0,-22.0
+The Penitent,5,5.0,1,Unset Ring,3.2,25.0,-21.8
+Disdain,5,4.36,1,Delirium Orb,0.0,21.8,-21.8
 Vile Power,5,5.0,1,Doomfletch,3.0,25.0,-22.0
-The Mercenary,5,4.4,1,Shield,0.0,22.0,-22.0
-The Army of Blood,6,4.0,1,Bloodbond,2.0,24.0,-22.0
+The Fletcher,5,4.6,1,Drillneck,1.0,23.0,-22.0
+Earth Drinker,5,4.4,1,Granite Flask,0.0,22.0,-22.0
+The Opulent,5,4.4,1,Ring,0.0,22.0,-22.0
 Imperial Legacy,22,1.0,1,Six-Link Imperial Bow,0.0,22.0,-22.0
-The Wretched,6,3.71,1,Belt,0.0,22.26,-22.26
-The Metalsmith's Gift,6,4.6,1,Prismatic Ring,5.0,27.6,-22.6
-Winter's Embrace,2,19.0,1,Circle of Fear,15.0,38.0,-23.0
-The Feast,5,5.0,1,Romira's Banquet,2.0,25.0,-23.0
-The Wolf,5,4.6,1,Rigwald Item,0.0,23.0,-23.0
-Boon of Justice,6,4.0,1,Offering to the Goddess,0.33333,24.0,-23.67
+The Spoiled Prince,4,5.6,1,Dictator's Prophecy Wand,0.0,22.4,-22.4
+The Hunger,9,7.0,1,Taste of Hate,40.0,63.0,-23.0
+Lantador's Lost Love,7,4.0,1,Two-Stone Ring,5.0,28.0,-23.0
+The Army of Blood,6,4.0,1,Bloodbond,1.0,24.0,-23.0
+Lysah's Respite,6,4.67,1,Agate Amulet,5.0,28.02,-23.02
+The Demoness,5,5.0,1,Death's Hand,1.74,25.0,-23.26
 A Familiar Call,3,8.0,1,Jewellery of Farrul,0.0,24.0,-24.0
 The Bitter Blossom,3,8.0,1,Level 21 Chaos Gem,0.0,24.0,-24.0
+The Feast,5,5.0,1,Romira's Banquet,1.0,25.0,-24.0
+The Lunaris Priestess,5,5.0,1,Sire of Shards,1.0,25.0,-24.0
 Thunderous Skies,5,5.0,1,Storm Cloud,1.0,25.0,-24.0
+Dark Temptation,5,5.0,1,Obliteration,1.0,25.0,-24.0
 The Calling,6,4.0,1,Beyond Item,0.0,24.0,-24.0
 The Celestial Justicar,6,4.0,1,Six-Link Astral Plate,0.0,24.0,-24.0
-The Dark Mage,6,4.0,1,Six-Link Staff,0.0,24.0,-24.0
-The Explorer,6,4.0,1,Map,0.0,24.0,-24.0
-The Fox,6,4.0,1,Level 20 Gem,0.0,24.0,-24.0
+The Wretched,6,4.0,1,Belt,0.0,24.0,-24.0
 The Dreamer,6,4.0,1,Chayula Item,0.0,24.0,-24.0
-Boon of the First Ones,6,4.0,1,Bestiary Item,0.0,24.0,-24.0
-The Mountain,6,4.0,1,Jewel of Potency,0.0,24.0,-24.0
-The Cache,6,4.0,1,Jewellery,0.0,24.0,-24.0
 The Magma Crab,6,4.0,1,Level 21 Vaal Molten Shell,0.0,24.0,-24.0
-Rain of Chaos,8,3.0,1,Chaos Orb,0.0,24.0,-24.0
-Vinia's Token,5,5.0,10,Orb of Regret,0.4878,25.0,-24.51
-Loyalty,5,5.0,3,Orb of Fusing,0.20293,25.0,-24.8
+The Forward Gaze,6,4.0,1,Replica Item,0.0,24.0,-24.0
+A Mother's Parting Gift,6,5.0,1,Fertile Mind,5.98,30.0,-24.02
+Vinia's Token,5,5.0,10,Orb of Regret,0.4875,25.0,-24.51
+Reckless Ambition,6,5.0,1,Omeyocan,5.4,30.0,-24.6
+Loyalty,5,5.0,3,Orb of Fusing,0.2,25.0,-24.8
 Turn the Other Cheek,3,10.0,1,Pacifism,5.0,30.0,-25.0
+Destined to Crumble,5,5.0,1,Body Armour,0.0,25.0,-25.0
+Hubris,5,5.0,1,Ring,0.0,25.0,-25.0
 The Battle Born,5,5.0,1,Axe,0.0,25.0,-25.0
-The Wind,7,5.0,1,Windripper,10.0,35.0,-25.0
+The Mercenary,5,5.0,1,Shield,0.0,25.0,-25.0
+The Metalsmith's Gift,6,5.0,1,Prismatic Ring,5.0,30.0,-25.0
+The Oath,6,5.0,1,Death's Oath,5.0,30.0,-25.0
+The Offering,8,5.0,1,Shavronne's Wrappings,15.0,40.0,-25.0
+The Wolf,5,5.0,1,Rigwald Item,0.0,25.0,-25.0
 Call to the First Ones,5,5.0,1,Tier 1 Talisman,0.0,25.0,-25.0
 The Puzzle,5,5.0,5,Breachstone Splinter,0.0,25.0,-25.0
 Perfection,5,5.0,1,Jewellery,0.0,25.0,-25.0
 The Rite of Elements,5,5.0,1,Level 21 Golem Gem,0.0,25.0,-25.0
+The Undaunted,5,5.0,1,Nemesis Item,0.0,25.0,-25.0
 The Darkest Dream,6,5.0,1,Severed in Sleep,5.0,30.0,-25.0
+The Price of Protection,5,5.0,1,Elder Guardian Occupied Map,0.0,25.0,-25.0
 The Master Artisan,5,5.0,20,Quality Currency,0.0,25.0,-25.0
-Alone in the Darkness,5,5.0,1,Delve Item,0.0,25.0,-25.0
+The Primordial,5,5.0,1,Jewel,0.0,25.0,-25.0
 The Deal,5,5.0,1,Cartography Scarab,0.0,25.0,-25.0
 The Side Quest,5,5.0,20,Scouting Report,0.0,25.0,-25.0
 The Tinkerer's Table,5,5.0,5,Fossil,0.0,25.0,-25.0
 The Hive of Knowledge,6,5.0,1,Machina Mitts,5.0,30.0,-25.0
-Reckless Ambition,6,5.0,1,Omeyocan,5.0,30.0,-25.0
+The Offspring,9,5.0,1,Ryslatha's Coil,20.0,45.0,-25.0
+The Brawny Battle Mage,5,5.0,1,Merciless Tornado Wand,0.0,25.0,-25.0
 Astral Protection,5,5.0,1,Shield,0.0,25.0,-25.0
 A Dusty Memory,5,5.0,1,Item,0.0,25.0,-25.0
-The Offspring,9,5.0,1,Ryslatha's Coil,19.6,45.0,-25.4
-The Primordial,5,5.19,1,Jewel,0.0,25.95,-25.95
+The Wind,7,5.0,1,Windripper,9.8,35.0,-25.2
+The One With All,6,5.0,1,Le Heup of All,4.0,30.0,-26.0
+The Pack Leader,6,5.0,1,Alpha's Howl,4.0,30.0,-26.0
 The Beast,6,5.0,1,Belly of the Beast,4.0,30.0,-26.0
-The Forsaken,7,4.0,1,Umbilicus Immortalis,2.0,28.0,-26.0
-Bowyer's Dream,6,4.4,1,Six-Link Harbinger Bow,0.0,26.4,-26.4
-The Drunken Aristocrat,8,4.6,1,Divination Distillate,10.0,36.8,-26.8
-A Mother's Parting Gift,6,5.0,1,Fertile Mind,3.14,30.0,-26.86
+The Adventuring Spirit,6,5.0,1,Victario's Influence,3.0,30.0,-27.0
 The Forgotten Treasure,6,5.0,1,Leather Belt,3.0,30.0,-27.0
 The Rusted Bard,9,5.0,4,Tainted Mythic Orb,18.0,45.0,-27.0
-Glimmer of Hope,8,4.0,1,Gold Ring,5.0,32.0,-27.0
-The Sun,7,4.0,1,Rise of the Phoenix,1.0,28.0,-27.0
-The Sword King's Salute,7,4.0,1,Daresso's Salute,1.0,28.0,-27.0
-Volatile Power,9,3.0,1,Vaal Gem,0.0,27.0,-27.0
+The Dark Mage,6,4.6,1,Six-Link Staff,0.0,27.6,-27.6
+The Visionary,6,5.0,1,Lioneye's Vision,2.0,30.0,-28.0
 Dialla's Subjugation,7,4.0,1,Support Gem,0.0,28.0,-28.0
 Emperor of Purity,7,4.0,1,Six-Link Holy Chainmail,0.0,28.0,-28.0
 The Trial,7,4.0,1,Map,0.0,28.0,-28.0
-The Mad King,7,4.0,1,Ultimatum Aspect,0.0,28.0,-28.0
 More is Never Enough,7,4.0,1,Gilded Scarab,0.0,28.0,-28.0
-Grave Knowledge,6,5.0,1,Summon Raging Spirit,1.66,30.0,-28.34
-The Union,7,4.17,10,Gemcutter's Prism,0.65,29.19,-28.54
-The Inventor,6,5.0,10,Vaal Orb,0.58426,30.0,-29.42
-From Bone to Ashes,8,4.0,1,Ngamahu's Flame,2.32,32.0,-29.68
+Grave Knowledge,6,5.0,1,Summon Raging Spirit,1.84,30.0,-28.16
+The Mountain,6,4.73,1,Jewel of Potency,0.0,28.38,-28.38
+Rain of Chaos,8,3.6,1,Chaos Orb,0.0,28.8,-28.8
+Boon of the First Ones,6,4.83,1,Bestiary Item,0.0,28.98,-28.98
+Remembrance,8,10.0,1,Precursor's Emblem,51.0,80.0,-29.0
+Glimmer of Hope,8,4.0,1,Gold Ring,3.0,32.0,-29.0
+The Inventor,6,5.0,10,Vaal Orb,0.58386,30.0,-29.42
+The Dapper Prodigy,6,4.93,1,Six-Link Body Armour,0.0,29.58,-29.58
+Boon of Justice,6,5.0,1,Offering to the Goddess,0.33333,30.0,-29.67
+From Bone to Ashes,8,4.0,1,Ngamahu's Flame,2.16,32.0,-29.84
 Nook's Crown,4,8.0,1,Bone Helmet,2.0,32.0,-30.0
-A Stone Perfected,5,6.0,1,Jewel,0.0,30.0,-30.0
-The Brawny Battle Mage,5,6.0,1,Merciless Tornado Wand,0.0,30.0,-30.0
-Lantador's Lost Love,7,5.0,1,Two-Stone Ring,5.0,35.0,-30.0
+Bowyer's Dream,6,5.0,1,Six-Link Harbinger Bow,0.0,30.0,-30.0
 Pride Before the Fall,8,5.0,1,Kaom's Heart,10.0,40.0,-30.0
+The Avenger,12,5.0,1,Mjölner,30.0,60.0,-30.0
+The Fox,6,5.0,1,Level 20 Gem,0.0,30.0,-30.0
 The King's Heart,8,5.0,1,Kaom's Heart,10.0,40.0,-30.0
 The Lord in Black,6,5.0,1,Ring of Bameth,0.0,30.0,-30.0
 The Summoner,6,5.0,1,Minion Gem,0.0,30.0,-30.0
@@ -278,150 +273,155 @@ The Warlord,6,5.0,1,Six-Link Coronal Maul,0.0,30.0,-30.0
 The Skeleton,6,5.0,1,Level 1 Summon Skeletons,0.0,30.0,-30.0
 The Bones,6,5.0,1,Level 21 Vaal Summon Skeletons,0.0,30.0,-30.0
 The Bear Woman,6,5.0,1,Fecund Ursine Pelt,0.0,30.0,-30.0
-Costly Curio,6,5.0,1,Item,0.0,30.0,-30.0
 The Emptiness,6,5.0,1,Vaal Breach,0.0,30.0,-30.0
-Rats,8,4.0,1,Rat's Nest,2.0,32.0,-30.0
-Time-Lost Relic,10,3.0,1,League-Specific Item,0.0,30.0,-30.0
-The Journalist,10,3.0,1,Helmet,0.0,30.0,-30.0
-Demigod's Wager,7,5.0,1,Orb of Annulment,4.95506,35.0,-30.04
+Demigod's Wager,7,5.0,1,Orb of Annulment,4.93284,35.0,-30.07
+The Drunken Aristocrat,8,5.0,1,Divination Distillate,9.2,40.0,-30.8
 Scholar of the Seas,7,5.0,1,Mao Kun,4.0,35.0,-31.0
-The Witch,8,4.0,1,Kiara's Determination,1.0,32.0,-31.0
-The Saint's Treasure,10,4.6,2,Exalted Orb,14.86741,46.0,-31.13
-The Coming Storm,8,4.6,1,Lightning Coil,5.0,36.8,-31.8
+Vanity,9,4.0,1,Tabula Rasa,5.0,36.0,-31.0
 The Formless Sea,7,5.0,1,Varunastra,3.0,35.0,-32.0
 The Siren,7,5.0,1,The Whispering Ice,3.0,35.0,-32.0
 Treasure Hunter,7,5.0,1,Vaults of Atziri,3.0,35.0,-32.0
+Dying Anguish,8,4.0,1,Level 19 Gem,0.0,32.0,-32.0
 Hunter's Resolve,8,4.0,1,Bow,0.0,32.0,-32.0
 The Encroaching Darkness,8,4.0,1,Map,0.0,32.0,-32.0
-The Valkyrie,8,4.0,1,Nemesis Item,0.0,32.0,-32.0
-The Web,8,4.0,1,Weapon of Crafting,0.0,32.0,-32.0
 Arrogance of the Vaal,8,4.0,1,Item,0.0,32.0,-32.0
-The Golden Era,7,4.6,1,Flaring Eclipse Staff,0.0,32.2,-32.2
-The Thaumaturgist,8,5.0,1,Shavronne's Revelation,6.8,40.0,-33.2
+The Thaumaturgist,8,5.0,1,Shavronne's Revelation,7.0,40.0,-33.0
+The Forsaken,7,5.0,1,Umbilicus Immortalis,1.2,35.0,-33.8
+The Sun,7,5.0,1,Rise of the Phoenix,1.0,35.0,-34.0
 The Ruthless Ceinture,7,5.0,1,Meginord's Girdle,1.0,35.0,-34.0
+The Sword King's Salute,7,5.0,1,Daresso's Salute,1.0,35.0,-34.0
 The Fox in the Brambles,7,5.0,1,Bramblejack,1.0,35.0,-34.0
 The Hermit,9,4.0,1,Lifesprig,2.0,36.0,-34.0
-Underground Forest,4,10.0,10,Awakened Sextant,5.989482,40.0,-34.01
-Lucky Connections,7,5.0,20,Orb of Fusing,0.20293,35.0,-34.8
+Underground Forest,4,10.0,10,Awakened Sextant,5.84304,40.0,-34.16
+The Union,7,5.0,10,Gemcutter's Prism,0.64432,35.0,-34.36
+Lucky Connections,7,5.0,20,Orb of Fusing,0.2,35.0,-34.8
 The Jeweller's Boon,5,7.0,1,Five-Linked Body Armour,0.0,35.0,-35.0
 Justified Ambition,5,7.0,1,Synthesis Map,0.0,35.0,-35.0
 Blind Venture,7,5.0,1,Ring,0.0,35.0,-35.0
-The Avenger,12,5.0,1,Mjölner,25.0,60.0,-35.0
 The Ethereal,7,5.0,1,Six-Link Vaal Regalia,0.0,35.0,-35.0
 The Road to Power,7,5.0,1,Runic One-Hand Weapon,0.0,35.0,-35.0
 The Scavenger,8,5.0,1,Carcass Jack,5.0,40.0,-35.0
 Three Faces in the Dark,7,5.0,3,Chaos Orb,0.0,35.0,-35.0
+The Coming Storm,8,5.0,1,Lightning Coil,5.0,40.0,-35.0
 The Wolven King's Bite,8,5.0,1,Rigwald's Quills,5.0,40.0,-35.0
 The Obscured,7,5.0,1,Breachstone,0.0,35.0,-35.0
+The Fathomless Depths,8,5.0,1,Lightpoacher,5.0,40.0,-35.0
 The Dreamland,8,5.0,1,Poorjoy's Asylum,5.0,40.0,-35.0
+The Mad King,7,5.0,1,Ultimatum Aspect,0.0,35.0,-35.0
+The Golden Era,7,5.0,1,Flaring Eclipse Staff,0.0,35.0,-35.0
 The Archmage's Right Hand,7,5.0,1,Glyphic Prophecy Wand,0.0,35.0,-35.0
 Deathly Designs,7,5.0,1,Level 21 Trap Gem,0.0,35.0,-35.0
 Keeper's Corruption,7,5.0,1,Eldritch Bone Helmet (Concentrated Effect),0.0,35.0,-35.0
 Prejudice,7,5.0,1,Item,0.0,35.0,-35.0
 The Dungeon Master,7,5.0,1,Belt,0.0,35.0,-35.0
 The Scarred Meadow,9,4.0,1,Wake of Destruction,1.0,36.0,-35.0
-Might is Right,9,4.0,1,Trypanon,1.0,36.0,-35.0
-Baited Expectations,8,4.4,1,Fishing Item,0.0,35.2,-35.2
+The Saint's Treasure,10,5.0,2,Exalted Orb,14.80074,50.0,-35.2
+Auspicious Ambitions,4,9.0,1,Experimented Item,0.0,36.0,-36.0
+Costly Curio,6,6.0,1,Item,0.0,36.0,-36.0
 The Brittle Emperor,8,5.0,1,Voll's Devotion,4.0,40.0,-36.0
-Gift of the Gemling Queen,9,4.0,1,Level 20 Support Gem,0.0,36.0,-36.0
 The Admirer,9,4.0,1,Atziri Item,0.0,36.0,-36.0
-Vanity,9,4.6,1,Tabula Rasa,5.0,41.4,-36.4
 The Cursed King,8,5.0,1,Rigwald's Curse,3.0,40.0,-37.0
-The Fathomless Depths,8,5.0,1,Lightpoacher,2.8,40.0,-37.2
-The Conduit,9,5.0,1,Doryani's Fist,6.0,45.0,-39.0
+The Witch,8,5.0,1,Kiara's Determination,3.0,40.0,-37.0
+Monochrome,3,36.0,2,Elevated Sextant,70.0,108.0,-38.0
+Rats,8,5.0,1,Rat's Nest,2.0,40.0,-38.0
+Rebirth and Renewal,4,9.58,1,Winged Scarab,0.0,38.32,-38.32
+The Arena Champion,10,3.88,1,Map,0.0,38.8,-38.8
+The Valkyrie,8,4.87,1,Nemesis Item,0.0,38.96,-38.96
 The Celestial Stone,10,4.4,1,Opal Ring,5.0,44.0,-39.0
-Checkmate,8,5.0,76,Simulacrum Splinter,0.138056,40.0,-39.86
-Duality,2,20.0,1,Body Armour,0.0,40.0,-40.0
+The Conduit,9,5.0,1,Doryani's Fist,5.74,45.0,-39.26
+Checkmate,8,5.0,76,Simulacrum Splinter,0.13863,40.0,-39.86
 The Eldritch Decay,4,10.0,1,Uber Elder Fragment,0.0,40.0,-40.0
 Gift of Asenath,5,10.0,1,Asenath's Gentle Touch,10.0,50.0,-40.0
-Rebirth and Renewal,4,10.0,1,Winged Scarab,0.0,40.0,-40.0
 Further Invention,4,10.0,1,Helmet,0.0,40.0,-40.0
-Auspicious Ambitions,4,10.0,1,Experimented Item,0.0,40.0,-40.0
-Dying Anguish,8,5.0,1,Level 19 Gem,0.0,40.0,-40.0
+A Stone Perfected,5,8.0,1,Jewel,0.0,40.0,-40.0
 Lost Worlds,8,5.0,1,Map,0.0,40.0,-40.0
 The Aesthete,8,5.0,1,Shavronne Item,0.0,40.0,-40.0
 The Twins,8,5.0,1,Gemini Claw of Celebration,0.0,40.0,-40.0
+The Web,8,5.0,1,Weapon of Crafting,0.0,40.0,-40.0
 The Wrath,8,5.0,10,Chaos Orb,0.0,40.0,-40.0
 The Undisputed,8,5.0,1,Merciless Vaal Axe,0.0,40.0,-40.0
 The Cacophony,8,5.0,3,Deafening Essence,0.0,40.0,-40.0
+Baited Expectations,8,5.0,1,Fishing Item,0.0,40.0,-40.0
 Etched in Blood,9,5.0,1,Rigwald's Quills,5.0,45.0,-40.0
 The White Knight,8,5.0,1,Six-Link Astral Plate,0.0,40.0,-40.0
 Terrible Secret of Space,8,5.0,1,Level 21 Golem Gem,0.0,40.0,-40.0
 The Tireless Extractor,8,5.0,10,Oil,0.0,40.0,-40.0
 Parasitic Passengers,8,5.0,10,Incubator,0.0,40.0,-40.0
-The Arena Champion,10,4.0,1,Map,0.0,40.0,-40.0
-The Seeker,9,5.0,3,Orb of Annulment,4.95506,45.0,-40.04
-The Poet,9,4.6,1,Blood of Corruption,0.0,41.4,-41.4
+The Journalist,10,4.0,1,Helmet,0.0,40.0,-40.0
+The Seeker,9,5.0,3,Orb of Annulment,4.93284,45.0,-40.07
+Duality,2,20.2,1,Body Armour,0.0,40.4,-40.4
 Immortal Resolve,6,7.0,1,Six-Linked Body Armour,0.0,42.0,-42.0
 The Leviathan,7,6.0,1,Maven Item,0.0,42.0,-42.0
 The Betrayal,9,5.0,1,Maligaro's Virtuosity,3.0,45.0,-42.0
-Lucky Deck,9,5.0,10,Stacked Deck,2.32366,45.0,-42.68
-Draped in Dreams,5,8.6,1,Six-Link Astral Plate,0.0,43.0,-43.0
-The Harvester,11,4.0,1,The Harvest,1.0,44.0,-43.0
-No Traces,9,5.0,30,Orb of Scouring,0.844278,45.0,-44.16
-Coveted Possession,9,5.0,5,Regal Orb,0.66667,45.0,-44.33
+Lucky Deck,9,5.0,10,Stacked Deck,2.33766,45.0,-42.66
+Might is Right,9,5.0,1,Trypanon,1.0,45.0,-44.0
+No Traces,9,5.0,30,Orb of Scouring,0.84804,45.0,-44.15
+Coveted Possession,9,5.0,5,Regal Orb,0.664008,45.0,-44.34
+Draped in Dreams,5,9.0,1,Six-Link Astral Plate,0.0,45.0,-45.0
+The Aspirant,5,9.0,1,Item,0.0,45.0,-45.0
+Gift of the Gemling Queen,9,5.0,1,Level 20 Support Gem,0.0,45.0,-45.0
 Rain Tempter,9,5.0,1,Map,0.0,45.0,-45.0
 The Jester,9,5.0,1,Merciless One-Hand Weapon,0.0,45.0,-45.0
+The Poet,9,5.0,1,Blood of Corruption,0.0,45.0,-45.0
 The Tyrant,9,5.0,1,Merciless Weapon,0.0,45.0,-45.0
 Harmony of Souls,9,5.0,9,Shrieking Essence,0.0,45.0,-45.0
-The Hoarder,12,5.0,1,Exalted Orb,14.86741,60.0,-45.13
-Remembrance,8,12.71,1,Precursor's Emblem,56.0,101.68,-45.68
-Dying Light,10,5.0,1,Diamond Ring,3.0,50.0,-47.0
-Cursed Words,13,4.0,1,Maw of Mischief,5.0,52.0,-47.0
+The Hoarder,12,5.0,1,Exalted Orb,14.80074,60.0,-45.2
+Dying Light,10,5.0,1,Diamond Ring,4.8,50.0,-45.2
 The Awakened,6,8.0,1,Jewellery,0.0,48.0,-48.0
-The Scout,8,8.0,7,Exalted Orb,14.86741,64.0,-49.13
-The Innocent,10,5.0,40,Orb of Regret,0.4878,50.0,-49.51
-Monochrome,3,40.0,2,Elevated Sextant,69.9998,120.0,-50.0
-The Aspirant,5,10.0,1,Item,0.0,50.0,-50.0
+The Scout,8,8.0,7,Exalted Orb,14.80074,64.0,-49.2
+The Innocent,10,5.0,40,Orb of Regret,0.4875,50.0,-49.51
+The Harvester,11,4.6,1,The Harvest,1.0,50.6,-49.6
 Something Dark,5,10.0,1,Blueprint,0.0,50.0,-50.0
 Prosperity,10,5.0,1,Perandus' Gold Ring,0.0,50.0,-50.0
-The Watcher,12,4.6,1,Crown of Eyes,5.0,55.2,-50.2
+The Watcher,12,5.0,1,Crown of Eyes,10.0,60.0,-50.0
+Time-Lost Relic,10,5.0,1,League-Specific Item,0.0,50.0,-50.0
 The Cataclysm,13,4.0,1,Level 21 Spell Gem,0.0,52.0,-52.0
-Triskaidekaphobia,13,4.0,1,Map,0.0,52.0,-52.0
 Deadly Joy,6,9.0,1,Torrent's Reclamation,0.0,54.0,-54.0
-Brother's Stash,1,69.0,5,Exalted Orb,14.86741,69.0,-54.13
+Brother's Stash,1,69.0,5,Exalted Orb,14.80074,69.0,-54.2
 The Sacrifice,4,14.0,1,Six-Link Sacrificial Garb,0.0,56.0,-56.0
 The Vast,7,8.0,1,Song of the Sirens,0.0,56.0,-56.0
-The Astromancer,7,10.0,1,The Eternity Shroud,11.2,70.0,-58.8
 The Lich,12,5.0,1,Midnight Bargain,1.0,60.0,-59.0
 Prometheus' Armoury,6,10.0,1,One-Hand Weapon,0.0,60.0,-60.0
-Broken Promises,2,35.0,1,Diamond Ring,3.0,70.0,-67.0
+The Astromancer,7,10.0,1,The Eternity Shroud,10.0,70.0,-60.0
+Cursed Words,13,5.0,1,Maw of Mischief,5.0,65.0,-60.0
+Darker Half,3,30.0,5,Eldritch Chaos Orb,25.0,90.0,-65.0
+Triskaidekaphobia,13,5.0,1,Map,0.0,65.0,-65.0
+Broken Promises,2,35.0,1,Diamond Ring,4.8,70.0,-65.2
 The Queen,16,5.0,1,Atziri's Acuity,10.0,80.0,-70.0
-Darker Half,3,32.6,5,Eldritch Chaos Orb,26.0,97.8,-71.8
 Fateful Meeting,9,8.0,1,League-Specific Item,0.0,72.0,-72.0
 Dementophobia,11,7.0,10,Delirium Orb,0.0,77.0,-77.0
 The Catch,18,5.0,1,Fishing Rod,0.0,90.0,-90.0
-Alluring Bounty,7,15.0,10,Exalted Orb,14.86741,105.0,-90.13
+Alluring Bounty,7,15.0,10,Exalted Orb,14.80074,105.0,-90.2
 Mawr Blaidd,16,9.0,1,Eyes of the Greatwolf,50.0,144.0,-94.0
-The Chosen,5,109.0,1,Skin of the Lords,448.22,545.0,-96.78
+The Chosen,5,109.0,1,Skin of the Lords,448.24,545.0,-96.76
+Magnum Opus,5,20.0,1,Item,0.0,100.0,-100.0
 The Eye of the Dragon,10,10.0,1,Jewel,0.0,100.0,-100.0
 The Old Man,12,8.66,1,Fishing Rod,0.0,103.92,-103.92
 Gemcutter's Mercy,3,35.0,1,Exceptional Gem,0.0,105.0,-105.0
 Rebirth,27,4.0,1,Charan's Sword,0.0,108.0,-108.0
-Home,3,40.0,1,Exceptional Gem,0.0,120.0,-120.0
+Home,3,39.0,1,Exceptional Gem,0.0,117.0,-117.0
 The Hook,8,15.0,1,Level 21 Gem,0.0,120.0,-120.0
-The Gulf,5,30.0,1,Thread of Hope,29.6,150.0,-120.4
-Magnum Opus,5,25.0,1,Item,0.0,125.0,-125.0
-The Destination,9,25.0,1,Watcher's Eye,90.4,225.0,-134.6
-The Samurai's Eye,3,77.0,1,Watcher's Eye,90.4,231.0,-140.6
-The Garish Power,4,50.0,1,Jewel,0.0,200.0,-200.0
+The Gulf,5,30.0,1,Thread of Hope,27.0,150.0,-123.0
+The Destination,9,25.0,1,Watcher's Eye,87.6,225.0,-137.4
+The Samurai's Eye,3,77.0,1,Watcher's Eye,87.6,231.0,-143.4
+The Garish Power,4,49.0,1,Jewel,0.0,196.0,-196.0
 Imperfect Memories,5,45.0,1,Jewellery,0.0,225.0,-225.0
-Luminous Trove,7,39.0,1,Voices,5.0,273.0,-268.0
-Doryani's Epiphany,3,103.2,3,Regrading Lens,0.0,309.6,-309.6
-The Rabbit's Foot,8,40.0,10,Incursion Vial,0.0,320.0,-320.0
-The Immortal,10,1120.3,1,House of Mirrors,10757.28,11203.0,-445.72
-The Artist,11,41.71,1,Level 4 Enhance,0.0,458.81,-458.81
-Love Through Ice,4,268.87,1,Unnatural Instinct,605.1,1075.48,-470.38
+Luminous Trove,7,40.0,1,Voices,7.8,280.0,-272.2
+Doryani's Epiphany,3,102.0,3,Regrading Lens,0.0,306.0,-306.0
+The Rabbit's Foot,8,39.0,10,Incursion Vial,0.0,312.0,-312.0
+The Artist,11,42.8,1,Level 4 Enhance,0.0,470.8,-470.8
+Love Through Ice,4,273.18,1,Unnatural Instinct,605.12,1092.72,-487.6
+The Immortal,10,1120.6,1,House of Mirrors,10712.94,11206.0,-493.06
 The Dragon's Heart,11,53.0,1,Level 4 Empower,0.0,583.0,-583.0
 Matryoshka,8,95.0,1,,0.0,760.0,-760.0
-Desecrated Virtue,9,88.95,1,Level 6 Awakened Support Gem,0.0,800.55,-800.55
-The Cheater,3,268.87,1,Level 6 Awakened Support Gem,0.0,806.61,-806.61
-Brother's Gift,1,1165.11,5,Divine Orb,223.0,1165.11,-942.11
-The Price of Loyalty,4,315.92,1,Skin of the Loyal,170.0,1263.68,-1093.68
-Divine Beauty,12,118.6,7,Divine Orb,223.0,1423.2,-1200.2
-The Doctor,8,3809.02,1,Headhunter,29134.3,30472.16,-1337.86
-The Sephirot,11,183.83,10,Divine Orb,223.0,2022.13,-1799.13
-Wealth and Power,11,177.9,1,Level 4 Enlighten,0.0,1956.9,-1956.9
-The Demon,10,3360.9,1,Headhunter,29134.3,33609.0,-4474.7
-House of Mirrors,9,10754.88,1,Mirror of Kalandra,78050.0,96793.92,-18743.92
-Unrequited Love,16,5153.38,19,Mirror Shard,3991.7,82454.08,-78462.38
+The Cheater,3,268.94,1,Level 6 Awakened Support Gem,0.0,806.82,-806.82
+Desecrated Virtue,9,90.0,1,Level 6 Awakened Support Gem,0.0,810.0,-810.0
+The Doctor,8,3810.04,1,Headhunter,29583.84,30480.32,-896.48
+Brother's Gift,1,1165.42,5,Divine Orb,222.0,1165.42,-943.42
+The Price of Loyalty,4,313.77,1,Skin of the Loyal,149.0,1255.08,-1106.08
+Divine Beauty,12,120.0,7,Divine Orb,222.0,1440.0,-1218.0
+The Sephirot,11,192.0,10,Divine Orb,222.0,2112.0,-1890.0
+Wealth and Power,11,180.0,1,Level 4 Enlighten,0.0,1980.0,-1980.0
+The Demon,10,3361.8,1,Headhunter,29583.84,33618.0,-4034.16
+House of Mirrors,9,10591.91,1,Mirror of Kalandra,75480.0,95327.19,-19847.19
+Unrequited Love,16,5109.94,19,Mirror Shard,3862.8,81759.04,-77896.24
