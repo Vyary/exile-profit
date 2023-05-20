@@ -127,6 +127,10 @@ class GemBuilder(Builder):
             self.__gem.name, "20/20"
         )
         return self
+    
+    def set_leveled_profit(self) -> Builder:
+        self.__gem.profit = self.__gem.leveled_price - self.__gem.buy_price
+        return self
 
     def build_corrupted_gem(self, name: str, gem_type: Gem) -> Gem:
         self.__gem = gem_type
@@ -146,6 +150,7 @@ class GemBuilder(Builder):
         self.set_name(name)\
             .set_buy_price()\
             .set_leveled_price()\
-            .set_listed_leveled()
+            .set_listed_leveled()\
+            .set_leveled_profit()
 
         return self.__gem

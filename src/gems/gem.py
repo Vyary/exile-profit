@@ -12,3 +12,4 @@ class Gem(ABC):
         self.vaal_price: float = 0
         self.leveled_price: float = 0
         self.listed_leveled: int = 0
+        self.profit: float = 0
