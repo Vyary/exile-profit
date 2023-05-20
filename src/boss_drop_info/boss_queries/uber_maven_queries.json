@@ -28,6 +28,164 @@
             }
         }
     },
+    "Elevated Sextant": {
+        "drop_chance": 1.00,
+        "query": {
+            "query": {
+                "status": {
+                    "option": "any"
+                },
+                "type": "Elevated Sextant",
+                "stats": [
+                    {
+                        "type": "and",
+                        "filters": []
+                    }
+                ],
+                "filters": {
+                    "misc_filters": {
+                        "filters": {
+                            "corrupted": {
+                                "option": "false"
+                            }
+                        }
+                    },
+                    "trade_filters": {
+                        "filters": {
+                            "collapse": {
+                                "option": "true"
+                            },
+                            "indexed": {
+                                "option": "3days"
+                            }
+                        }
+                    }
+                }
+            },
+            "sort": {
+                "price": "asc"
+            }
+        }
+    },
+    "Orb of Conflict": {
+        "drop_chance": 0.42,
+        "query": {
+            "query": {
+                "status": {
+                    "option": "any"
+                },
+                "type": "Orb of Conflict",
+                "stats": [
+                    {
+                        "type": "and",
+                        "filters": []
+                    }
+                ],
+                "filters": {
+                    "misc_filters": {
+                        "filters": {
+                            "corrupted": {
+                                "option": "false"
+                            }
+                        }
+                    },
+                    "trade_filters": {
+                        "filters": {
+                            "collapse": {
+                                "option": "true"
+                            },
+                            "indexed": {
+                                "option": "3days"
+                            }
+                        }
+                    }
+                }
+            },
+            "sort": {
+                "price": "asc"
+            }
+        }
+    },
+    "Legacy of Fury": {
+        "drop_chance": 0.32,
+        "query": {
+            "query": {
+                "status": {
+                    "option": "any"
+                },
+                "name": "Legacy of Fury",
+                "type": "Wyrmscale Boots",
+                "stats": [
+                    {
+                        "type": "and",
+                        "filters": []
+                    }
+                ],
+                "filters": {
+                    "misc_filters": {
+                        "filters": {
+                            "corrupted": {
+                                "option": "false"
+                            }
+                        }
+                    },
+                    "trade_filters": {
+                        "filters": {
+                            "collapse": {
+                                "option": "true"
+                            },
+                            "indexed": {
+                                "option": "3days"
+                            }
+                        }
+                    }
+                }
+            },
+            "sort": {
+                "price": "asc"
+            }
+        }
+    },
+    "Viridi's Veil": {
+        "drop_chance": 0.18,
+        "query": {
+            "query": {
+                "status": {
+                    "option": "any"
+                },
+                "name": "Viridi's Veil",
+                "type": "Praetor Crown",
+                "stats": [
+                    {
+                        "type": "and",
+                        "filters": []
+                    }
+                ],
+                "filters": {
+                    "misc_filters": {
+                        "filters": {
+                            "corrupted": {
+                                "option": "false"
+                            }
+                        }
+                    },
+                    "trade_filters": {
+                        "filters": {
+                            "collapse": {
+                                "option": "true"
+                            },
+                            "indexed": {
+                                "option": "3days"
+                            }
+                        }
+                    }
+                }
+            },
+            "sort": {
+                "price": "asc"
+            }
+        }
+    },
     "Arn's Anguish": {
         "drop_chance": 0.12,
         "query": {
@@ -148,85 +306,38 @@
             }
         }
     },
-    "Viridi's Veil": {
-        "drop_chance": 0.18,
+    "Impossible Escape" {
+        "drop_chance": 0.06,
         "query": {
             "query": {
-                "status": {
-                    "option": "any"
-                },
-                "name": "Viridi's Veil",
-                "type": "Praetor Crown",
-                "stats": [
-                    {
-                        "type": "and",
-                        "filters": []
-                    }
-                ],
-                "filters": {
-                    "misc_filters": {
-                        "filters": {
-                            "corrupted": {
-                                "option": "false"
-                            }
-                        }
-                    },
-                    "trade_filters": {
-                        "filters": {
-                            "collapse": {
-                                "option": "true"
-                            },
-                            "indexed": {
-                                "option": "3days"
-                            }
-                        }
-                    }
+              "status": {
+                "option": "online"
+              },
+              "name": "Impossible Escape",
+              "type": "Viridian Jewel",
+              "stats": [
+                {
+                  "type": "and",
+                  "filters": []
                 }
+              ],
+              "filters": {
+                "trade_filters": {
+                  "filters": {
+                    "indexed": {
+                      "option": "3days"
+                    },
+                    "collapse": {
+                      "option": "true"
+                    }
+                  }
+                }
+              }
             },
             "sort": {
-                "price": "asc"
+              "price": "asc"
             }
-        }
-    },
-    "Legacy of Fury": {
-        "drop_chance": 0.32,
-        "query": {
-            "query": {
-                "status": {
-                    "option": "any"
-                },
-                "name": "Legacy of Fury",
-                "type": "Wyrmscale Boots",
-                "stats": [
-                    {
-                        "type": "and",
-                        "filters": []
-                    }
-                ],
-                "filters": {
-                    "misc_filters": {
-                        "filters": {
-                            "corrupted": {
-                                "option": "false"
-                            }
-                        }
-                    },
-                    "trade_filters": {
-                        "filters": {
-                            "collapse": {
-                                "option": "true"
-                            },
-                            "indexed": {
-                                "option": "3days"
-                            }
-                        }
-                    }
-                }
-            },
-            "sort": {
-                "price": "asc"
-            }
-        }
+          }
     },
     "The Doppelganger": {
         "drop_chance": 0.02,
@@ -267,83 +378,135 @@
             }
         }
     },
-    "Elevated Sextant": {
-        "drop_chance": 1.00,
+    "Auspicious Ambitions": {
+        "drop_chance": 0.02,
         "query": {
             "query": {
-                "status": {
-                    "option": "any"
-                },
-                "type": "Elevated Sextant",
-                "stats": [
-                    {
-                        "type": "and",
-                        "filters": []
-                    }
-                ],
-                "filters": {
-                    "misc_filters": {
-                        "filters": {
-                            "corrupted": {
-                                "option": "false"
-                            }
-                        }
-                    },
-                    "trade_filters": {
-                        "filters": {
-                            "collapse": {
-                                "option": "true"
-                            },
-                            "indexed": {
-                                "option": "3days"
-                            }
-                        }
-                    }
+              "status": {
+                "option": "online"
+              },
+              "type": "Auspicious Ambitions",
+              "stats": [
+                {
+                  "type": "and",
+                  "filters": []
                 }
+              ],
+              "filters": {
+                "trade_filters": {
+                  "filters": {
+                    "indexed": {
+                      "option": "3days"
+                    },
+                    "collapse": {
+                      "option": "true"
+                    }
+                  }
+                }
+              }
             },
             "sort": {
-                "price": "asc"
+              "price": "asc"
             }
-        }
+          }
     },
-    "Orb of Conflict": {
-        "drop_chance": 0.42,
+    "Progenesis": {
+        "drop_chance": 0.015,
         "query": {
             "query": {
-                "status": {
-                    "option": "any"
-                },
-                "type": "Orb of Conflict",
-                "stats": [
-                    {
-                        "type": "and",
-                        "filters": []
-                    }
-                ],
-                "filters": {
-                    "misc_filters": {
-                        "filters": {
-                            "corrupted": {
-                                "option": "false"
-                            }
-                        }
-                    },
-                    "trade_filters": {
-                        "filters": {
-                            "collapse": {
-                                "option": "true"
-                            },
-                            "indexed": {
-                                "option": "3days"
-                            }
-                        }
-                    }
+              "status": {
+                "option": "any"
+              },
+              "name": "Progenesis",
+              "type": "Amethyst Flask",
+              "stats": [
+                {
+                  "type": "and",
+                  "filters": []
                 }
+              ],
+              "filters": {
+                "trade_filters": {
+                  "filters": {
+                    "indexed": {
+                      "option": "3days"
+                    },
+                    "collapse": {
+                      "option": "true"
+                    }
+                  }
+                }
+              }
             },
             "sort": {
-                "price": "asc"
+              "price": "asc"
             }
-        }
+          }
+    },
+    "Shiny Reliquary Key": {
+        "drop_chance": 0.01,
+        "query": {
+            "query": {
+              "status": {
+                "option": "online"
+              },
+              "type": "Shiny Reliquary Key",
+              "stats": [
+                {
+                  "type": "and",
+                  "filters": []
+                }
+              ],
+              "filters": {
+                "trade_filters": {
+                  "filters": {
+                    "indexed": {
+                      "option": "3days"
+                    },
+                    "collapse": {
+                      "option": "true"
+                    }
+                  }
+                }
+              }
+            },
+            "sort": {
+              "price": "asc"
+            }
+          }
+    },
+    "Echoforge": {
+        "drop_chance": 0.01,
+        "query": {
+            "query": {
+              "status": {
+                "option": "online"
+              },
+              "name": "Echoforge",
+              "type": "Infernal Sword",
+              "stats": [
+                {
+                  "type": "and",
+                  "filters": []
+                }
+              ],
+              "filters": {
+                "trade_filters": {
+                  "filters": {
+                    "indexed": {
+                      "option": "3days"
+                    },
+                    "collapse": {
+                      "option": "true"
+                    }
+                  }
+                }
+              }
+            },
+            "sort": {
+              "price": "asc"
+            }
+          }
     },
     "Awakened Empower Support": {
         "drop_chance": 0.0058,
