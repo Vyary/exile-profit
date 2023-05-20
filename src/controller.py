@@ -125,35 +125,35 @@ class Controller:
         )
         sheet.update("Gems to Level", "output/gems_to_level.csv")
 
-        # # Currency Flipping
-        # with open("src/currency_exchange/exchangeable_currencies.json") as f:
-        #     # Load the JSON data into a dictionary
-        #     exchangeable_currencies = json.load(f)
+        # Currency Flipping
+        with open("src/currency_exchange/exchangeable_currencies.json") as f:
+            # Load the JSON data into a dictionary
+            exchangeable_currencies = json.load(f)
 
-        # currency_exchange_data = currency_exchange.get_exchange_currency_data(
-        #     exchangeable_currencies, currency_prices
-        # )
-        # save_manager.save_dict_to_csv(
-        #     "currency_exchange.csv", currency_exchange_data, "profit_per_100"
-        # )
-        # sheet.update("Currency Flipping", "output/currency_exchange.csv")
+        currency_exchange_data = currency_exchange.get_exchange_currency_data(
+            exchangeable_currencies, currency_prices
+        )
+        save_manager.save_dict_to_csv(
+            "currency_exchange.csv", currency_exchange_data, "profit_per_100"
+        )
+        sheet.update("Currency Flipping", "output/currency_exchange.csv")
 
-        # # Div Cards
-        # div_cards_info = self.divination_cards_data(
-        #     poe_ninja_api, price_check_method, untyped_data_dict
-        # )
-        # save_manager.save_dict_to_csv("div_cards.csv", div_cards_info, "profit")
-        # sheet.update("Divination Cards", "output/div_cards.csv")
+        # Div Cards
+        div_cards_info = self.divination_cards_data(
+            poe_ninja_api, price_check_method, untyped_data_dict
+        )
+        save_manager.save_dict_to_csv("div_cards.csv", div_cards_info, "profit")
+        sheet.update("Divination Cards", "output/div_cards.csv")
 
-        # # Uber Sirus
-        # uber_sirus_info = self.uber_sirus_info(boss_checker)
-        # save_manager.save_dict_to_csv("uber_sirus_info.csv", uber_sirus_info)
-        # sheet.update("Uber Sirus", "output/uber_sirus_info.csv")
+        # Uber Sirus
+        uber_sirus_info = self.uber_sirus_info(boss_checker)
+        save_manager.save_dict_to_csv("uber_sirus_info.csv", uber_sirus_info)
+        sheet.update("Uber Sirus", "output/uber_sirus_info.csv")
 
-        # # Uber Maven
-        # uber_maven_info = self.uber_maven_info(boss_checker)
-        # save_manager.save_dict_to_csv("uber_maven_info.csv", uber_maven_info)
-        # sheet.update("Uber Maven", "output/uber_maven_info.csv")
+        # Uber Maven
+        uber_maven_info = self.uber_maven_info(boss_checker)
+        save_manager.save_dict_to_csv("uber_maven_info.csv", uber_maven_info)
+        sheet.update("Uber Maven", "output/uber_maven_info.csv")
 
 
 def main():
