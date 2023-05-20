@@ -68,7 +68,7 @@
         }
     },
     "Orb of Conflict": {
-        "drop_chance": 0.42,
+        "drop_chance": 0.35,
         "query": {
             "query": {
                 "status": {
@@ -107,7 +107,7 @@
         }
     },
     "Legacy of Fury": {
-        "drop_chance": 0.32,
+        "drop_chance": 0.35,
         "query": {
             "query": {
                 "status": {
@@ -147,7 +147,7 @@
         }
     },
     "Viridi's Veil": {
-        "drop_chance": 0.18,
+        "drop_chance": 0.20,
         "query": {
             "query": {
                 "status": {
@@ -227,7 +227,7 @@
         }
     },
     "Graven's Secret": {
-        "drop_chance": 0.13,
+        "drop_chance": 0.12,
         "query": {
             "query": {
                 "status": {
@@ -306,38 +306,38 @@
             }
         }
     },
-    "Impossible Escape" {
+    "Impossible Escape": {
         "drop_chance": 0.06,
         "query": {
             "query": {
-              "status": {
-                "option": "online"
-              },
-              "name": "Impossible Escape",
-              "type": "Viridian Jewel",
-              "stats": [
-                {
-                  "type": "and",
-                  "filters": []
-                }
-              ],
-              "filters": {
-                "trade_filters": {
-                  "filters": {
-                    "indexed": {
-                      "option": "3days"
-                    },
-                    "collapse": {
-                      "option": "true"
+                "status": {
+                    "option": "online"
+                },
+                "name": "Impossible Escape",
+                "type": "Viridian Jewel",
+                "stats": [
+                    {
+                        "type": "and",
+                        "filters": []
                     }
-                  }
+                ],
+                "filters": {
+                    "trade_filters": {
+                        "filters": {
+                            "indexed": {
+                                "option": "3days"
+                            },
+                            "collapse": {
+                                "option": "true"
+                            }
+                        }
+                    }
                 }
-              }
             },
             "sort": {
-              "price": "asc"
+                "price": "asc"
             }
-          }
+        }
     },
     "The Doppelganger": {
         "drop_chance": 0.02,
@@ -382,131 +382,131 @@
         "drop_chance": 0.02,
         "query": {
             "query": {
-              "status": {
-                "option": "online"
-              },
-              "type": "Auspicious Ambitions",
-              "stats": [
-                {
-                  "type": "and",
-                  "filters": []
-                }
-              ],
-              "filters": {
-                "trade_filters": {
-                  "filters": {
-                    "indexed": {
-                      "option": "3days"
-                    },
-                    "collapse": {
-                      "option": "true"
+                "status": {
+                    "option": "online"
+                },
+                "type": "Auspicious Ambitions",
+                "stats": [
+                    {
+                        "type": "and",
+                        "filters": []
                     }
-                  }
+                ],
+                "filters": {
+                    "trade_filters": {
+                        "filters": {
+                            "indexed": {
+                                "option": "3days"
+                            },
+                            "collapse": {
+                                "option": "true"
+                            }
+                        }
+                    }
                 }
-              }
             },
             "sort": {
-              "price": "asc"
+                "price": "asc"
             }
-          }
+        }
     },
     "Progenesis": {
         "drop_chance": 0.015,
         "query": {
             "query": {
-              "status": {
-                "option": "any"
-              },
-              "name": "Progenesis",
-              "type": "Amethyst Flask",
-              "stats": [
-                {
-                  "type": "and",
-                  "filters": []
-                }
-              ],
-              "filters": {
-                "trade_filters": {
-                  "filters": {
-                    "indexed": {
-                      "option": "3days"
-                    },
-                    "collapse": {
-                      "option": "true"
+                "status": {
+                    "option": "any"
+                },
+                "name": "Progenesis",
+                "type": "Amethyst Flask",
+                "stats": [
+                    {
+                        "type": "and",
+                        "filters": []
                     }
-                  }
+                ],
+                "filters": {
+                    "trade_filters": {
+                        "filters": {
+                            "indexed": {
+                                "option": "3days"
+                            },
+                            "collapse": {
+                                "option": "true"
+                            }
+                        }
+                    }
                 }
-              }
             },
             "sort": {
-              "price": "asc"
+                "price": "asc"
             }
-          }
+        }
     },
     "Shiny Reliquary Key": {
         "drop_chance": 0.01,
         "query": {
             "query": {
-              "status": {
-                "option": "online"
-              },
-              "type": "Shiny Reliquary Key",
-              "stats": [
-                {
-                  "type": "and",
-                  "filters": []
-                }
-              ],
-              "filters": {
-                "trade_filters": {
-                  "filters": {
-                    "indexed": {
-                      "option": "3days"
-                    },
-                    "collapse": {
-                      "option": "true"
+                "status": {
+                    "option": "online"
+                },
+                "type": "Shiny Reliquary Key",
+                "stats": [
+                    {
+                        "type": "and",
+                        "filters": []
                     }
-                  }
+                ],
+                "filters": {
+                    "trade_filters": {
+                        "filters": {
+                            "indexed": {
+                                "option": "3days"
+                            },
+                            "collapse": {
+                                "option": "true"
+                            }
+                        }
+                    }
                 }
-              }
             },
             "sort": {
-              "price": "asc"
+                "price": "asc"
             }
-          }
+        }
     },
     "Echoforge": {
         "drop_chance": 0.01,
         "query": {
             "query": {
-              "status": {
-                "option": "online"
-              },
-              "name": "Echoforge",
-              "type": "Infernal Sword",
-              "stats": [
-                {
-                  "type": "and",
-                  "filters": []
-                }
-              ],
-              "filters": {
-                "trade_filters": {
-                  "filters": {
-                    "indexed": {
-                      "option": "3days"
-                    },
-                    "collapse": {
-                      "option": "true"
+                "status": {
+                    "option": "online"
+                },
+                "name": "Echoforge",
+                "type": "Infernal Sword",
+                "stats": [
+                    {
+                        "type": "and",
+                        "filters": []
                     }
-                  }
+                ],
+                "filters": {
+                    "trade_filters": {
+                        "filters": {
+                            "indexed": {
+                                "option": "3days"
+                            },
+                            "collapse": {
+                                "option": "true"
+                            }
+                        }
+                    }
                 }
-              }
             },
             "sort": {
-              "price": "asc"
+                "price": "asc"
             }
-          }
+        }
     },
     "Awakened Empower Support": {
         "drop_chance": 0.0058,
