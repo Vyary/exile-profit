@@ -1874,7 +1874,7 @@
     }
   },
   "Awakened Ancestral Call Support": {
-    "drop_chance": 0.0040,
+    "drop_chance": 0.0042,
     "query": {
       "query": {
         "status": {
@@ -1913,7 +1913,7 @@
     }
   },
   "Awakened Generosity Support": {
-    "drop_chance": 0.0040,
+    "drop_chance": 0.0042,
     "query": {
       "query": {
         "status": {
