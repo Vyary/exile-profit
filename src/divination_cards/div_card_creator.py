@@ -1,7 +1,8 @@
 from abc import ABC, abstractmethod
+from typing import Any, Dict
 
 
 class DivCardCreator(ABC):
     @abstractmethod
-    def __init__(self):
+    def create_div_cards(self) -> Dict[str, Any]:
         pass
