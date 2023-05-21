@@ -107,11 +107,11 @@ class Controller:
         limiter = RateLimiter()
         save_manager = SaveData()
         currency_prices = CurrencyPrices(current_league).get_currency_prices()
-        price_check_method = PoeTrade(current_league, currency_prices, limiter)
+        poe_trade = PoeTrade(current_league, currency_prices, limiter)
         sheet = SheetUpdater("output/service_account.json", "Exile-Profit")
         untyped_data_dict = poe_ninja_api.get_massive_data()
         item_maker = Item()
-        boss_checker = BossDropInfo(price_check_method, item_maker, untyped_data_dict)
+        boss_checker = BossDropInfo(poe_trade, item_maker, untyped_data_dict)
         currency_exchange = CurrencyExchange()
 
         # Gems
@@ -142,7 +142,7 @@ class Controller:
 
         # Div Cards
         div_cards_info = self.divination_cards_data(
-            current_league, poe_ninja_api, price_check_method, untyped_data_dict
+            current_league, poe_ninja_api, poe_trade, untyped_data_dict
         )
         save_manager.save_dict_to_csv("div_cards.csv", div_cards_info, "profit")
         sheet.update("Divination Cards", "output/div_cards.csv")
