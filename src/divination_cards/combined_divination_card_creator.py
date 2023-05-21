@@ -46,23 +46,31 @@ class CombinedDivCardCreator(DivCardCreator):
         rewards_average = float(sum(rewards_prices) / len(rewards_prices))
         return rewards_average
 
-    def create_div_card(self):
+    def create_div_cards(self):
         for div_card in self.divination_card_data:
-            name = self.divination_card_data[div_card]["name"]
+            card_name = self.divination_card_data[div_card]["name"]
+
+            name_for_link = card_name.replace(" ", "%20")
+            query = f"{{%22query%22:{{%22filters%22:{{%22type_filters%22:{{%22filters%22:{{%22category%22:{{%22option%22:%22card%22}}}}}}}},%22type%22:%22{name_for_link}%22}}}}"
+            trade_link = f'=HYPERLINK("https://www.pathofexile.com/trade/search/Crucible?q={query}","Trade")'
+
             stack_size = int(self.divination_card_data[div_card]["stack_size"])
             card_price = float(self.divination_card_data[div_card]["card_price"])
             reward_count = int(self.divination_card_data[div_card]["reward_count"])
             reward = self.divination_card_data[div_card]["reward"]
             reward_price = float(self.__get_reward_price_from_massive_data(reward))
 
-            if reward_price == 0 and name in self.divination_cards_queries:
-                reward_price = self.__get_reward_price_average(name)
+            if reward_price == 0 and card_name in self.divination_cards_queries:
+                reward_price = self.__get_reward_price_average(card_name)
+
+            wiki_link = f'=HYPERLINK("https://poewiki.net/wiki/{card_name}","Wiki")'
 
             investment = float(f"{stack_size * card_price:.2f}")
             profit = float(f"{reward_price - investment:.2f}")
 
             current_div_card = self.divination_card_class.create_divination_card(
-                name,
+                card_name,
+                wiki_link,
                 stack_size,
                 card_price,
                 reward_count,
@@ -70,6 +78,7 @@ class CombinedDivCardCreator(DivCardCreator):
                 reward_price,
                 investment,
                 profit,
+                trade_link,
             )
             self.storage.add_item(current_div_card)
         return self.storage.inventory
