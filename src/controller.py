@@ -74,6 +74,7 @@ class Controller:
 
     def divination_cards_data(
         self,
+        current_league: str,
         poe_ninja_api: PoeNinja,
         price_check_method: APICall,
         massive_data_without_types: Dict[str, Any],
@@ -89,13 +90,14 @@ class Controller:
             divination_cards_queries = json.load(f)
 
         complete_div_cards = CombinedDivCardCreator(
+            current_league,
             divination_cards_data,
             massive_data_without_types,
             divination_cards_queries,
             price_check_method,
             div_class,
             divination_card_storage,
-        ).create_div_card()
+        ).create_div_cards()
 
         return complete_div_cards
 
@@ -140,7 +142,7 @@ class Controller:
 
         # Div Cards
         div_cards_info = self.divination_cards_data(
-            poe_ninja_api, price_check_method, untyped_data_dict
+            current_league, poe_ninja_api, price_check_method, untyped_data_dict
         )
         save_manager.save_dict_to_csv("div_cards.csv", div_cards_info, "profit")
         sheet.update("Divination Cards", "output/div_cards.csv")

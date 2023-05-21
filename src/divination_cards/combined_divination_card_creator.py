@@ -9,6 +9,7 @@ from utils.storage import Storage
 class CombinedDivCardCreator(DivCardCreator):
     def __init__(
         self,
+        current_league: str,
         divination_card_data: Dict[str, Dict[str, str]],
         massive_data: Dict[str, Dict[str, str]],
         divination_cards_queries: Dict[str, Any],
@@ -16,6 +17,7 @@ class CombinedDivCardCreator(DivCardCreator):
         divination_card_class: DivCard,
         storage: Storage,
     ):
+        self.current_league = current_league
         self.divination_card_data = divination_card_data
         self.massive_data = massive_data
         self.divination_cards_queries = divination_cards_queries
@@ -52,7 +54,7 @@ class CombinedDivCardCreator(DivCardCreator):
 
             name_for_link = card_name.replace(" ", "%20")
             query = f"{{%22query%22:{{%22filters%22:{{%22type_filters%22:{{%22filters%22:{{%22category%22:{{%22option%22:%22card%22}}}}}}}},%22type%22:%22{name_for_link}%22}}}}"
-            trade_link = f'=HYPERLINK("https://www.pathofexile.com/trade/search/Crucible?q={query}","Trade")'
+            trade_link = f'=HYPERLINK("https://www.pathofexile.com/trade/search/{self.current_league}?q={query}","Trade")'
 
             stack_size = int(self.divination_card_data[div_card]["stack_size"])
             card_price = float(self.divination_card_data[div_card]["card_price"])
