@@ -36,7 +36,7 @@ class PoeNinja(APICall):
                 massive_data_with_types[current_type][item["name"]] = item
         return massive_data_with_types
 
-    def get_divination_cards_data(self):
+    def get_divination_cards_data(self) -> Dict[str, Dict[str, str | float]]:
         url = (
             f"https://poe.ninja/api/data/itemoverview?league={self.current_league}"
             "&type=DivinationCard&language=en"

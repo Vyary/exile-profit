@@ -10,7 +10,7 @@ class CombinedDivCardCreator(DivCardCreator):
     def __init__(
         self,
         current_league: str,
-        divination_card_data: Dict[str, Dict[str, str]],
+        divination_card_data: Dict[str, Dict[str, str | float]],
         massive_data: Dict[str, Dict[str, str]],
         divination_cards_queries: Dict[str, Any],
         price_check_method: APICall,
