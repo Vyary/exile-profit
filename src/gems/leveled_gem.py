@@ -8,6 +8,7 @@ class LeveledGem(Gem):
         self.leveled_price: float = 0
         self.listed_leveled: int = 0
         self.profit: float = 0
+        self.trade_link: str = ""
 
     def __str__(self) -> str:
         return (

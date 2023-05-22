@@ -37,3 +37,7 @@ class Builder(ABC):
     @abstractmethod
     def set_leveled_profit(self) -> "Builder":
         pass
+
+    @abstractmethod
+    def create_trade_link(self) -> "Builder":
+        pass

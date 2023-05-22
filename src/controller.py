@@ -22,11 +22,11 @@ from utils.storage import Storage
 
 
 class Controller:
-    def create_gem_repository(self, gems_data: Dict[str, Any]):
+    def create_gem_repository(self, current_league: str, gems_data: Dict[str, Any]):
         corrupted_gem_repository = GemRepository()
         leveled_gem_repository = GemRepository()
 
-        builder = GemBuilder(gems_data)
+        builder = GemBuilder(current_league, gems_data)
 
         for gem_name in gems_data:
             corrupted_gem = builder.build_corrupted_gem(gem_name, CorruptedGem())
@@ -116,7 +116,9 @@ class Controller:
 
         # Gems
         gems_data = poe_ninja_api.get_gems_data()
-        corrupted_gems, leveled_gem_repository = self.create_gem_repository(gems_data)
+        corrupted_gems, leveled_gem_repository = self.create_gem_repository(
+            current_league, gems_data
+        )
         save_manager.save_dict_to_csv(
             "gems_to_corrupt.csv", corrupted_gems, "success_price"
         )

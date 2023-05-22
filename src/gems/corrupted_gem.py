@@ -9,6 +9,7 @@ class CorruptedGem(Gem):
         self.success_price: float = 0
         self.listed_successful: int = 0
         self.vaal_price: float = 0
+        self.trade_link: str = ""
 
     def __str__(self) -> str:
         return (
