@@ -73,7 +73,7 @@ class CombinedDivCardCreator(DivCardCreator):
             reward = self.divination_card_data[div_card]["reward"]
             reward_price = self.__get_reward_price(card_name, reward)
             investment = float(f"{stack_size * card_price:.2f}")
-            profit = float(f"{reward_price - investment:.2f}")
+            profit = float(f"{reward_price * reward_count - investment:.2f}")
             trade_link = self.__create_trade_link(card_name)
 
             current_div_card = self.divination_card_class.create_divination_card(

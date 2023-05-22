@@ -197,5 +197,188 @@
         "price": "asc"
       }
     }
+  },
+  "Wealth and Power": {
+    "Level 4 Enlighten": {
+      "query": {
+        "status": {
+          "option": "online"
+        },
+        "type": "Enlighten Support",
+        "stats": [
+          {
+            "type": "and",
+            "filters": []
+          }
+        ],
+        "filters": {
+          "trade_filters": {
+            "filters": {
+              "collapse": {
+                "option": "true"
+              },
+              "indexed": {
+                "option": "3days"
+              }
+            }
+          },
+          "misc_filters": {
+            "filters": {
+              "corrupted": {
+                "option": "true"
+              },
+              "gem_level": {
+                "min": 4
+              }
+            }
+          }
+        }
+      },
+      "sort": {
+        "price": "asc"
+      }
+    }
+  },
+  "The Dragon's Heart": {
+    "Level 4 Empower": {
+      "query": {
+        "status": {
+          "option": "online"
+        },
+        "type": "Empower Support",
+        "stats": [
+          {
+            "type": "and",
+            "filters": []
+          }
+        ],
+        "filters": {
+          "trade_filters": {
+            "filters": {
+              "collapse": {
+                "option": "true"
+              },
+              "indexed": {
+                "option": "3days"
+              }
+            }
+          },
+          "misc_filters": {
+            "filters": {
+              "corrupted": {
+                "option": "true"
+              },
+              "gem_level": {
+                "min": 4
+              }
+            }
+          }
+        }
+      },
+      "sort": {
+        "price": "asc"
+      }
+    }
+  },
+  "The Artist": {
+    "Level 4 Enhance": {
+      "query": {
+        "status": {
+          "option": "online"
+        },
+        "type": "Enhance Support",
+        "stats": [
+          {
+            "type": "and",
+            "filters": []
+          }
+        ],
+        "filters": {
+          "trade_filters": {
+            "filters": {
+              "collapse": {
+                "option": "true"
+              },
+              "indexed": {
+                "option": "3days"
+              }
+            }
+          },
+          "misc_filters": {
+            "filters": {
+              "corrupted": {
+                "option": "true"
+              },
+              "gem_level": {
+                "min": 4
+              }
+            }
+          }
+        }
+      },
+      "sort": {
+        "price": "asc"
+      }
+    }
+  },
+  "Doryani's Epiphany": {
+    "Prime Regrading Lens": {
+      "query": {
+        "status": {
+          "option": "online"
+        },
+        "type": "Prime Regrading Lens",
+        "stats": [
+          {
+            "type": "and",
+            "filters": []
+          }
+        ],
+        "filters": {
+          "trade_filters": {
+            "filters": {
+              "collapse": {
+                "option": "true"
+              },
+              "indexed": {
+                "option": "3days"
+              }
+            }
+          }
+        }
+      },
+      "sort": {
+        "price": "asc"
+      }
+    },
+    "Secondary Regrading Lens": {
+      "query": {
+        "status": {
+          "option": "online"
+        },
+        "type": "Secondary Regrading Lens",
+        "stats": [
+          {
+            "type": "and",
+            "filters": []
+          }
+        ],
+        "filters": {
+          "trade_filters": {
+            "filters": {
+              "collapse": {
+                "option": "true"
+              },
+              "indexed": {
+                "option": "3days"
+              }
+            }
+          }
+        }
+      },
+      "sort": {
+        "price": "asc"
+      }
+    }
   }
 }
