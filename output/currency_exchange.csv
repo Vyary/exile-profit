@@ -1,5 +1,5 @@
 Name,Currency Value,Component,Component Count,Component Price,Profit Per 100
-Orb of Scouring,0.9,Orb of Chance,4,0.2,9.999999999999998
+Orb of Scouring,0.89,Orb of Chance,4,0.2,8.999999999999996
 Orb of Chance,0.2,Orb of Fusing,1,0.2,0.0
 Orb of Fusing,0.2,Jeweller's Orb,4,0.05,0.0
 Orb of Augmentation,0.04,Orb of Transmutation,4,0.01,0.0
@@ -14,4 +14,4 @@ Jeweller's Orb,0.05,Orb of Alteration,2,0.06,-6.999999999999999
 Orb of Alteration,0.06,Orb of Augmentation,4,0.04,-10.0
 Orb of Transmutation,0.01,Portal Scroll,7,0.03,-20.0
 Orb of Alchemy,0.04,Orb of Regret,1,0.43,-39.0
-Orb of Regret,0.43,Orb of Scouring,2,0.9,-137.0
+Orb of Regret,0.43,Orb of Scouring,2,0.89,-135.0
