@@ -1,19 +1,19 @@
 Name,Drop Rate,Price
 The Maven's Writ,,291.2
-Elevated Sextant,1.0,69.6
+Elevated Sextant,1.0,72.25792
 Orb of Conflict,0.35,63.0
-Legacy of Fury,0.35,15.0
-Viridi's Veil,0.2,20.0
+Legacy of Fury,0.35,18.4
+Viridi's Veil,0.2,16.2
 Arn's Anguish,0.12,10.0
-Graven's Secret,0.12,9.0
+Graven's Secret,0.12,8.0
 Olesya's Delight,0.12,7.0
-Impossible Escape,0.06,44.0
-The Doppelganger,0.02,3.65
+Impossible Escape,0.06,80.0
+The Doppelganger,0.02,4.0
 Auspicious Ambitions,0.02,9.0
-Progenesis,0.015,7362.63
+Progenesis,0.015,7585.74
 Shiny Reliquary Key,0.01,448.0
-Echoforge,0.01,152.47
-Awakened Empower Support,0.004,14189.8
+Echoforge,0.01,176.79
+Awakened Empower Support,0.004,14502.15
 Awakened Enhance Support,0.004,5354.64
 Awakened Enlighten Support,0.002,18875.11
 Awakened Added Chaos Damage Support,0.0096,8.0
@@ -23,11 +23,11 @@ Awakened Elemental Focus Support,0.0096,65.0
 Awakened Increased Area of Effect Support,0.0078,245.42
 Awakened Lightning Penetration Support,0.0078,10.0
 Awakened Minion Damage Support,0.0078,13.0
-Awakened Unbound Ailments Support,0.0078,29.0
+Awakened Unbound Ailments Support,0.0078,30.0
 Awakened Blasphemy Support,0.0042,45.0
 Awakened Cast While Channelling Support,0.0042,30.0
 Awakened Hextouch Support,0.0042,15.0
-Awakened Spell Echo Support,0.0042,870.13
+Awakened Spell Echo Support,0.0042,861.2
 Awakened Spell Cascade Support,0.0042,1004.0
 Awakened Unleash Support,0.0024,312.35
 Awakened Added Cold Damage Support,0.0096,20.0
@@ -39,10 +39,10 @@ Awakened Deadly Ailments Support,0.0078,10.0
 Awakened Void Manipulation Support,0.0078,50.0
 Awakened Chain Support,0.0042,110.0
 Awakened Fork Support,0.0042,2074.92
-Awakened Greater Multiple Projectiles Support,0.0042,3551.91
+Awakened Greater Multiple Projectiles Support,0.0042,3694.7
 Awakened Arrow Nova Support,0.0024,40.0
 Awakened Burning Damage Support,0.0096,15.0
-Awakened Brutality Support,0.0096,17.0
+Awakened Brutality Support,0.0096,16.2
 Awakened Melee Physical Damage Support,0.0096,20.0
 Awakened Melee Splash Support,0.0096,5.0
 Awakened Added Fire Damage Support,0.0078,5.0
