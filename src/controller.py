@@ -69,7 +69,7 @@ class Controller:
 
         twisted_invitation_info = boss_check.get_boss_info(twisted_invitation)
         save_manager.save_dict_to_csv("twisted_invitation.csv", twisted_invitation_info)
-        sheet.update("Twisted Invitation", "output/twisted_invitation.csv.")
+        sheet.update("Twisted Invitation", "output/twisted_invitation.csv")
 
     def update_uber_maven(
         self, boss_check: BossChecker, save_manager: SaveData, sheet: SheetUpdater
@@ -79,7 +79,7 @@ class Controller:
 
         uber_maven_info = boss_check.get_boss_info(uber_maven_queries)
         save_manager.save_dict_to_csv("uber_maven_info.csv", uber_maven_info)
-        sheet.update("Uber Maven", "output/uber_maven_info.csv.")
+        sheet.update("Uber Maven", "output/uber_maven_info.csv")
 
     def update_uber_sirus(
         self, boss_check: BossChecker, save_manager: SaveData, sheet: SheetUpdater
@@ -89,7 +89,7 @@ class Controller:
 
         uber_sirus_info = boss_check.get_boss_info(uber_sirus_queries)
         save_manager.save_dict_to_csv("uber_sirus_info.csv", uber_sirus_info)
-        sheet.update("Uber Sirus", "output/uber_sirus_info.csv.")
+        sheet.update("Uber Sirus", "output/uber_sirus_info.csv")
 
     def update_currency_flipping(
         self,
