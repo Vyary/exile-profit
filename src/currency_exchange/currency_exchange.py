@@ -1,12 +1,14 @@
 from typing import Any, Dict
 
+from tqdm import tqdm
+
 
 class CurrencyExchange:
     @staticmethod
     def get_exchange_currency_data(
         exchangeable_currencies: Dict[str, Any], currency_data: Dict[str, Any]
     ) -> Dict[str, Any]:
-        for currency in exchangeable_currencies:
+        for currency in tqdm(exchangeable_currencies, desc="Currency Exchange"):
             exchangeable_currencies[currency]["currency_value"] = currency_data[
                 currency
             ]
