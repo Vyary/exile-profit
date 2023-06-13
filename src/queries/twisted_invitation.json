@@ -445,7 +445,7 @@
     }
   },
   "Shaper Guardian Map": {
-    "drop_chance": 0.15,
+    "drop_chance": 0.015,
     "components": {
       "Forge of the Phoenix Map": {
         "query": {
@@ -586,7 +586,7 @@
     }
   },
   "Elder Guardian Map": {
-    "drop_chance": 0.15,
+    "drop_chance": 0.015,
     "components": {
       "The Eradicator Map": {
         "query": {
@@ -743,7 +743,7 @@
     }
   },
   "Sirus Conqueror Map": {
-    "drop_chance": 0.10,
+    "drop_chance": 0.010,
     "components": {
       "Al-Hezmin, the Hunter": {
         "query": {
