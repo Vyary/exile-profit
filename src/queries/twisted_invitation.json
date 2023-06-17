@@ -1,6 +1,6 @@
 {
   "The Eradicator Map": {
-    "drop_chance": "",
+  "drop_chance": "",
     "components": {
       "The Eradicator Map": {
         "query": {
@@ -399,6 +399,40 @@
                 }
               },
               "disabled": false
+            }
+          }
+        },
+        "sort": {
+          "price": "asc"
+        }
+      }
+    }
+  },
+  "Orb of Unmaking": {
+    "drop_chance": 0.85,
+    "components": {
+      "Orb of Unmaking": {
+        "query": {
+          "status": {
+            "option": "online"
+          },
+          "type": "Orb of Unmaking",
+          "stats": [
+            {
+              "type": "and",
+              "filters": []
+            }
+          ],
+          "filters": {
+            "trade_filters": {
+              "filters": {
+                "indexed": {
+                  "option": "3days"
+                },
+                "collapse": {
+                  "option": "true"
+                }
+              }
             }
           }
         },
