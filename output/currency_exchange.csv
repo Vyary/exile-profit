@@ -8,10 +8,10 @@ Orb of Chance,0.2,Orb of Fusing,1,0.21,-0.9999999999999981
 Blacksmith's Whetstone,0.02,Armourer's Scrap,3,0.01,-0.9999999999999999
 Armourer's Scrap,0.01,Blacksmith's Whetstone,1,0.02,-1.0
 Orb of Fusing,0.21,Jeweller's Orb,4,0.06,-3.0
-Orb of Unmaking,0.68,Orb of Regret,2,0.37,-5.999999999999995
-Jeweller's Orb,0.06,Orb of Alteration,2,0.06,-6.0
+Orb of Unmaking,0.69,Orb of Regret,2,0.37,-5.000000000000004
 Chromatic Orb,0.11,Jeweller's Orb,3,0.06,-6.999999999999999
-Orb of Alteration,0.06,Orb of Augmentation,4,0.04,-10.0
+Jeweller's Orb,0.06,Orb of Alteration,2,0.07,-8.000000000000002
+Orb of Alteration,0.07,Orb of Augmentation,4,0.04,-9.0
 Orb of Transmutation,0.01,Portal Scroll,7,0.03,-20.0
 Orb of Alchemy,0.03,Orb of Regret,1,0.37,-34.0
 Orb of Regret,0.37,Orb of Scouring,2,0.91,-145.00000000000003
