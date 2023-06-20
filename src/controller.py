@@ -61,15 +61,25 @@ class Controller:
         save_manager.save_dict_to_csv("div_info.csv", div_info, "profit")
         sheet.update("Divination Cards", "output/div_info.csv")
 
-    def update_twisted_invitation(
+    def update_the_twisted(
         self, boss_check: BossChecker, save_manager: SaveData, sheet: SheetUpdater
     ):
-        with open("src/queries/twisted_invitation.json", "r") as file:
-            twisted_invitation = json.load(file)
+        with open("src/queries/the_twisted.json", "r") as file:
+            the_twisted = json.load(file)
 
-        twisted_invitation_info = boss_check.get_boss_info(twisted_invitation)
-        save_manager.save_dict_to_csv("twisted_invitation.csv", twisted_invitation_info)
-        sheet.update("Twisted Invitation", "output/twisted_invitation.csv")
+        the_twisted = boss_check.get_boss_info(the_twisted)
+        save_manager.save_dict_to_csv("the_twisted.csv", the_twisted)
+        sheet.update("The Twisted", "output/the_twisted.csv")
+
+    def update_the_formed(
+        self, boss_check: BossChecker, save_manager: SaveData, sheet: SheetUpdater
+    ):
+        with open("src/queries/the_formed.json", "r") as file:
+            the_formed = json.load(file)
+
+        the_formed_info = boss_check.get_boss_info(the_formed)
+        save_manager.save_dict_to_csv("the_formed.csv", the_formed_info)
+        sheet.update("The Formed", "output/the_formed.csv")
 
     def update_uber_maven(
         self, boss_check: BossChecker, save_manager: SaveData, sheet: SheetUpdater
@@ -166,7 +176,8 @@ class Controller:
         # Update Bosses
         self.update_uber_sirus(boss_check, save_manager, sheet)
         self.update_uber_maven(boss_check, save_manager, sheet)
-        self.update_twisted_invitation(boss_check, save_manager, sheet)
+        self.update_the_twisted(boss_check, save_manager, sheet)
+        self.update_the_formed(boss_check, save_manager, sheet)
         # Update Currency Flipping
         self.update_currency_flipping(currency_prices, save_manager, sheet)
 

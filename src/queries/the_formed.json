@@ -1,38 +1,32 @@
 {
-  "The Eradicator Map": {
-  "drop_chance": "",
+  "Lair of the Hydra Map": {
+    "drop_chance": "",
     "components": {
-      "The Eradicator Map": {
+      "Lair of the Hydra Map": {
         "query": {
           "status": {
             "option": "online"
           },
+          "type": {
+            "option": "Lair of the Hydra Map",
+            "discriminator": "warfortheatlas"
+          },
           "stats": [
             {
               "type": "and",
-              "filters": [
-                {
-                  "id": "implicit.stat_3624393862",
-                  "value": {
-                    "option": 2
-                  },
-                  "disabled": false
-                }
-              ],
-              "disabled": false
+              "filters": []
             }
           ],
           "filters": {
             "trade_filters": {
               "filters": {
-                "indexed": {
-                  "option": "3days"
-                },
                 "collapse": {
                   "option": "true"
+                },
+                "indexed": {
+                  "option": "3days"
                 }
-              },
-              "disabled": false
+              }
             }
           }
         },
@@ -42,40 +36,34 @@
       }
     }
   },
-  "The Constrictor Map": {
+  "Maze of the Minotaur Map": {
     "drop_chance": "",
     "components": {
-      "The Constrictor Map": {
+      "Maze of the Minotaur Map": {
         "query": {
           "status": {
             "option": "online"
           },
+          "type": {
+            "option": "Maze of the Minotaur Map",
+            "discriminator": "warfortheatlas"
+          },
           "stats": [
             {
               "type": "and",
-              "filters": [
-                {
-                  "id": "implicit.stat_3624393862",
-                  "value": {
-                    "option": 3
-                  },
-                  "disabled": false
-                }
-              ],
-              "disabled": false
+              "filters": []
             }
           ],
           "filters": {
             "trade_filters": {
               "filters": {
-                "indexed": {
-                  "option": "3days"
-                },
                 "collapse": {
                   "option": "true"
+                },
+                "indexed": {
+                  "option": "3days"
                 }
-              },
-              "disabled": false
+              }
             }
           }
         },
@@ -85,40 +73,34 @@
       }
     }
   },
-  "The Purifier Map": {
+  "Forge of the Phoenix Map": {
     "drop_chance": "",
     "components": {
-      "The Purifier Map": {
+      "Forge of the Phoenix Map": {
         "query": {
           "status": {
             "option": "online"
           },
+          "type": {
+            "option": "Forge of the Phoenix Map",
+            "discriminator": "warfortheatlas"
+          },
           "stats": [
             {
               "type": "and",
-              "filters": [
-                {
-                  "id": "implicit.stat_3624393862",
-                  "value": {
-                    "option": 4
-                  },
-                  "disabled": false
-                }
-              ],
-              "disabled": false
+              "filters": []
             }
           ],
           "filters": {
             "trade_filters": {
               "filters": {
-                "indexed": {
-                  "option": "3days"
-                },
                 "collapse": {
                   "option": "true"
+                },
+                "indexed": {
+                  "option": "3days"
                 }
-              },
-              "disabled": false
+              }
             }
           }
         },
@@ -128,40 +110,34 @@
       }
     }
   },
-  "The Enslaver Map": {
+  "Pit of the Chimera Map": {
     "drop_chance": "",
     "components": {
-      "The Enslaver Map": {
+      "Pit of the Chimera Map": {
         "query": {
           "status": {
             "option": "online"
           },
+          "type": {
+            "option": "Pit of the Chimera Map",
+            "discriminator": "warfortheatlas"
+          },
           "stats": [
             {
               "type": "and",
-              "filters": [
-                {
-                  "id": "implicit.stat_3624393862",
-                  "value": {
-                    "option": 1
-                  },
-                  "disabled": false
-                }
-              ],
-              "disabled": false
+              "filters": []
             }
           ],
           "filters": {
             "trade_filters": {
               "filters": {
-                "indexed": {
-                  "option": "3days"
-                },
                 "collapse": {
                   "option": "true"
+                },
+                "indexed": {
+                  "option": "3days"
                 }
-              },
-              "disabled": false
+              }
             }
           }
         },
@@ -171,33 +147,301 @@
       }
     }
   },
-  "Maven's Invitation: The Twisted": {
+  "Maven's Invitation: The Formed": {
     "drop_chance": "",
     "components": {
-      "Maven's Invitation: The Twisted": {
+      "Maven's Invitation: The Formed": {
         "query": {
           "status": {
             "option": "online"
           },
-          "type": "Maven's Invitation: The Twisted",
+          "type": "Maven's Invitation: The Formed",
           "stats": [
             {
               "type": "and",
-              "filters": [],
-              "disabled": true
+              "filters": []
             }
           ],
           "filters": {
             "trade_filters": {
               "filters": {
-                "indexed": {
-                  "option": "3days"
-                },
                 "collapse": {
                   "option": "true"
+                },
+                "indexed": {
+                  "option": "3days"
                 }
-              },
-              "disabled": false
+              }
+            }
+          }
+        },
+        "sort": {
+          "price": "asc"
+        }
+      }
+    }
+  },
+  "Shaper Guardians Sextant - 3 Uses": {
+    "drop_chance": "",
+    "components": {
+      "Shaper Guardians Sextant - 3 Uses": {
+        "query": {
+          "status": {
+            "option": "online"
+          },
+          "stats": [
+            {
+              "type": "and",
+              "filters": [
+                {
+                  "id": "enchant.stat_181106230"
+                },
+                {
+                  "id": "enchant.stat_290368246",
+                  "value": {
+                    "max": 3,
+                    "min": 3
+                  },
+                  "disabled": false
+                }
+              ]
+            }
+          ],
+          "filters": {
+            "trade_filters": {
+              "filters": {
+                "collapse": {
+                  "option": "true"
+                },
+                "indexed": {
+                  "option": "3days"
+                }
+              }
+            }
+          }
+        },
+        "sort": {
+          "price": "asc"
+        }
+      }
+    }
+  },
+  "Shaper Guardians Sextant - 4 Uses": {
+    "drop_chance": "",
+    "components": {
+      "Shaper Guardians Sextant - 4 Uses": {
+        "query": {
+          "status": {
+            "option": "online"
+          },
+          "stats": [
+            {
+              "type": "and",
+              "filters": [
+                {
+                  "id": "enchant.stat_181106230"
+                },
+                {
+                  "id": "enchant.stat_290368246",
+                  "value": {
+                    "max": 4,
+                    "min": 4
+                  },
+                  "disabled": false
+                }
+              ]
+            }
+          ],
+          "filters": {
+            "trade_filters": {
+              "filters": {
+                "collapse": {
+                  "option": "true"
+                },
+                "indexed": {
+                  "option": "3days"
+                }
+              }
+            }
+          }
+        },
+        "sort": {
+          "price": "asc"
+        }
+      }
+    }
+  },
+  "Elder Guardians Sextant  - 3 Uses": {
+    "drop_chance": "",
+    "components": {
+      "Elder Guardians Sextant  - 3 Uses": {
+        "query": {
+          "status": {
+            "option": "online"
+          },
+          "stats": [
+            {
+              "type": "and",
+              "filters": [
+                {
+                  "id": "enchant.stat_891263063"
+                },
+                {
+                  "id": "enchant.stat_290368246",
+                  "value": {
+                    "max": 3,
+                    "min": 3
+                  },
+                  "disabled": false
+                }
+              ]
+            }
+          ],
+          "filters": {
+            "trade_filters": {
+              "filters": {
+                "collapse": {
+                  "option": "true"
+                },
+                "indexed": {
+                  "option": "3days"
+                }
+              }
+            }
+          }
+        },
+        "sort": {
+          "price": "asc"
+        }
+      }
+    }
+  },
+  "Elder Guardians Sextant - 4 Uses": {
+    "drop_chance": "",
+    "components": {
+      "Elder Guardians Sextant - 4 Uses": {
+        "query": {
+          "status": {
+            "option": "online"
+          },
+          "stats": [
+            {
+              "type": "and",
+              "filters": [
+                {
+                  "id": "enchant.stat_891263063"
+                },
+                {
+                  "id": "enchant.stat_290368246",
+                  "value": {
+                    "max": 4,
+                    "min": 4
+                  },
+                  "disabled": false
+                }
+              ]
+            }
+          ],
+          "filters": {
+            "trade_filters": {
+              "filters": {
+                "collapse": {
+                  "option": "true"
+                },
+                "indexed": {
+                  "option": "3days"
+                }
+              }
+            }
+          }
+        },
+        "sort": {
+          "price": "asc"
+        }
+      }
+    }
+  },
+  "Conquerors Sextant - 3 Uses": {
+    "drop_chance": "",
+    "components": {
+      "Conquerors Sextant - 3 Uses": {
+        "query": {
+          "status": {
+            "option": "online"
+          },
+          "stats": [
+            {
+              "type": "and",
+              "filters": [
+                {
+                  "id": "enchant.stat_3457098703"
+                },
+                {
+                  "id": "enchant.stat_290368246",
+                  "value": {
+                    "max": 3,
+                    "min": 3
+                  },
+                  "disabled": false
+                }
+              ]
+            }
+          ],
+          "filters": {
+            "trade_filters": {
+              "filters": {
+                "collapse": {
+                  "option": "true"
+                },
+                "indexed": {
+                  "option": "3days"
+                }
+              }
+            }
+          }
+        },
+        "sort": {
+          "price": "asc"
+        }
+      }
+    }
+  },
+  "Conquerors Sextant - 4 Uses": {
+    "drop_chance": "",
+    "components": {
+      "Conquerors Sextant - 4 Uses": {
+        "query": {
+          "status": {
+            "option": "online"
+          },
+          "stats": [
+            {
+              "type": "and",
+              "filters": [
+                {
+                  "id": "enchant.stat_3457098703"
+                },
+                {
+                  "id": "enchant.stat_290368246",
+                  "value": {
+                    "max": 4,
+                    "min": 4
+                  },
+                  "disabled": false
+                }
+              ]
+            }
+          ],
+          "filters": {
+            "trade_filters": {
+              "filters": {
+                "collapse": {
+                  "option": "true"
+                },
+                "indexed": {
+                  "option": "3days"
+                }
+              }
             }
           }
         },
@@ -210,12 +454,12 @@
   "Fragments": {
     "drop_chance": 1,
     "components": {
-      "Fragment of Eradication": {
+      "Fragment of the Hydra": {
         "query": {
           "status": {
             "option": "online"
           },
-          "type": "Fragment of Eradication",
+          "type": "Fragment of the Hydra",
           "stats": [
             {
               "type": "and",
@@ -226,14 +470,13 @@
           "filters": {
             "trade_filters": {
               "filters": {
-                "indexed": {
-                  "option": "3days"
-                },
                 "collapse": {
                   "option": "true"
+                },
+                "indexed": {
+                  "option": "3days"
                 }
-              },
-              "disabled": false
+              }
             }
           }
         },
@@ -241,12 +484,12 @@
           "price": "asc"
         }
       },
-      "Fragment of Constriction": {
+      "Fragment of the Minotaur": {
         "query": {
           "status": {
             "option": "online"
           },
-          "type": "Fragment of Constriction",
+          "type": "Fragment of the Minotaur",
           "stats": [
             {
               "type": "and",
@@ -257,14 +500,13 @@
           "filters": {
             "trade_filters": {
               "filters": {
-                "indexed": {
-                  "option": "3days"
-                },
                 "collapse": {
                   "option": "true"
+                },
+                "indexed": {
+                  "option": "3days"
                 }
-              },
-              "disabled": false
+              }
             }
           }
         },
@@ -272,12 +514,15 @@
           "price": "asc"
         }
       },
-      "Fragment of Purification": {
+      "Forge of the Phoenix Map": {
         "query": {
           "status": {
             "option": "online"
           },
-          "type": "Fragment of Purification",
+          "type": {
+            "option": "Forge of the Phoenix Map",
+            "discriminator": "warfortheatlas"
+          },
           "stats": [
             {
               "type": "and",
@@ -288,14 +533,13 @@
           "filters": {
             "trade_filters": {
               "filters": {
-                "indexed": {
-                  "option": "3days"
-                },
                 "collapse": {
                   "option": "true"
+                },
+                "indexed": {
+                  "option": "3days"
                 }
-              },
-              "disabled": false
+              }
             }
           }
         },
@@ -303,12 +547,12 @@
           "price": "asc"
         }
       },
-      "Fragment of Enslavement": {
+      "Fragment of the Chimera": {
         "query": {
           "status": {
             "option": "online"
           },
-          "type": "Fragment of Enslavement",
+          "type": "Fragment of the Chimera",
           "stats": [
             {
               "type": "and",
@@ -319,14 +563,13 @@
           "filters": {
             "trade_filters": {
               "filters": {
-                "indexed": {
-                  "option": "3days"
-                },
                 "collapse": {
                   "option": "true"
+                },
+                "indexed": {
+                  "option": "3days"
                 }
-              },
-              "disabled": false
+              }
             }
           }
         },
@@ -345,42 +588,6 @@
             "option": "online"
           },
           "type": "Crescent Splinter",
-          "stats": [
-            {
-              "type": "and",
-              "filters": [],
-              "disabled": true
-            }
-          ],
-          "filters": {
-            "trade_filters": {
-              "filters": {
-                "indexed": {
-                  "option": "3days"
-                },
-                "collapse": {
-                  "option": "true"
-                }
-              },
-              "disabled": false
-            }
-          }
-        },
-        "sort": {
-          "price": "asc"
-        }
-      }
-    }
-  },
-  "Maven's Invitation: The Twisted Drop": {
-    "drop_chance": 0.70,
-    "components": {
-      "Maven's Invitation: The Twisted": {
-        "query": {
-          "status": {
-            "option": "online"
-          },
-          "type": "Maven's Invitation: The Twisted",
           "stats": [
             {
               "type": "and",
@@ -431,6 +638,40 @@
                 },
                 "collapse": {
                   "option": "true"
+                }
+              }
+            }
+          }
+        },
+        "sort": {
+          "price": "asc"
+        }
+      }
+    }
+  },
+  "Maven's Invitation: The Formed Drop": {
+    "drop_chance": 0.225,
+    "components": {
+      "Maven's Invitation: The Formed": {
+        "query": {
+          "status": {
+            "option": "online"
+          },
+          "type": "Maven's Invitation: The Formed",
+          "stats": [
+            {
+              "type": "and",
+              "filters": []
+            }
+          ],
+          "filters": {
+            "trade_filters": {
+              "filters": {
+                "collapse": {
+                  "option": "true"
+                },
+                "indexed": {
+                  "option": "3days"
                 }
               }
             }
@@ -777,7 +1018,7 @@
     }
   },
   "Sirus Conqueror Map": {
-    "drop_chance": 0.10,
+    "drop_chance": 0.1,
     "components": {
       "Al-Hezmin, the Hunter": {
         "query": {
@@ -924,6 +1165,196 @@
                 }
               },
               "disabled": false
+            }
+          }
+        },
+        "sort": {
+          "price": "asc"
+        }
+      }
+    }
+  },
+  "Synthesised Maps": {
+    "drop_chance": 0,
+    "components": {
+      "Altered Distant Memory": {
+        "query": {
+          "status": {
+            "option": "online"
+          },
+          "name": {
+            "option": "Altered Distant Memory",
+            "discriminator": "warfortheatlas"
+          },
+          "type": {
+            "option": "Synthesised Map",
+            "discriminator": "warfortheatlas"
+          },
+          "stats": [
+            {
+              "type": "and",
+              "filters": [],
+              "disabled": true
+            }
+          ],
+          "filters": {
+            "trade_filters": {
+              "filters": {
+                "collapse": {
+                  "option": "true"
+                },
+                "indexed": {
+                  "option": "3days"
+                }
+              }
+            }
+          }
+        },
+        "sort": {
+          "price": "asc"
+        }
+      },
+      "Augmented Distant Memory": {
+        "query": {
+          "status": {
+            "option": "online"
+          },
+          "name": {
+            "option": "Augmented Distant Memory",
+            "discriminator": "warfortheatlas"
+          },
+          "type": {
+            "option": "Synthesised Map",
+            "discriminator": "warfortheatlas"
+          },
+          "stats": [
+            {
+              "type": "and",
+              "filters": [],
+              "disabled": true
+            }
+          ],
+          "filters": {
+            "trade_filters": {
+              "filters": {
+                "collapse": {
+                  "option": "true"
+                },
+                "indexed": {
+                  "option": "3days"
+                }
+              }
+            }
+          }
+        },
+        "sort": {
+          "price": "asc"
+        }
+      },
+      "Rewritten Distant Memory": {
+        "query": {
+          "status": {
+            "option": "online"
+          },
+          "name": {
+            "option": "Rewritten Distant Memory",
+            "discriminator": "warfortheatlas"
+          },
+          "type": {
+            "option": "Synthesised Map",
+            "discriminator": "warfortheatlas"
+          },
+          "stats": [
+            {
+              "type": "and",
+              "filters": [],
+              "disabled": true
+            }
+          ],
+          "filters": {
+            "trade_filters": {
+              "filters": {
+                "collapse": {
+                  "option": "true"
+                },
+                "indexed": {
+                  "option": "3days"
+                }
+              }
+            }
+          }
+        },
+        "sort": {
+          "price": "asc"
+        }
+      },
+      "Twisted Distant Memory": {
+        "query": {
+          "status": {
+            "option": "online"
+          },
+          "name": {
+            "option": "Twisted Distant Memory",
+            "discriminator": "warfortheatlas"
+          },
+          "type": {
+            "option": "Synthesised Map",
+            "discriminator": "warfortheatlas"
+          },
+          "stats": [
+            {
+              "type": "and",
+              "filters": [],
+              "disabled": true
+            }
+          ],
+          "filters": {
+            "trade_filters": {
+              "filters": {
+                "collapse": {
+                  "option": "true"
+                },
+                "indexed": {
+                  "option": "3days"
+                }
+              }
+            }
+          }
+        },
+        "sort": {
+          "price": "asc"
+        }
+      },
+      "Cortex": {
+        "query": {
+          "status": {
+            "option": "online"
+          },
+          "name": {
+            "option": "Cortex",
+            "discriminator": "warfortheatlas"
+          },
+          "type": {
+            "option": "Synthesised Map",
+            "discriminator": "warfortheatlas"
+          },
+          "stats": [
+            {
+              "type": "and",
+              "filters": [],
+              "disabled": true
+            }
+          ],
+          "filters": {
+            "trade_filters": {
+              "filters": {
+                "collapse": {
+                  "option": "true"
+                },
+                "indexed": {
+                  "option": "3days"
+                }
+              }
             }
           }
         },

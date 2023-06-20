@@ -1,0 +1,936 @@
+{
+  "The Eradicator Map": {
+    "drop_chance": "",
+    "components": {
+      "The Eradicator Map": {
+        "query": {
+          "status": {
+            "option": "online"
+          },
+          "stats": [
+            {
+              "type": "and",
+              "filters": [
+                {
+                  "id": "implicit.stat_3624393862",
+                  "value": {
+                    "option": 2
+                  },
+                  "disabled": false
+                }
+              ],
+              "disabled": false
+            }
+          ],
+          "filters": {
+            "trade_filters": {
+              "filters": {
+                "indexed": {
+                  "option": "3days"
+                },
+                "collapse": {
+                  "option": "true"
+                }
+              },
+              "disabled": false
+            }
+          }
+        },
+        "sort": {
+          "price": "asc"
+        }
+      }
+    }
+  },
+  "The Constrictor Map": {
+    "drop_chance": "",
+    "components": {
+      "The Constrictor Map": {
+        "query": {
+          "status": {
+            "option": "online"
+          },
+          "stats": [
+            {
+              "type": "and",
+              "filters": [
+                {
+                  "id": "implicit.stat_3624393862",
+                  "value": {
+                    "option": 3
+                  },
+                  "disabled": false
+                }
+              ],
+              "disabled": false
+            }
+          ],
+          "filters": {
+            "trade_filters": {
+              "filters": {
+                "indexed": {
+                  "option": "3days"
+                },
+                "collapse": {
+                  "option": "true"
+                }
+              },
+              "disabled": false
+            }
+          }
+        },
+        "sort": {
+          "price": "asc"
+        }
+      }
+    }
+  },
+  "The Purifier Map": {
+    "drop_chance": "",
+    "components": {
+      "The Purifier Map": {
+        "query": {
+          "status": {
+            "option": "online"
+          },
+          "stats": [
+            {
+              "type": "and",
+              "filters": [
+                {
+                  "id": "implicit.stat_3624393862",
+                  "value": {
+                    "option": 4
+                  },
+                  "disabled": false
+                }
+              ],
+              "disabled": false
+            }
+          ],
+          "filters": {
+            "trade_filters": {
+              "filters": {
+                "indexed": {
+                  "option": "3days"
+                },
+                "collapse": {
+                  "option": "true"
+                }
+              },
+              "disabled": false
+            }
+          }
+        },
+        "sort": {
+          "price": "asc"
+        }
+      }
+    }
+  },
+  "The Enslaver Map": {
+    "drop_chance": "",
+    "components": {
+      "The Enslaver Map": {
+        "query": {
+          "status": {
+            "option": "online"
+          },
+          "stats": [
+            {
+              "type": "and",
+              "filters": [
+                {
+                  "id": "implicit.stat_3624393862",
+                  "value": {
+                    "option": 1
+                  },
+                  "disabled": false
+                }
+              ],
+              "disabled": false
+            }
+          ],
+          "filters": {
+            "trade_filters": {
+              "filters": {
+                "indexed": {
+                  "option": "3days"
+                },
+                "collapse": {
+                  "option": "true"
+                }
+              },
+              "disabled": false
+            }
+          }
+        },
+        "sort": {
+          "price": "asc"
+        }
+      }
+    }
+  },
+  "Maven's Invitation: The Twisted": {
+    "drop_chance": "",
+    "components": {
+      "Maven's Invitation: The Twisted": {
+        "query": {
+          "status": {
+            "option": "online"
+          },
+          "type": "Maven's Invitation: The Twisted",
+          "stats": [
+            {
+              "type": "and",
+              "filters": [],
+              "disabled": true
+            }
+          ],
+          "filters": {
+            "trade_filters": {
+              "filters": {
+                "indexed": {
+                  "option": "3days"
+                },
+                "collapse": {
+                  "option": "true"
+                }
+              },
+              "disabled": false
+            }
+          }
+        },
+        "sort": {
+          "price": "asc"
+        }
+      }
+    }
+  },
+  "Fragments": {
+    "drop_chance": 1,
+    "components": {
+      "Fragment of Eradication": {
+        "query": {
+          "status": {
+            "option": "online"
+          },
+          "type": "Fragment of Eradication",
+          "stats": [
+            {
+              "type": "and",
+              "filters": [],
+              "disabled": true
+            }
+          ],
+          "filters": {
+            "trade_filters": {
+              "filters": {
+                "indexed": {
+                  "option": "3days"
+                },
+                "collapse": {
+                  "option": "true"
+                }
+              },
+              "disabled": false
+            }
+          }
+        },
+        "sort": {
+          "price": "asc"
+        }
+      },
+      "Fragment of Constriction": {
+        "query": {
+          "status": {
+            "option": "online"
+          },
+          "type": "Fragment of Constriction",
+          "stats": [
+            {
+              "type": "and",
+              "filters": [],
+              "disabled": true
+            }
+          ],
+          "filters": {
+            "trade_filters": {
+              "filters": {
+                "indexed": {
+                  "option": "3days"
+                },
+                "collapse": {
+                  "option": "true"
+                }
+              },
+              "disabled": false
+            }
+          }
+        },
+        "sort": {
+          "price": "asc"
+        }
+      },
+      "Fragment of Purification": {
+        "query": {
+          "status": {
+            "option": "online"
+          },
+          "type": "Fragment of Purification",
+          "stats": [
+            {
+              "type": "and",
+              "filters": [],
+              "disabled": true
+            }
+          ],
+          "filters": {
+            "trade_filters": {
+              "filters": {
+                "indexed": {
+                  "option": "3days"
+                },
+                "collapse": {
+                  "option": "true"
+                }
+              },
+              "disabled": false
+            }
+          }
+        },
+        "sort": {
+          "price": "asc"
+        }
+      },
+      "Fragment of Enslavement": {
+        "query": {
+          "status": {
+            "option": "online"
+          },
+          "type": "Fragment of Enslavement",
+          "stats": [
+            {
+              "type": "and",
+              "filters": [],
+              "disabled": true
+            }
+          ],
+          "filters": {
+            "trade_filters": {
+              "filters": {
+                "indexed": {
+                  "option": "3days"
+                },
+                "collapse": {
+                  "option": "true"
+                }
+              },
+              "disabled": false
+            }
+          }
+        },
+        "sort": {
+          "price": "asc"
+        }
+      }
+    }
+  },
+  "Crescent Splinter": {
+    "drop_chance": 1,
+    "components": {
+      "Crescent Splinter": {
+        "query": {
+          "status": {
+            "option": "online"
+          },
+          "type": "Crescent Splinter",
+          "stats": [
+            {
+              "type": "and",
+              "filters": [],
+              "disabled": true
+            }
+          ],
+          "filters": {
+            "trade_filters": {
+              "filters": {
+                "indexed": {
+                  "option": "3days"
+                },
+                "collapse": {
+                  "option": "true"
+                }
+              },
+              "disabled": false
+            }
+          }
+        },
+        "sort": {
+          "price": "asc"
+        }
+      }
+    }
+  },
+  "Maven's Invitation: The Twisted Drop": {
+    "drop_chance": 0.70,
+    "components": {
+      "Maven's Invitation: The Twisted": {
+        "query": {
+          "status": {
+            "option": "online"
+          },
+          "type": "Maven's Invitation: The Twisted",
+          "stats": [
+            {
+              "type": "and",
+              "filters": [],
+              "disabled": true
+            }
+          ],
+          "filters": {
+            "trade_filters": {
+              "filters": {
+                "indexed": {
+                  "option": "3days"
+                },
+                "collapse": {
+                  "option": "true"
+                }
+              },
+              "disabled": false
+            }
+          }
+        },
+        "sort": {
+          "price": "asc"
+        }
+      }
+    }
+  },
+  "Orb of Unmaking": {
+    "drop_chance": 0.85,
+    "components": {
+      "Orb of Unmaking": {
+        "query": {
+          "status": {
+            "option": "online"
+          },
+          "type": "Orb of Unmaking",
+          "stats": [
+            {
+              "type": "and",
+              "filters": []
+            }
+          ],
+          "filters": {
+            "trade_filters": {
+              "filters": {
+                "indexed": {
+                  "option": "3days"
+                },
+                "collapse": {
+                  "option": "true"
+                }
+              }
+            }
+          }
+        },
+        "sort": {
+          "price": "asc"
+        }
+      }
+    }
+  },
+  "Orb of Conflict": {
+    "drop_chance": 0.25,
+    "components": {
+      "Orb of Conflict": {
+        "query": {
+          "status": {
+            "option": "online"
+          },
+          "type": "Orb of Conflict",
+          "stats": [
+            {
+              "type": "and",
+              "filters": [],
+              "disabled": true
+            }
+          ],
+          "filters": {
+            "trade_filters": {
+              "filters": {
+                "indexed": {
+                  "option": "3days"
+                },
+                "collapse": {
+                  "option": "true"
+                }
+              },
+              "disabled": false
+            }
+          }
+        },
+        "sort": {
+          "price": "asc"
+        }
+      }
+    }
+  },
+  "Shaper Guardian Map": {
+    "drop_chance": 0.15,
+    "components": {
+      "Forge of the Phoenix Map": {
+        "query": {
+          "status": {
+            "option": "online"
+          },
+          "type": {
+            "option": "Forge of the Phoenix Map",
+            "discriminator": "warfortheatlas"
+          },
+          "stats": [
+            {
+              "type": "and",
+              "filters": [],
+              "disabled": true
+            }
+          ],
+          "filters": {
+            "trade_filters": {
+              "filters": {
+                "indexed": {
+                  "option": "3days"
+                },
+                "collapse": {
+                  "option": "true"
+                }
+              },
+              "disabled": false
+            }
+          }
+        },
+        "sort": {
+          "price": "asc"
+        }
+      },
+      "Lair of the Hydra Map": {
+        "query": {
+          "status": {
+            "option": "online"
+          },
+          "type": {
+            "option": "Lair of the Hydra Map",
+            "discriminator": "warfortheatlas"
+          },
+          "stats": [
+            {
+              "type": "and",
+              "filters": [],
+              "disabled": true
+            }
+          ],
+          "filters": {
+            "trade_filters": {
+              "filters": {
+                "indexed": {
+                  "option": "3days"
+                },
+                "collapse": {
+                  "option": "true"
+                }
+              },
+              "disabled": false
+            }
+          }
+        },
+        "sort": {
+          "price": "asc"
+        }
+      },
+      "Maze of the Minotaur Map": {
+        "query": {
+          "status": {
+            "option": "online"
+          },
+          "type": {
+            "option": "Maze of the Minotaur Map",
+            "discriminator": "warfortheatlas"
+          },
+          "stats": [
+            {
+              "type": "and",
+              "filters": [],
+              "disabled": true
+            }
+          ],
+          "filters": {
+            "trade_filters": {
+              "filters": {
+                "indexed": {
+                  "option": "3days"
+                },
+                "collapse": {
+                  "option": "true"
+                }
+              },
+              "disabled": false
+            }
+          }
+        },
+        "sort": {
+          "price": "asc"
+        }
+      },
+      "Pit of the Chimera Map": {
+        "query": {
+          "status": {
+            "option": "online"
+          },
+          "type": {
+            "option": "Pit of the Chimera Map",
+            "discriminator": "warfortheatlas"
+          },
+          "stats": [
+            {
+              "type": "and",
+              "filters": [],
+              "disabled": true
+            }
+          ],
+          "filters": {
+            "trade_filters": {
+              "filters": {
+                "indexed": {
+                  "option": "3days"
+                },
+                "collapse": {
+                  "option": "true"
+                }
+              },
+              "disabled": false
+            }
+          }
+        },
+        "sort": {
+          "price": "asc"
+        }
+      }
+    }
+  },
+  "Elder Guardian Map": {
+    "drop_chance": 0.15,
+    "components": {
+      "The Eradicator Map": {
+        "query": {
+          "status": {
+            "option": "online"
+          },
+          "stats": [
+            {
+              "type": "and",
+              "filters": [
+                {
+                  "id": "implicit.stat_3624393862",
+                  "value": {
+                    "option": 2
+                  },
+                  "disabled": false
+                }
+              ],
+              "disabled": false
+            }
+          ],
+          "filters": {
+            "trade_filters": {
+              "filters": {
+                "indexed": {
+                  "option": "3days"
+                },
+                "collapse": {
+                  "option": "true"
+                }
+              },
+              "disabled": false
+            }
+          }
+        },
+        "sort": {
+          "price": "asc"
+        }
+      },
+      "The Constrictor Map": {
+        "query": {
+          "status": {
+            "option": "online"
+          },
+          "stats": [
+            {
+              "type": "and",
+              "filters": [
+                {
+                  "id": "implicit.stat_3624393862",
+                  "value": {
+                    "option": 3
+                  },
+                  "disabled": false
+                }
+              ],
+              "disabled": false
+            }
+          ],
+          "filters": {
+            "trade_filters": {
+              "filters": {
+                "indexed": {
+                  "option": "3days"
+                },
+                "collapse": {
+                  "option": "true"
+                }
+              },
+              "disabled": false
+            }
+          }
+        },
+        "sort": {
+          "price": "asc"
+        }
+      },
+      "The Purifier Map": {
+        "query": {
+          "status": {
+            "option": "online"
+          },
+          "stats": [
+            {
+              "type": "and",
+              "filters": [
+                {
+                  "id": "implicit.stat_3624393862",
+                  "value": {
+                    "option": 4
+                  },
+                  "disabled": false
+                }
+              ],
+              "disabled": false
+            }
+          ],
+          "filters": {
+            "trade_filters": {
+              "filters": {
+                "indexed": {
+                  "option": "3days"
+                },
+                "collapse": {
+                  "option": "true"
+                }
+              },
+              "disabled": false
+            }
+          }
+        },
+        "sort": {
+          "price": "asc"
+        }
+      },
+      "The Enslaver Map": {
+        "query": {
+          "status": {
+            "option": "online"
+          },
+          "stats": [
+            {
+              "type": "and",
+              "filters": [
+                {
+                  "id": "implicit.stat_3624393862",
+                  "value": {
+                    "option": 1
+                  },
+                  "disabled": false
+                }
+              ],
+              "disabled": false
+            }
+          ],
+          "filters": {
+            "trade_filters": {
+              "filters": {
+                "indexed": {
+                  "option": "3days"
+                },
+                "collapse": {
+                  "option": "true"
+                }
+              },
+              "disabled": false
+            }
+          }
+        },
+        "sort": {
+          "price": "asc"
+        }
+      }
+    }
+  },
+  "Sirus Conqueror Map": {
+    "drop_chance": 0.10,
+    "components": {
+      "Al-Hezmin, the Hunter": {
+        "query": {
+          "status": {
+            "option": "online"
+          },
+          "stats": [
+            {
+              "type": "and",
+              "filters": [
+                {
+                  "id": "implicit.stat_2563183002",
+                  "value": {
+                    "option": 3
+                  },
+                  "disabled": false
+                }
+              ],
+              "disabled": false
+            }
+          ],
+          "filters": {
+            "trade_filters": {
+              "filters": {
+                "indexed": {
+                  "option": "3days"
+                },
+                "collapse": {
+                  "option": "true"
+                }
+              },
+              "disabled": false
+            }
+          }
+        },
+        "sort": {
+          "price": "asc"
+        }
+      },
+      "Baran, the Crusader": {
+        "query": {
+          "status": {
+            "option": "online"
+          },
+          "stats": [
+            {
+              "type": "and",
+              "filters": [
+                {
+                  "id": "implicit.stat_2563183002",
+                  "value": {
+                    "option": 1
+                  },
+                  "disabled": false
+                }
+              ],
+              "disabled": false
+            }
+          ],
+          "filters": {
+            "trade_filters": {
+              "filters": {
+                "indexed": {
+                  "option": "3days"
+                },
+                "collapse": {
+                  "option": "true"
+                }
+              },
+              "disabled": false
+            }
+          }
+        },
+        "sort": {
+          "price": "asc"
+        }
+      },
+      "Drox, the Warlord": {
+        "query": {
+          "status": {
+            "option": "online"
+          },
+          "stats": [
+            {
+              "type": "and",
+              "filters": [
+                {
+                  "id": "implicit.stat_2563183002",
+                  "disabled": false,
+                  "value": {
+                    "option": 4
+                  }
+                }
+              ],
+              "disabled": false
+            }
+          ],
+          "filters": {
+            "trade_filters": {
+              "filters": {
+                "indexed": {
+                  "option": "3days"
+                },
+                "collapse": {
+                  "option": "true"
+                }
+              },
+              "disabled": false
+            }
+          }
+        },
+        "sort": {
+          "price": "asc"
+        }
+      },
+      "Veritania, the Redeemer": {
+        "query": {
+          "status": {
+            "option": "online"
+          },
+          "stats": [
+            {
+              "type": "and",
+              "filters": [
+                {
+                  "id": "implicit.stat_2563183002",
+                  "value": {
+                    "option": 2
+                  },
+                  "disabled": false
+                }
+              ],
+              "disabled": false
+            }
+          ],
+          "filters": {
+            "trade_filters": {
+              "filters": {
+                "indexed": {
+                  "option": "3days"
+                },
+                "collapse": {
+                  "option": "true"
+                }
+              },
+              "disabled": false
+            }
+          }
+        },
+        "sort": {
+          "price": "asc"
+        }
+      }
+    }
+  }
+}
