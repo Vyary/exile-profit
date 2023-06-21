@@ -54,7 +54,7 @@ class Controller:
         save_manager: SaveData,
         sheet: SheetUpdater,
     ):
-        with open("src/queries/divination_cards_queries.json", "r") as f:
+        with open("src/queries/divination_cards.json", "r") as f:
             divination_cards_queries = json.load(f)
 
         div_info = div_card_creator.div_cards_info(divination_cards_queries)
@@ -81,10 +81,20 @@ class Controller:
         save_manager.save_dict_to_csv("the_formed.csv", the_formed_info)
         sheet.update("The Formed", "output/the_formed.csv")
 
+    def update_shaper(
+        self, boss_check: BossChecker, save_manager: SaveData, sheet: SheetUpdater
+    ):
+        with open("src/queries/shaper.json", "r") as file:
+            shaper = json.load(file)
+
+        shaper_info = boss_check.get_boss_info(shaper)
+        save_manager.save_dict_to_csv("shaper.csv", shaper_info)
+        sheet.update("Shaper", "output/shaper.csv")
+
     def update_uber_maven(
         self, boss_check: BossChecker, save_manager: SaveData, sheet: SheetUpdater
     ):
-        with open("src/queries/uber_maven_queries.json", "r") as file:
+        with open("src/queries/uber_maven.json", "r") as file:
             uber_maven_queries = json.load(file)
 
         uber_maven_info = boss_check.get_boss_info(uber_maven_queries)
@@ -94,7 +104,7 @@ class Controller:
     def update_uber_sirus(
         self, boss_check: BossChecker, save_manager: SaveData, sheet: SheetUpdater
     ):
-        with open("src/queries/uber_sirus_queries.json", "r") as file:
+        with open("src/queries/uber_sirus.json", "r") as file:
             uber_sirus_queries = json.load(file)
 
         uber_sirus_info = boss_check.get_boss_info(uber_sirus_queries)
@@ -178,6 +188,7 @@ class Controller:
         self.update_uber_maven(boss_check, save_manager, sheet)
         self.update_the_twisted(boss_check, save_manager, sheet)
         self.update_the_formed(boss_check, save_manager, sheet)
+        self.update_shaper(boss_check, save_manager, sheet)
         # Update Currency Flipping
         self.update_currency_flipping(currency_prices, save_manager, sheet)
 

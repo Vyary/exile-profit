@@ -1,0 +1,391 @@
+{
+  "Fragment of the Hydra": {
+    "drop_chance": "",
+    "components": {
+      "Fragment of the Hydra": {
+        "query": {
+          "status": { "option": "online" },
+          "type": "Fragment of the Hydra",
+          "stats": [{ "type": "and", "filters": [] }],
+          "filters": {
+            "trade_filters": {
+              "disabled": false,
+              "filters": {
+                "collapse": { "option": "true" },
+                "indexed": { "option": "3days" }
+              }
+            }
+          }
+        },
+        "sort": { "price": "asc" }
+      }
+    }
+  },
+  "Fragment of the Chimera": {
+    "drop_chance": "",
+    "components": {
+      "Fragment of the Chimera": {
+        "query": {
+          "status": { "option": "online" },
+          "type": "Fragment of the Chimera",
+          "stats": [{ "type": "and", "filters": [] }],
+          "filters": {
+            "trade_filters": {
+              "disabled": false,
+              "filters": {
+                "collapse": { "option": "true" },
+                "indexed": { "option": "3days" }
+              }
+            }
+          }
+        },
+        "sort": { "price": "asc" }
+      }
+    }
+  },
+  "Fragment of the Phoenix": {
+    "drop_chance": "",
+    "components": {
+      "Fragment of the Phoenix": {
+        "query": {
+          "status": { "option": "online" },
+          "type": "Fragment of the Phoenix",
+          "stats": [{ "type": "and", "filters": [] }],
+          "filters": {
+            "trade_filters": {
+              "disabled": false,
+              "filters": {
+                "collapse": { "option": "true" },
+                "indexed": { "option": "3days" }
+              }
+            }
+          }
+        },
+        "sort": { "price": "asc" }
+      }
+    }
+  },
+  "Fragment of the Minotaur": {
+    "drop_chance": "",
+    "components": {
+      "Fragment of the Minotaur": {
+        "query": {
+          "status": { "option": "online" },
+          "type": "Fragment of the Minotaur",
+          "stats": [{ "type": "and", "filters": [] }],
+          "filters": {
+            "trade_filters": {
+              "disabled": false,
+              "filters": {
+                "collapse": { "option": "true" },
+                "indexed": { "option": "3days" }
+              }
+            }
+          }
+        },
+        "sort": { "price": "asc" }
+      }
+    }
+  },
+  "Fragment": {
+    "drop_chance": 1,
+    "components": {
+      "Fragment of Knowledge": {
+        "query": {
+          "status": { "option": "online" },
+          "type": "Fragment of Knowledge",
+          "stats": [{ "type": "and", "filters": [] }],
+          "filters": {
+            "trade_filters": {
+              "disabled": false,
+              "filters": {
+                "collapse": { "option": "true" },
+                "indexed": { "option": "3days" }
+              }
+            }
+          }
+        },
+        "sort": { "price": "asc" }
+      },
+      "Fragment of Shape": {
+        "query": {
+          "status": { "option": "online" },
+          "type": "Fragment of Shape",
+          "stats": [{ "type": "and", "filters": [] }],
+          "filters": {
+            "trade_filters": {
+              "disabled": false,
+              "filters": {
+                "collapse": { "option": "true" },
+                "indexed": { "option": "3days" }
+              }
+            }
+          }
+        },
+        "sort": { "price": "asc" }
+      }
+    }
+  },
+  "Shaper's Touch": {
+    "drop_chance": 0.5,
+    "components": {
+      "Shaper's Touch": {
+        "query": {
+          "status": { "option": "online" },
+          "name": "Shaper's Touch",
+          "type": "Crusader Gloves",
+          "stats": [{ "type": "and", "filters": [] }],
+          "filters": {
+            "trade_filters": {
+              "disabled": false,
+              "filters": {
+                "collapse": { "option": "true" },
+                "indexed": { "option": "3days" }
+              }
+            }
+          }
+        },
+        "sort": { "price": "asc" }
+      }
+    }
+  },
+  "Voidwalker": {
+    "drop_chance": 0.2,
+    "components": {
+      "Voidwalker": {
+        "query": {
+          "status": { "option": "online" },
+          "name": "Voidwalker",
+          "type": "Murder Boots",
+          "stats": [{ "type": "and", "filters": [] }],
+          "filters": {
+            "trade_filters": {
+              "disabled": false,
+              "filters": {
+                "collapse": { "option": "true" },
+                "indexed": { "option": "3days" }
+              }
+            }
+          }
+        },
+        "sort": { "price": "asc" }
+      }
+    }
+  },
+  "Maven's Invitation: The Feared": {
+    "drop_chance": 0.195,
+    "components": {
+      "Maven's Invitation: The Feared": {
+        "query": {
+          "status": { "option": "online" },
+          "type": "Maven's Invitation: The Feared",
+          "stats": [{ "type": "and", "filters": [] }],
+          "filters": {
+            "trade_filters": {
+              "disabled": false,
+              "filters": {
+                "collapse": { "option": "true" },
+                "indexed": { "option": "3days" }
+              }
+            }
+          }
+        },
+        "sort": { "price": "asc" }
+      }
+    }
+  },
+  "Dying Sun": {
+    "drop_chance": 0.15,
+    "components": {
+      "Dying Sun": {
+        "query": {
+          "status": { "option": "online" },
+          "name": "Dying Sun",
+          "type": "Ruby Flask",
+          "stats": [{ "type": "and", "filters": [] }],
+          "filters": {
+            "trade_filters": {
+              "disabled": false,
+              "filters": {
+                "collapse": { "option": "true" },
+                "indexed": { "option": "3days" }
+              }
+            }
+          }
+        },
+        "sort": { "price": "asc" }
+      }
+    }
+  },
+  "Echoes of Creation": {
+    "drop_chance": 0.1,
+    "components": {
+      "Echoes of Creation": {
+        "query": {
+          "status": { "option": "online" },
+          "name": "Echoes of Creation",
+          "type": "Royal Burgonet",
+          "stats": [{ "type": "and", "filters": [] }],
+          "filters": {
+            "trade_filters": {
+              "disabled": false,
+              "filters": {
+                "collapse": { "option": "true" },
+                "indexed": { "option": "3days" }
+              }
+            }
+          }
+        },
+        "sort": { "price": "asc" }
+      }
+    }
+  },
+  "Solstice Vigil": {
+    "drop_chance": 0.04,
+    "components": {
+      "Solstice Vigil": {
+        "query": {
+          "status": { "option": "online" },
+          "name": "Solstice Vigil",
+          "type": "Onyx Amulet",
+          "stats": [{ "type": "and", "filters": [] }],
+          "filters": {
+            "trade_filters": {
+              "disabled": false,
+              "filters": {
+                "collapse": { "option": "true" },
+                "indexed": { "option": "3days" }
+              }
+            }
+          }
+        },
+        "sort": { "price": "asc" }
+      }
+    }
+  },
+  "Orb of Dominance": {
+    "drop_chance": 0.03,
+    "components": {
+      "Orb of Dominance": {
+        "query": {
+          "status": { "option": "online" },
+          "type": "Orb of Dominance",
+          "stats": [{ "type": "and", "filters": [] }],
+          "filters": {
+            "trade_filters": {
+              "disabled": false,
+              "filters": {
+                "collapse": { "option": "true" },
+                "indexed": { "option": "3days" }
+              }
+            }
+          }
+        },
+        "sort": { "price": "asc" }
+      }
+    }
+  },
+  "Starforge": {
+    "drop_chance": 0.01,
+    "components": {
+      "Starforge": {
+        "query": {
+          "status": { "option": "online" },
+          "name": "Starforge",
+          "type": "Infernal Sword",
+          "stats": [{ "type": "and", "filters": [] }],
+          "filters": {
+            "trade_filters": {
+              "disabled": false,
+              "filters": {
+                "collapse": { "option": "true" },
+                "indexed": { "option": "3days" }
+              }
+            }
+          }
+        },
+        "sort": { "price": "asc" }
+      }
+    }
+  },
+  "Sublime Vision": {
+    "drop_chance": 0.04,
+    "components": {
+      "Sublime Vision": {
+        "query": {
+          "status": { "option": "any" },
+          "name": "Sublime Vision",
+          "type": "Prismatic Jewel",
+          "stats": [{ "type": "and", "filters": [] }],
+          "filters": {
+            "misc_filters": {
+              "disabled": false,
+              "filters": { "identified": { "option": "false" } }
+            },
+            "trade_filters": {
+              "disabled": false,
+              "filters": {
+                "collapse": { "option": "true" },
+                "indexed": { "option": "3days" }
+              }
+            }
+          }
+        },
+        "sort": { "price": "asc" }
+      }
+    }
+  },
+  "Entropic Devastation": {
+    "drop_chance": 0.015,
+    "components": {
+      "Entropic Devastation": {
+        "query": {
+          "status": { "option": "online" },
+          "name": "Entropic Devastation",
+          "type": "Assassin's Mitts",
+          "stats": [{ "type": "and", "filters": [] }],
+          "filters": {
+            "misc_filters": {
+              "disabled": true,
+              "filters": { "identified": { "option": "false" } }
+            },
+            "trade_filters": {
+              "disabled": false,
+              "filters": {
+                "collapse": { "option": "true" },
+                "indexed": { "option": "3days" }
+              }
+            }
+          }
+        },
+        "sort": { "price": "asc" }
+      }
+    }
+  },
+  "Cosmic Reliquary Key": {
+    "drop_chance": 0.01,
+    "components": {
+      "Cosmic Reliquary Key": {
+        "query": {
+          "status": { "option": "online" },
+          "type": "Cosmic Reliquary Key",
+          "stats": [{ "type": "and", "filters": [] }],
+          "filters": {
+            "misc_filters": {
+              "disabled": true,
+              "filters": { "identified": { "option": "false" } }
+            },
+            "trade_filters": {
+              "disabled": false,
+              "filters": {
+                "collapse": { "option": "true" },
+                "indexed": { "option": "3days" }
+              }
+            }
+          }
+        },
+        "sort": { "price": "asc" }
+      }
+    }
+  }
+}
