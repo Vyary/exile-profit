@@ -3221,7 +3221,111 @@
       }
     },
     "components": {
-      "Exceptional Gem": {}
+      "Enhance Support": {
+        "query": {
+          "status": {
+            "option": "online"
+          },
+          "type": "Enhance Support",
+          "stats": [
+            {
+              "type": "and",
+              "filters": []
+            }
+          ],
+          "filters": {
+            "misc_filters": {
+              "filters": {
+                "gem_alternate_quality": {
+                  "option": "0"
+                },
+                "quality": {
+                  "min": "0"
+                },
+                "gem_level": {
+                  "min": "0"
+                },
+                "corrupted": {
+                  "option": "false"
+                }
+              }
+            }
+          }
+        },
+        "sort": {
+          "price": "asc"
+        }
+      },
+      "Empower Support": {
+        "query": {
+          "status": {
+            "option": "online"
+          },
+          "type": "Empower Support",
+          "stats": [
+            {
+              "type": "and",
+              "filters": []
+            }
+          ],
+          "filters": {
+            "misc_filters": {
+              "filters": {
+                "gem_alternate_quality": {
+                  "option": "0"
+                },
+                "quality": {
+                  "min": "0"
+                },
+                "gem_level": {
+                  "min": "0"
+                },
+                "corrupted": {
+                  "option": "false"
+                }
+              }
+            }
+          }
+        },
+        "sort": {
+          "price": "asc"
+        }
+      },
+      "Enlighten Support": {
+        "query": {
+          "status": {
+            "option": "online"
+          },
+          "type": "Enlighten Support",
+          "stats": [
+            {
+              "type": "and",
+              "filters": []
+            }
+          ],
+          "filters": {
+            "misc_filters": {
+              "filters": {
+                "gem_alternate_quality": {
+                  "option": "0"
+                },
+                "quality": {
+                  "min": "0"
+                },
+                "gem_level": {
+                  "min": "0"
+                },
+                "corrupted": {
+                  "option": "false"
+                }
+              }
+            }
+          }
+        },
+        "sort": {
+          "price": "asc"
+        }
+      }
     }
   },
   "Gemcutter's Promise": {
@@ -6468,7 +6572,7 @@
   },
   "The Avenger": {
     "stack_size": 12,
-    "reward": "Mj\u00c3\u00b6lner | Corrupted",
+    "reward": "Mjölner | Corrupted",
     "div_card_query": {
       "query": {
         "status": {
