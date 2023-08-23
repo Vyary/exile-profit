@@ -2,21 +2,21 @@ name: exile-profit run
 
 on:
   schedule:
-  - cron: "0 */6 * * *"  # every 6-ish hours
+    - cron: "0 */6 * * *" # every 6-ish hours
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-
       - name: checkout repo content
         uses: actions/checkout@v3
 
       - name: setup python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.11' 
-          
+          python-version: "3.11"
+          cache: "pip"
+
       - name: install python packages
         run: |
           pip install -r requirements.txt
@@ -25,22 +25,22 @@ jobs:
         id: create-json-1
         uses: jsdaniell/create-json@v1.2.1
         with:
-          name: 'service_account.json'
+          name: "service_account.json"
           json: ${{ secrets.SERVICE }}
-          dir: 'output/'
+          dir: "output/"
 
       - name: execute controller run
         run: python src/controller.py
-          
+
       - name: commit files
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add -A
           git diff-index --quiet HEAD || (git commit -a -m "Data updated" --allow-empty)
-          
+
       - name: push changes
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.TOKEN }}
-          branch: main 
+          branch: main
