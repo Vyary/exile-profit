@@ -194,17 +194,18 @@
               "type": "and",
               "filters": [
                 {
-                  "id": "enchant.stat_181106230"
+                  "id": "enchant.stat_493747147"
                 },
                 {
                   "id": "enchant.stat_290368246",
                   "value": {
-                    "max": 3,
-                    "min": 3
+                    "min": 3,
+                    "max": 3
                   },
                   "disabled": false
                 }
-              ]
+              ],
+              "disabled": false
             }
           ],
           "filters": {
@@ -239,17 +240,18 @@
               "type": "and",
               "filters": [
                 {
-                  "id": "enchant.stat_181106230"
+                  "id": "enchant.stat_493747147"
                 },
                 {
                   "id": "enchant.stat_290368246",
                   "value": {
-                    "max": 4,
-                    "min": 4
+                    "min": 4,
+                    "max": 4
                   },
                   "disabled": false
                 }
-              ]
+              ],
+              "disabled": false
             }
           ],
           "filters": {
@@ -284,17 +286,18 @@
               "type": "and",
               "filters": [
                 {
-                  "id": "enchant.stat_891263063"
+                  "id": "enchant.stat_3844573517"
                 },
                 {
                   "id": "enchant.stat_290368246",
                   "value": {
-                    "max": 3,
-                    "min": 3
+                    "min": 3,
+                    "max": 3
                   },
                   "disabled": false
                 }
-              ]
+              ],
+              "disabled": false
             }
           ],
           "filters": {
@@ -329,17 +332,18 @@
               "type": "and",
               "filters": [
                 {
-                  "id": "enchant.stat_891263063"
+                  "id": "enchant.stat_3844573517"
                 },
                 {
                   "id": "enchant.stat_290368246",
                   "value": {
-                    "max": 4,
-                    "min": 4
+                    "min": 4,
+                    "max": 4
                   },
                   "disabled": false
                 }
-              ]
+              ],
+              "disabled": false
             }
           ],
           "filters": {
@@ -374,17 +378,18 @@
               "type": "and",
               "filters": [
                 {
-                  "id": "enchant.stat_3457098703"
+                  "id": "enchant.stat_3903190985"
                 },
                 {
                   "id": "enchant.stat_290368246",
                   "value": {
-                    "max": 3,
-                    "min": 3
+                    "min": 3,
+                    "max": 3
                   },
                   "disabled": false
                 }
-              ]
+              ],
+              "disabled": false
             }
           ],
           "filters": {
@@ -419,17 +424,18 @@
               "type": "and",
               "filters": [
                 {
-                  "id": "enchant.stat_3457098703"
+                  "id": "enchant.stat_3903190985"
                 },
                 {
                   "id": "enchant.stat_290368246",
                   "value": {
-                    "max": 4,
-                    "min": 4
+                    "min": 4,
+                    "max": 4
                   },
                   "disabled": false
                 }
-              ]
+              ],
+              "disabled": false
             }
           ],
           "filters": {
