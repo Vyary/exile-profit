@@ -656,7 +656,7 @@
     }
   },
   "Maven's Invitation: The Formed Drop": {
-    "drop_chance": 0.175,
+    "drop_chance": 0.075,
     "components": {
       "Maven's Invitation: The Formed": {
         "query": {

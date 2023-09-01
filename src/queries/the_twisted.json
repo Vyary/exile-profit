@@ -373,7 +373,7 @@
     }
   },
   "Maven's Invitation: The Twisted Drop": {
-    "drop_chance": 0.70,
+    "drop_chance": 0.075,
     "components": {
       "Maven's Invitation: The Twisted": {
         "query": {
@@ -777,7 +777,7 @@
     }
   },
   "Sirus Conqueror Map": {
-    "drop_chance": 0.10,
+    "drop_chance": 0.1,
     "components": {
       "Al-Hezmin, the Hunter": {
         "query": {
