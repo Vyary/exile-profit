@@ -23,7 +23,7 @@ class GemBuilder:
             price = self.gem_data[name]["chaosValue"]
             return price
 
-        return 0
+        # return 0
         gem_info = self.price_checker.get_item_price(query)
         price = gem_info[0]
 
