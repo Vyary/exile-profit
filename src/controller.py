@@ -192,9 +192,9 @@ class Controller:
         self.update_shaper(boss_check, save_manager, sheet)
         # Update Currency Flipping
         self.update_currency_flipping(currency_prices, save_manager, sheet)
-        # Mongodb test
-        mongo = MongoDB(price_checker)
-        mongo.connect()
+        # # Mongodb test
+        # mongo = MongoDB(price_checker)
+        # mongo.connect()
 
 
 
