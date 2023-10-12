@@ -71,6 +71,5 @@ class MongoDB:
         result = collection_div_prices.insert_one(document)
         
         print(f"Inserted document with ID: {result.inserted_id}")
-        break
 
     client.close()
