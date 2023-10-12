@@ -1,7 +1,6 @@
 name: exile-profit run
 
 on: push
-
 # on:
 #   schedule:
 #     - cron: "0 */6 * * *" # every 6-ish hours
