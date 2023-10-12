@@ -5,8 +5,8 @@ import os
 from tqdm import tqdm
 
 class MongoDB:
-  def __init__(self, poe_trade: PoeTrade):
-      self.poe_trade = poe_trade
+  def __init__(self, price_checker: PoeTrade):
+      self.poe_trade = price_checker
 
   def connect(self):
     account = os.getenv('DB_ACCOUNT')
@@ -56,7 +56,7 @@ class MongoDB:
             "sort": {"price": "asc"},
         }
 
-        average_price, total_listed = self.poe_trade.get_item_price(self.poe_trade, query)
+        average_price, total_listed = self.poe_trade.get_item_price(query)
 
         # Create a document to insert
         document = {
@@ -71,5 +71,6 @@ class MongoDB:
         result = collection_div_prices.insert_one(document)
         
         print(f"Inserted document with ID: {result.inserted_id}")
+        break
 
     client.close()

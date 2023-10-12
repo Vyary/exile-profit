@@ -193,7 +193,7 @@ class Controller:
         # Update Currency Flipping
         self.update_currency_flipping(currency_prices, save_manager, sheet)
         # Mongodb test
-        mongo = MongoDB(PoeTrade)
+        mongo = MongoDB(price_checker)
         mongo.connect()
 
 
