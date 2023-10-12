@@ -56,7 +56,7 @@ class MongoDB:
             "sort": {"price": "asc"},
         }
 
-        average_price, total_listed = self.poe_trade.get_item_price(query)
+        average_price, total_listed = self.poe_trade.get_item_price(self.poe_trade, query)
 
         # Create a document to insert
         document = {
