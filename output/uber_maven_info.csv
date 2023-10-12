@@ -7,15 +7,15 @@ Viridi's Veil,0.2,10.0
 Arn's Anguish,0.12,20.0
 Graven's Secret,0.12,5.0
 Olesya's Delight,0.12,5.0
-Impossible Escape,0.06,30.0
+Impossible Escape,0.06,33.9
 The Doppelganger,0.02,1.0
 Auspicious Ambitions,0.02,4.0
 Progenesis,0.015,9164.22
-Shiny Reliquary Key,0.01,699.0
+Shiny Reliquary Key,0.01,698.76234
 Echoforge,0.01,40.0
-Awakened Empower Support,0.004,17059.55
-Awakened Enhance Support,0.004,7237.38
-Awakened Enlighten Support,0.002,23967.96
+Awakened Empower Support,0.004,16918.56
+Awakened Enhance Support,0.004,7284.38
+Awakened Enlighten Support,0.002,24061.95
 Awakened Added Chaos Damage Support,0.0096,5.0
 Awakened Added Lightning Damage Support,0.0096,10.0
 Awakened Controlled Destruction Support,0.0096,7.0
@@ -24,10 +24,10 @@ Awakened Increased Area of Effect Support,0.0078,328.97
 Awakened Lightning Penetration Support,0.0078,10.0
 Awakened Minion Damage Support,0.0078,15.0
 Awakened Unbound Ailments Support,0.0078,50.0
-Awakened Blasphemy Support,0.0042,33.0
+Awakened Blasphemy Support,0.0042,35.0
 Awakened Cast While Channelling Support,0.0042,25.0
-Awakened Hextouch Support,0.0042,19.4
-Awakened Spell Echo Support,0.0042,3759.68
+Awakened Hextouch Support,0.0042,20.0
+Awakened Spell Echo Support,0.0042,3769.08
 Awakened Spell Cascade Support,0.0042,3759.68
 Awakened Unleash Support,0.0024,469.96
 Awakened Added Cold Damage Support,0.0096,20.0
@@ -41,7 +41,7 @@ Awakened Chain Support,0.0042,328.97
 Awakened Fork Support,0.0042,469.96
 Awakened Greater Multiple Projectiles Support,0.0042,4699.6
 Awakened Arrow Nova Support,0.0024,80.0
-Awakened Burning Damage Support,0.0096,21.3
+Awakened Burning Damage Support,0.0096,24.0
 Awakened Brutality Support,0.0096,19.0
 Awakened Melee Physical Damage Support,0.0096,20.0
 Awakened Melee Splash Support,0.0096,5.0
@@ -50,4 +50,4 @@ Awakened Elemental Damage with Attacks Support,0.0078,469.96
 Awakened Fire Penetration Support,0.0078,5.0
 Awakened Ancestral Call Support,0.0042,20.0
 Awakened Generosity Support,0.0042,85.0
-Awakened Multistrike Support,0.0024,10104.14
+Awakened Multistrike Support,0.0024,9363.95
