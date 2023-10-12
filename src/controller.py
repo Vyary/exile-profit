@@ -20,6 +20,7 @@ from poe_trade.poe_trade import (
 )
 from save_data.save_data import SaveData
 from storages.item_storage import ItemStorage
+from mongodb.update_div_card_prices import MongoDB
 
 
 class Controller:
@@ -191,6 +192,10 @@ class Controller:
         self.update_shaper(boss_check, save_manager, sheet)
         # Update Currency Flipping
         self.update_currency_flipping(currency_prices, save_manager, sheet)
+        # Mongodb test
+        mongo = MongoDB(PoeTrade)
+        mongo.connect()
+
 
 
 def main():
