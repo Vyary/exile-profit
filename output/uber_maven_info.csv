@@ -11,12 +11,12 @@ Impossible Escape,0.06,30.0
 The Doppelganger,0.02,1.0
 Auspicious Ambitions,0.02,5.0
 Progenesis,0.015,9116.2
-Shiny Reliquary Key,0.01,926.4
-Echoforge,0.01,70.0
+Shiny Reliquary Key,0.01,916.8
+Echoforge,0.01,66.5
 Awakened Empower Support,0.004,16793.0
-Awakened Enhance Support,0.004,7895.11
+Awakened Enhance Support,0.004,7916.7
 Awakened Enlighten Support,0.002,27348.6
-Awakened Added Chaos Damage Support,0.0096,6.0
+Awakened Added Chaos Damage Support,0.0096,5.0
 Awakened Added Lightning Damage Support,0.0096,10.0
 Awakened Controlled Destruction Support,0.0096,8.0
 Awakened Elemental Focus Support,0.0096,80.0
@@ -26,9 +26,9 @@ Awakened Minion Damage Support,0.0078,20.0
 Awakened Unbound Ailments Support,0.0078,50.0
 Awakened Blasphemy Support,0.0042,39.0
 Awakened Cast While Channelling Support,0.0042,25.0
-Awakened Hextouch Support,0.0042,19.99
-Awakened Spell Echo Support,0.0042,3574.51
-Awakened Spell Cascade Support,0.0042,3598.5
+Awakened Hextouch Support,0.0042,20.0
+Awakened Spell Echo Support,0.0042,3555.32
+Awakened Spell Cascade Support,0.0042,3588.9
 Awakened Unleash Support,0.0024,959.6
 Awakened Added Cold Damage Support,0.0096,20.0
 Awakened Swift Affliction Support,0.0096,35.0
@@ -36,11 +36,11 @@ Awakened Vicious Projectiles Support,0.0096,30.0
 Awakened Cast On Critical Strike Support,0.0078,99.0
 Awakened Cold Penetration Support,0.0078,10.0
 Awakened Deadly Ailments Support,0.0078,15.0
-Awakened Void Manipulation Support,0.0078,79.2
+Awakened Void Manipulation Support,0.0078,79.0
 Awakened Chain Support,0.0042,239.9
 Awakened Fork Support,0.0042,959.6
 Awakened Greater Multiple Projectiles Support,0.0042,4798.0
-Awakened Arrow Nova Support,0.0024,79.5
+Awakened Arrow Nova Support,0.0024,79.2
 Awakened Burning Damage Support,0.0096,20.0
 Awakened Brutality Support,0.0096,20.0
 Awakened Melee Physical Damage Support,0.0096,20.0
@@ -50,4 +50,4 @@ Awakened Elemental Damage with Attacks Support,0.0078,431.82
 Awakened Fire Penetration Support,0.0078,5.0
 Awakened Ancestral Call Support,0.0042,10.0
 Awakened Generosity Support,0.0042,80.0
-Awakened Multistrike Support,0.0024,11719.12
+Awakened Multistrike Support,0.0024,11563.18
