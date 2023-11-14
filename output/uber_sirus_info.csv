@@ -10,13 +10,13 @@ The Burden of Truth,0.1,5.0
 Orb of Dominance,0.065,336.0
 A Fate Worse Than Death,0.05,60.0
 Oriath's End,0.015,2398.8
-Oubliette Reliquary Key,0.004,720.0
+Oubliette Reliquary Key,0.004,960.0
 The Saviour,0.003,239.88
 Thread of Hope - Small,0.045,25.0
 Thread of Hope - Medium,0.045,31.5
-Thread of Hope - Large,0.045,190.0
-Thread of Hope - Very Large,0.045,38.5
-Thread of Hope - Massive,0.02,4608.0
+Thread of Hope - Large,0.045,199.0
+Thread of Hope - Very Large,0.045,41.2
+Thread of Hope - Massive,0.02,4704.0
 Awakened Added Chaos Damage Support,0.008,10.0
 Awakened Added Lightning Damage Support,0.008,15.0
 Awakened Controlled Destruction Support,0.008,10.0
@@ -25,10 +25,10 @@ Awakened Increased Area of Effect Support,0.0065,311.84
 Awakened Lightning Penetration Support,0.0065,10.0
 Awakened Minion Damage Support,0.0065,20.0
 Awakened Unbound Ailments Support,0.0065,50.0
-Awakened Blasphemy Support,0.0035,30.8
+Awakened Blasphemy Support,0.0035,30.0
 Awakened Cast While Channelling Support,0.0035,25.0
 Awakened Hextouch Support,0.0035,20.0
-Awakened Spell Echo Support,0.0035,3166.42
+Awakened Spell Echo Support,0.0035,3262.37
 Awakened Spell Cascade Support,0.0035,3118.44
 Awakened Unleash Support,0.002,897.15
 Awakened Added Cold Damage Support,0.008,20.0
@@ -37,7 +37,7 @@ Awakened Vicious Projectiles Support,0.008,28.0
 Awakened Cast On Critical Strike Support,0.0065,90.0
 Awakened Cold Penetration Support,0.0065,10.0
 Awakened Deadly Ailments Support,0.0065,15.0
-Awakened Void Manipulation Support,0.0065,83.5
+Awakened Void Manipulation Support,0.0065,83.0
 Awakened Chain Support,0.0035,239.88
 Awakened Fork Support,0.0035,376.61
 Awakened Greater Multiple Projectiles Support,0.0035,5997.0
@@ -46,7 +46,7 @@ Awakened Burning Damage Support,0.008,20.0
 Awakened Brutality Support,0.008,20.0
 Awakened Melee Physical Damage Support,0.008,20.0
 Awakened Melee Splash Support,0.008,10.0
-Awakened Added Fire Damage Support,0.0065,5.5
+Awakened Added Fire Damage Support,0.0065,5.6
 Awakened Elemental Damage with Attacks Support,0.0065,335.83
 Awakened Fire Penetration Support,0.0065,10.0
 Awakened Ancestral Call Support,0.0035,25.0
