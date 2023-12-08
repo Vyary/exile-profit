@@ -21,6 +21,3 @@ jobs:
 
     - name: Run Python script
       run: python tests/query_tester.py 
-
-    - name: Run Python script
-      run: python tests/query_tester.py
