@@ -1,0 +1,22 @@
+name: Python Hello
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+
+jobs:
+  run-python-script:
+    runs-on: ubuntu-latest  # You can choose a different OS if needed
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.8  # Change this to your desired Python version
+
+    - name: Run Python script
+      run: python ./hello.py
+
