@@ -1,6 +1,6 @@
 from time import sleep
 
-sleep(120)
+sleep(60)
 
 with open("change.txt", "w") as file:
     file.write("asdasd")
