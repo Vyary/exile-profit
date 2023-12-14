@@ -16,7 +16,7 @@ jobs:
 
       - name: Running the Python script
         run: |
-         TEST_VARIABLE=$(change_file.py) 
+         TEST_VARIABLE=$(python change_file.py) 
          echo "YOUR_VARIABLE=${TEST_VARIABLE}" >> $GITHUB_ENV
          echo ${{ env.TEST_VARIABLE }}
 
