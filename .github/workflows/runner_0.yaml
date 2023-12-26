@@ -9,4 +9,4 @@ jobs:
     - name: Make Binary Executable
       run: chmod +x runner_0
     - name: Run Binary
-      run: runner_0
+      run: ./runner_0
