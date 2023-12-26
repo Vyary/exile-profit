@@ -1,0 +1,18 @@
+|
+  name: runner_0
+
+  on: push
+
+  jobs:
+    run_binary:
+      runs-on: ubuntu-latest
+
+      steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Make Binary Executable
+        run: chmod +x tests/main
+
+      - name: Run Binary
+        run: runner_0
