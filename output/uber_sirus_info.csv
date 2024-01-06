@@ -6,17 +6,17 @@ Veritania's Crest,,50.0
 Crown of the Inward Eye,0.4,20.0
 Hands of the High Templar,0.3,30.0
 Awakener's Orb,0.2,71.66595
-The Burden of Truth,0.1,7.2
+The Burden of Truth,0.1,7.0
 Orb of Dominance,0.065,344.0
 A Fate Worse Than Death,0.05,40.0
 Oriath's End,0.015,2608.68
-Oubliette Reliquary Key,0.004,430.0
+Oubliette Reliquary Key,0.004,451.5
 The Saviour,0.003,630.43
-Thread of Hope - Small,0.045,55.8
-Thread of Hope - Medium,0.045,61.7
-Thread of Hope - Large,0.045,425.7
-Thread of Hope - Very Large,0.045,67.0
-Thread of Hope - Massive,0.02,20210.0
+Thread of Hope - Small,0.045,57.5
+Thread of Hope - Medium,0.045,62.6
+Thread of Hope - Large,0.045,430.0
+Thread of Hope - Very Large,0.045,69.0
+Thread of Hope - Massive,0.02,20317.5
 Awakened Added Chaos Damage Support,0.008,10.0
 Awakened Added Lightning Damage Support,0.008,20.0
 Awakened Controlled Destruction Support,0.008,10.0
@@ -24,7 +24,7 @@ Awakened Elemental Focus Support,0.008,60.0
 Awakened Increased Area of Effect Support,0.0065,760.86
 Awakened Lightning Penetration Support,0.0065,40.0
 Awakened Minion Damage Support,0.0065,40.0
-Awakened Unbound Ailments Support,0.0065,456.52
+Awakened Unbound Ailments Support,0.0065,478.26
 Awakened Blasphemy Support,0.0035,35.0
 Awakened Cast While Channelling Support,0.0035,50.0
 Awakened Hextouch Support,0.0035,20.0
@@ -39,9 +39,9 @@ Awakened Cold Penetration Support,0.0065,15.0
 Awakened Deadly Ailments Support,0.0065,100.0
 Awakened Void Manipulation Support,0.0065,170.0
 Awakened Chain Support,0.0035,1630.42
-Awakened Fork Support,0.0035,20586.83
-Awakened Greater Multiple Projectiles Support,0.0035,8912.99
-Awakened Arrow Nova Support,0.002,70.0
+Awakened Fork Support,0.0035,20630.31
+Awakened Greater Multiple Projectiles Support,0.0035,9021.68
+Awakened Arrow Nova Support,0.002,69.0
 Awakened Burning Damage Support,0.008,80.0
 Awakened Brutality Support,0.008,40.0
 Awakened Melee Physical Damage Support,0.008,35.0
@@ -51,4 +51,4 @@ Awakened Elemental Damage with Attacks Support,0.0065,1304.34
 Awakened Fire Penetration Support,0.0065,10.0
 Awakened Ancestral Call Support,0.0035,35.0
 Awakened Generosity Support,0.0035,695.65
-Awakened Multistrike Support,0.002,12173.84
+Awakened Multistrike Support,0.002,12499.92
