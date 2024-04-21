@@ -2,7 +2,7 @@ Name,Drop Rate,Price
 Lair of the Hydra Map,,9.0
 Maze of the Minotaur Map,,9.0
 Forge of the Phoenix Map,,9.0
-Pit of the Chimera Map,,8.3
+Pit of the Chimera Map,,9.0
 Maven's Invitation: The Formed,,0.0
 Shaper Guardians Sextant - 3 Uses,,0.0
 Shaper Guardians Sextant - 4 Uses,,0.0
@@ -12,10 +12,10 @@ Conquerors Sextant - 3 Uses,,0.0
 Conquerors Sextant - 4 Uses,,0.0
 Fragments,1,11.25
 Crescent Splinter,1,10.0
-Orb of Unmaking,0.85,0.81667
+Orb of Unmaking,0.85,0.75
 Maven's Invitation: The Formed Drop,0.075,0.0
 Orb of Conflict,0.25,85.0
-Shaper Guardian Map,0.15,8.825
-Elder Guardian Map,0.15,11.024999999999999
-Sirus Conqueror Map,0.1,12.900000000000002
-Synthesised Maps,0,21.8
+Shaper Guardian Map,0.15,9.0
+Elder Guardian Map,0.15,11.299999999999999
+Sirus Conqueror Map,0.1,17.745
+Synthesised Maps,0,21.18
