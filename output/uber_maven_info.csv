@@ -1,21 +1,21 @@
 Name,Drop Rate,Price
-The Maven's Writ,,98.0
+The Maven's Writ,,95.0
 Elevated Sextant,1.0,0.0
 Orb of Conflict,0.35,110.0
-Legacy of Fury,0.35,5.0
-Viridi's Veil,0.2,19.54
-Arn's Anguish,0.12,25.0
-Graven's Secret,0.12,11.5
+Legacy of Fury,0.35,8.0
+Viridi's Veil,0.2,19.0
+Arn's Anguish,0.12,29.0
+Graven's Secret,0.12,12.0
 Olesya's Delight,0.12,5.0
-Impossible Escape,0.06,28.2
+Impossible Escape,0.06,20.0
 The Doppelganger,0.02,1.0
-Auspicious Ambitions,0.02,278.35
+Auspicious Ambitions,0.02,276.05
 Progenesis,0.015,3105.54
-Shiny Reliquary Key,0.01,523.60011
+Shiny Reliquary Key,0.01,509.66696
 Echoforge,0.01,448.58
-Awakened Empower Support,0.004,16102.8
-Awakened Enhance Support,0.004,9201.6
-Awakened Enlighten Support,0.002,51413.94
+Awakened Empower Support,0.004,15665.72
+Awakened Enhance Support,0.004,9431.64
+Awakened Enlighten Support,0.002,52219.08
 Awakened Added Chaos Damage Support,0.0096,15.0
 Awakened Added Lightning Damage Support,0.0096,20.0
 Awakened Controlled Destruction Support,0.0096,15.0
@@ -27,7 +27,7 @@ Awakened Unbound Ailments Support,0.0078,50.0
 Awakened Blasphemy Support,0.0042,30.0
 Awakened Cast While Channelling Support,0.0042,29.0
 Awakened Hextouch Support,0.0042,15.0
-Awakened Spell Echo Support,0.0042,6786.18
+Awakened Spell Echo Support,0.0042,6901.2
 Awakened Spell Cascade Support,0.0042,115.02
 Awakened Unleash Support,0.0024,60.0
 Awakened Added Cold Damage Support,0.0096,20.0
@@ -36,7 +36,7 @@ Awakened Vicious Projectiles Support,0.0096,10.0
 Awakened Cast On Critical Strike Support,0.0078,50.0
 Awakened Cold Penetration Support,0.0078,10.0
 Awakened Deadly Ailments Support,0.0078,29.0
-Awakened Void Manipulation Support,0.0078,74.7
+Awakened Void Manipulation Support,0.0078,75.0
 Awakened Chain Support,0.0042,60.0
 Awakened Fork Support,0.0042,115.02
 Awakened Greater Multiple Projectiles Support,0.0042,3105.54
@@ -50,4 +50,4 @@ Awakened Elemental Damage with Attacks Support,0.0078,368.06
 Awakened Fire Penetration Support,0.0078,10.0
 Awakened Ancestral Call Support,0.0042,87.0
 Awakened Generosity Support,0.0042,40.0
-Awakened Multistrike Support,0.0024,9742.19
+Awakened Multistrike Support,0.0024,12951.25
