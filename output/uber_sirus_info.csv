@@ -12,9 +12,9 @@ A Fate Worse Than Death,0.05,8.0
 Oriath's End,0.015,130.02
 Oubliette Reliquary Key,0.004,130.0
 The Saviour,0.003,520.08
-Thread of Hope - Small,0.045,34.5
-Thread of Hope - Medium,0.045,50.4
-Thread of Hope - Large,0.045,128.0
+Thread of Hope - Small,0.045,39.2
+Thread of Hope - Medium,0.045,50.6
+Thread of Hope - Large,0.045,129.0
 Thread of Hope - Very Large,0.045,520.0
 Thread of Hope - Massive,0.02,13.0
 Awakened Added Chaos Damage Support,0.008,15.0
@@ -24,8 +24,8 @@ Awakened Elemental Focus Support,0.008,50.0
 Awakened Increased Area of Effect Support,0.0065,585.09
 Awakened Lightning Penetration Support,0.0065,35.0
 Awakened Minion Damage Support,0.0065,20.0
-Awakened Unbound Ailments Support,0.0065,40.5
-Awakened Blasphemy Support,0.0035,33.0
+Awakened Unbound Ailments Support,0.0065,40.0
+Awakened Blasphemy Support,0.0035,33.3
 Awakened Cast While Channelling Support,0.0035,20.0
 Awakened Hextouch Support,0.0035,15.0
 Awakened Spell Echo Support,0.0035,7541.16
@@ -33,14 +33,14 @@ Awakened Spell Cascade Support,0.0035,130.02
 Awakened Unleash Support,0.002,50.0
 Awakened Added Cold Damage Support,0.008,20.0
 Awakened Swift Affliction Support,0.008,50.0
-Awakened Vicious Projectiles Support,0.008,12.0
+Awakened Vicious Projectiles Support,0.008,13.0
 Awakened Cast On Critical Strike Support,0.0065,50.0
 Awakened Cold Penetration Support,0.0065,10.0
 Awakened Deadly Ailments Support,0.0065,25.0
 Awakened Void Manipulation Support,0.0065,75.0
 Awakened Chain Support,0.0035,50.0
 Awakened Fork Support,0.0035,260.04
-Awakened Greater Multiple Projectiles Support,0.0035,4004.62
+Awakened Greater Multiple Projectiles Support,0.0035,3926.6
 Awakened Arrow Nova Support,0.002,18.0
 Awakened Burning Damage Support,0.008,35.0
 Awakened Brutality Support,0.008,25.0
@@ -51,4 +51,4 @@ Awakened Elemental Damage with Attacks Support,0.0065,416.06
 Awakened Fire Penetration Support,0.0065,10.0
 Awakened Ancestral Call Support,0.0035,69.0
 Awakened Generosity Support,0.0035,35.0
-Awakened Multistrike Support,0.002,27824.28
+Awakened Multistrike Support,0.002,28942.45
