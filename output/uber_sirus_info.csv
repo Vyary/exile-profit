@@ -12,11 +12,11 @@ A Fate Worse Than Death,0.05,6.0
 Oriath's End,0.015,100.0
 Oubliette Reliquary Key,0.004,305.42858
 The Saviour,0.003,601.96
-Thread of Hope - Small,0.045,55.9
-Thread of Hope - Medium,0.045,122.36
-Thread of Hope - Large,0.045,291.68
-Thread of Hope - Very Large,0.045,742.19
-Thread of Hope - Massive,0.02,13.5
+Thread of Hope - Small,0.045,53.9
+Thread of Hope - Medium,0.045,111.81
+Thread of Hope - Large,0.045,299.32
+Thread of Hope - Very Large,0.045,755.94
+Thread of Hope - Massive,0.02,13.8
 Awakened Added Chaos Damage Support,0.008,15.0
 Awakened Added Lightning Damage Support,0.008,30.0
 Awakened Controlled Destruction Support,0.008,15.0
@@ -29,7 +29,7 @@ Awakened Blasphemy Support,0.0035,30.0
 Awakened Cast While Channelling Support,0.0035,28.0
 Awakened Hextouch Support,0.0035,19.0
 Awakened Spell Echo Support,0.0035,7524.5
-Awakened Spell Cascade Support,0.0035,276.9
+Awakened Spell Cascade Support,0.0035,270.88
 Awakened Unleash Support,0.002,67.57
 Awakened Added Cold Damage Support,0.008,20.0
 Awakened Swift Affliction Support,0.008,45.0
@@ -38,10 +38,10 @@ Awakened Cast On Critical Strike Support,0.0065,120.0
 Awakened Cold Penetration Support,0.0065,10.0
 Awakened Deadly Ailments Support,0.0065,20.0
 Awakened Void Manipulation Support,0.0065,110.0
-Awakened Chain Support,0.0035,122.0
-Awakened Fork Support,0.0035,747.18
+Awakened Chain Support,0.0035,123.5
+Awakened Fork Support,0.0035,740.41
 Awakened Greater Multiple Projectiles Support,0.0035,4514.7
-Awakened Arrow Nova Support,0.002,26.6
+Awakened Arrow Nova Support,0.002,27.0
 Awakened Burning Damage Support,0.008,35.0
 Awakened Brutality Support,0.008,25.0
 Awakened Melee Physical Damage Support,0.008,40.0
