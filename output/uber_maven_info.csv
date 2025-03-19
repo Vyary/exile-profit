@@ -1,7 +1,7 @@
 Name,Drop Rate,Price
-The Maven's Writ,,189.0
+The Maven's Writ,,189.36
 Elevated Sextant,1.0,0.0
-Orb of Conflict,0.35,210.0
+Orb of Conflict,0.35,210.4
 Legacy of Fury,0.35,15.0
 Viridi's Veil,0.2,40.0
 Arn's Anguish,0.12,40.0
@@ -9,27 +9,27 @@ Graven's Secret,0.12,20.0
 Olesya's Delight,0.12,15.0
 Impossible Escape,0.06,92.0
 The Doppelganger,0.02,0.99
-Auspicious Ambitions,0.02,608.22
-Progenesis,0.015,4512.6
-Shiny Reliquary Key,0.01,1050.0
-Echoforge,0.01,1962.0
-Awakened Empower Support,0.004,825614.95
-Awakened Enhance Support,0.004,29430.0
-Awakened Enlighten Support,0.002,171727.91
+Auspicious Ambitions,0.02,607.54
+Progenesis,0.015,4507.54
+Shiny Reliquary Key,0.01,0.0
+Echoforge,0.01,1959.8
+Awakened Empower Support,0.004,824532.5
+Awakened Enhance Support,0.004,30376.9
+Awakened Enlighten Support,0.002,171502.76
 Awakened Added Chaos Damage Support,0.0096,20.0
 Awakened Added Lightning Damage Support,0.0096,50.0
-Awakened Controlled Destruction Support,0.0096,15.0
-Awakened Elemental Focus Support,0.0096,196.2
-Awakened Increased Area of Effect Support,0.0078,814.23
+Awakened Controlled Destruction Support,0.0096,20.0
+Awakened Elemental Focus Support,0.0096,195.98
+Awakened Increased Area of Effect Support,0.0078,744.72
 Awakened Lightning Penetration Support,0.0078,65.0
 Awakened Minion Damage Support,0.0078,30.0
 Awakened Unbound Ailments Support,0.0078,50.0
 Awakened Blasphemy Support,0.0042,30.0
 Awakened Cast While Channelling Support,0.0042,30.0
-Awakened Hextouch Support,0.0042,30.0
-Awakened Spell Echo Support,0.0042,11575.8
-Awakened Spell Cascade Support,0.0042,196.2
-Awakened Unleash Support,0.0024,196.2
+Awakened Hextouch Support,0.0042,32.0
+Awakened Spell Echo Support,0.0042,11562.82
+Awakened Spell Cascade Support,0.0042,195.98
+Awakened Unleash Support,0.0024,195.98
 Awakened Added Cold Damage Support,0.0096,30.0
 Awakened Swift Affliction Support,0.0096,68.0
 Awakened Vicious Projectiles Support,0.0096,20.0
@@ -38,16 +38,16 @@ Awakened Cold Penetration Support,0.0078,15.0
 Awakened Deadly Ailments Support,0.0078,30.0
 Awakened Void Manipulation Support,0.0078,125.0
 Awakened Chain Support,0.0042,75.0
-Awakened Fork Support,0.0042,470.88
-Awakened Greater Multiple Projectiles Support,0.0042,5395.5
-Awakened Arrow Nova Support,0.0024,26.0
+Awakened Fork Support,0.0042,431.16
+Awakened Greater Multiple Projectiles Support,0.0042,5389.45
+Awakened Arrow Nova Support,0.0024,58.0
 Awakened Burning Damage Support,0.0096,49.0
-Awakened Brutality Support,0.0096,43.5
+Awakened Brutality Support,0.0096,42.5
 Awakened Melee Physical Damage Support,0.0096,60.0
 Awakened Melee Splash Support,0.0096,20.0
-Awakened Added Fire Damage Support,0.0078,20.0
-Awakened Elemental Damage with Attacks Support,0.0078,1047.71
+Awakened Added Fire Damage Support,0.0078,20.2
+Awakened Elemental Damage with Attacks Support,0.0078,1058.29
 Awakened Fire Penetration Support,0.0078,15.0
-Awakened Ancestral Call Support,0.0042,304.74
-Awakened Generosity Support,0.0042,166.96
-Awakened Multistrike Support,0.0024,18207.36
+Awakened Ancestral Call Support,0.0042,705.53
+Awakened Generosity Support,0.0042,181.38
+Awakened Multistrike Support,0.0024,18186.94
