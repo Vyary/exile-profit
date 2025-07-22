@@ -1,22 +1,22 @@
 Name,Drop Rate,Price
 Al-Hezmin's Crest,,20.0
-Baran's Crest,,15.4
-Drox's Crest,,23.71604
-Veritania's Crest,,26.71452
-Crown of the Inward Eye,0.4,45.0
+Baran's Crest,,16.6
+Drox's Crest,,24.47095
+Veritania's Crest,,25.0
+Crown of the Inward Eye,0.4,50.0
 Hands of the High Templar,0.3,20.0
 Awakener's Orb,0.2,922.5
 The Burden of Truth,0.1,5.0
-Orb of Dominance,0.065,1402.2
-A Fate Worse Than Death,0.05,10.0
+Orb of Dominance,0.065,1394.0
+A Fate Worse Than Death,0.05,10.6
 Oriath's End,0.015,411.76
 Oubliette Reliquary Key,0.004,389.5
 The Saviour,0.003,3499.96
-Thread of Hope - Small,0.045,1340.7
+Thread of Hope - Small,0.045,1357.1
 Thread of Hope - Medium,0.045,1318.15
-Thread of Hope - Large,0.045,2242.7
+Thread of Hope - Large,0.045,2195.55
 Thread of Hope - Very Large,0.045,1435.0
-Thread of Hope - Massive,0.02,15.6
+Thread of Hope - Massive,0.02,14.3
 Awakened Added Chaos Damage Support,0.008,25.0
 Awakened Added Lightning Damage Support,0.008,50.0
 Awakened Controlled Destruction Support,0.008,25.0
@@ -29,18 +29,18 @@ Awakened Blasphemy Support,0.0035,40.0
 Awakened Cast While Channelling Support,0.0035,60.0
 Awakened Hextouch Support,0.0035,30.0
 Awakened Spell Echo Support,0.0035,19558.6
-Awakened Spell Cascade Support,0.0035,720.58
+Awakened Spell Cascade Support,0.0035,699.99
 Awakened Unleash Support,0.002,190.0
 Awakened Added Cold Damage Support,0.008,25.0
 Awakened Swift Affliction Support,0.008,90.0
 Awakened Vicious Projectiles Support,0.008,25.0
 Awakened Cast On Critical Strike Support,0.0065,514.7
 Awakened Cold Penetration Support,0.0065,25.0
-Awakened Deadly Ailments Support,0.0065,50.0
+Awakened Deadly Ailments Support,0.0065,49.57
 Awakened Void Manipulation Support,0.0065,205.88
 Awakened Chain Support,0.0035,411.76
 Awakened Fork Support,0.0035,5558.76
-Awakened Greater Multiple Projectiles Support,0.0035,23964.43
+Awakened Greater Multiple Projectiles Support,0.0035,23264.44
 Awakened Arrow Nova Support,0.002,38.0
 Awakened Burning Damage Support,0.008,70.0
 Awakened Brutality Support,0.008,30.0
@@ -51,4 +51,4 @@ Awakened Elemental Damage with Attacks Support,0.0065,1029.4
 Awakened Fire Penetration Support,0.0065,25.0
 Awakened Ancestral Call Support,0.0035,205.88
 Awakened Generosity Support,0.0035,411.76
-Awakened Multistrike Support,0.002,31129.06
+Awakened Multistrike Support,0.002,31005.53
