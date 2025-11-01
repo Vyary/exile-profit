@@ -2,7 +2,7 @@ Name,Drop Rate,Price
 The Maven's Writ,,0.0
 Elevated Sextant,1.0,0.0
 Orb of Conflict,0.35,0.0
-Legacy of Fury,0.35,0.0
+Legacy of Fury,0.35,226.4
 Viridi's Veil,0.2,0.0
 Arn's Anguish,0.12,0.0
 Graven's Secret,0.12,0.0
@@ -16,9 +16,9 @@ Echoforge,0.01,0.0
 Awakened Empower Support,0.004,0.0
 Awakened Enhance Support,0.004,0.0
 Awakened Enlighten Support,0.002,0.0
-Awakened Added Chaos Damage Support,0.0096,0.0
-Awakened Added Lightning Damage Support,0.0096,0.0
-Awakened Controlled Destruction Support,0.0096,0.0
+Awakened Added Chaos Damage Support,0.0096,75.47
+Awakened Added Lightning Damage Support,0.0096,75.47
+Awakened Controlled Destruction Support,0.0096,75.47
 Awakened Elemental Focus Support,0.0096,0.0
 Awakened Increased Area of Effect Support,0.0078,0.0
 Awakened Lightning Penetration Support,0.0078,0.0
@@ -30,8 +30,8 @@ Awakened Hextouch Support,0.0042,0.0
 Awakened Spell Echo Support,0.0042,0.0
 Awakened Spell Cascade Support,0.0042,0.0
 Awakened Unleash Support,0.0024,0.0
-Awakened Added Cold Damage Support,0.0096,0.0
-Awakened Swift Affliction Support,0.0096,0.0
+Awakened Added Cold Damage Support,0.0096,75.47
+Awakened Swift Affliction Support,0.0096,150.9
 Awakened Vicious Projectiles Support,0.0096,0.0
 Awakened Cast On Critical Strike Support,0.0078,0.0
 Awakened Cold Penetration Support,0.0078,0.0
@@ -41,11 +41,11 @@ Awakened Chain Support,0.0042,0.0
 Awakened Fork Support,0.0042,0.0
 Awakened Greater Multiple Projectiles Support,0.0042,0.0
 Awakened Arrow Nova Support,0.0024,0.0
-Awakened Burning Damage Support,0.0096,0.0
+Awakened Burning Damage Support,0.0096,150.9
 Awakened Brutality Support,0.0096,0.0
 Awakened Melee Physical Damage Support,0.0096,0.0
 Awakened Melee Splash Support,0.0096,0.0
-Awakened Added Fire Damage Support,0.0078,0.0
+Awakened Added Fire Damage Support,0.0078,75.47
 Awakened Elemental Damage with Attacks Support,0.0078,0.0
 Awakened Fire Penetration Support,0.0078,0.0
 Awakened Ancestral Call Support,0.0042,0.0
